@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "9afe4cb148638bd6",
+        "id": "09df64ee33dd8e76",
         "type": "tabs",
         "children": [
           {
-            "id": "441f2bee91db2bf6",
+            "id": "fc8ce803e33c34ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Linux/03. How To Set Environment Variable in Bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61b442cc580166fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/04. How To Run a Bash Script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "888784ee3e5ad7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/05. How To Check If File or Directory Exists in Bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3936c2ccfb49ffc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/06. Advanced Bash Scripting Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Linux/06. Advanced Bash Scripting Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Linux/06. Advanced Bash Scripting Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Untitled.md"
+                "file": "Linux/06. Advanced Bash Scripting Guide.md"
               }
             }
           }
@@ -154,8 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "441f2bee91db2bf6",
+  "active": "3936c2ccfb49ffc9",
   "lastOpenFiles": [
+    "Linux/05. How To Check If File or Directory Exists in Bash.md",
+    "Linux/04. How To Run a Bash Script.md",
+    "Linux/03. How To Set Environment Variable in Bash.md",
+    "Linux/02. Bash If Else Syntax with examples.md",
     "Linux/01. Writing Bash Scripts.md",
     "Windows stuff.md"
   ]

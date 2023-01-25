@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/01. Bash/03. How To Set Environment Variable in Bash.md",
+                "file": "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/01. Bash/01. Writing Bash Scripts.md",
+                "file": "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/01. Bash/01. Writing Bash Scripts.md",
+                "file": "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/01. Bash/01. Writing Bash Scripts.md"
+                "file": "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md"
               }
             }
           }
@@ -191,12 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "fc8ce803e33c34ba",
   "lastOpenFiles": [
+    "Linux/01. Bash/03. How To Set Environment Variable in Bash.md",
     "Linux/01. Bash/06. Advanced Bash Scripting Guide.md",
     "Linux/01. Bash/05. How To Check If File or Directory Exists in Bash.md",
     "Linux/01. Bash/04. How To Run a Bash Script.md",
-    "Linux/01. Bash/03. How To Set Environment Variable in Bash.md",
     "Linux/01. Bash/02. Bash If Else Syntax with examples.md",
     "Linux/01. Bash/01. Writing Bash Scripts.md",
     "Windows/Windows stuff.md"

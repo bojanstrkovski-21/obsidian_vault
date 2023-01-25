@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/03. How To Set Environment Variable in Bash.md",
+                "file": "Linux/01. Bash/03. How To Set Environment Variable in Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/04. How To Run a Bash Script.md",
+                "file": "Linux/01. Bash/04. How To Run a Bash Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/05. How To Check If File or Directory Exists in Bash.md",
+                "file": "Linux/01. Bash/05. How To Check If File or Directory Exists in Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/06. Advanced Bash Scripting Guide.md",
+                "file": "Linux/01. Bash/01. Writing Bash Scripts.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/06. Advanced Bash Scripting Guide.md",
+                "file": "Linux/01. Bash/01. Writing Bash Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/06. Advanced Bash Scripting Guide.md",
+                "file": "Linux/01. Bash/01. Writing Bash Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/06. Advanced Bash Scripting Guide.md"
+                "file": "Linux/01. Bash/01. Writing Bash Scripts.md"
               }
             }
           }
@@ -193,11 +193,12 @@
   },
   "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
-    "Linux/05. How To Check If File or Directory Exists in Bash.md",
-    "Linux/04. How To Run a Bash Script.md",
-    "Linux/03. How To Set Environment Variable in Bash.md",
-    "Linux/02. Bash If Else Syntax with examples.md",
-    "Linux/01. Writing Bash Scripts.md",
+    "Linux/01. Bash/06. Advanced Bash Scripting Guide.md",
+    "Linux/01. Bash/05. How To Check If File or Directory Exists in Bash.md",
+    "Linux/01. Bash/04. How To Run a Bash Script.md",
+    "Linux/01. Bash/03. How To Set Environment Variable in Bash.md",
+    "Linux/01. Bash/02. Bash If Else Syntax with examples.md",
+    "Linux/01. Bash/01. Writing Bash Scripts.md",
     "Windows/Windows stuff.md"
   ]
 }

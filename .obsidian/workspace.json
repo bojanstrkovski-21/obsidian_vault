@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35324a0f5eeb54f3",
+        "id": "f6f713a5ab7b7f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "e278e2121393a8fc",
+            "id": "9e15e15efad9199c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e278e2121393a8fc",
+  "active": "9e15e15efad9199c",
   "lastOpenFiles": [
-    "Linux/02. Basics/37. Linux File Permissions Complete Guide – devconnected.md",
-    "Linux/02. Basics/36. Understanding Hard and Soft Links on Linux – devconnected.md",
-    "Linux/02. Basics/35. How To Set Up SSH Keys on Debian 10 Buster – devconnected.md",
-    "Linux/02. Basics/34. How To Add and Delete Users on Debian 10 Buster – devconnected.md",
-    "Linux/02. Basics/33. How To Change User Password on Debian 10 – devconnected.md",
-    "Linux/02. Basics/32. How To Add Swap Space on Debian 10 Buster – devconnected.md",
-    "Linux/02. Basics/31. Input Output Redirection on Linux Explained – devconnected.md",
-    "Linux/02. Basics/30. Find Files and Directories on Linux Easily – devconnected.md",
-    "Linux/02. Basics/29. How To List Users and Groups on Linux – devconnected.md",
-    "Linux/02. Basics/28. Cron Jobs and Crontab on Linux Explained – devconnected.md"
+    "Linux/03. Logging/02. Syslog  The Complete System Administrator Guide – devconnected.md",
+    "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md",
+    "Linux/01. Basics/37. Linux File Permissions Complete Guide – devconnected.md",
+    "Linux/01. Basics/09. How To Check RAM on Linux – devconnected.md",
+    "Linux/01. Basics/08. APT Package Manager on Linux Explained – devconnected.md",
+    "Linux/01. Basics/06. Working Remotely with Linux Systems – devconnected.md",
+    "Linux/01. Basics/04. How To Get Your IP Address on Linux – devconnected.md",
+    "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
+    "Linux/01. Basics/img/Pasted image 20230128080427.png",
+    "Linux/01. Basics/img/Pasted image 20230128080240.png"
   ]
 }

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "60db425923f606c3",
+        "id": "3530602836ca85eb",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7abf92f3f95f29",
+            "id": "06d7f66d052b53b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc7abf92f3f95f29",
+  "active": "06d7f66d052b53b8",
   "lastOpenFiles": [
+    "Linux/05. Tips/15. How To Install and Configure Ubuntu 20.04 with GNOME – devconnected.md",
+    "Linux/05. Tips/14. How To Install and Enable SSH Server on Ubuntu 20.04 – devconnected.md",
+    "Linux/05. Tips/13. How To Add User To Sudoers On Ubuntu 20.04 – devconnected.md",
+    "Linux/05. Tips/12. How To Install Grafana on Ubuntu 20.04 – devconnected.md",
+    "Linux/05. Tips/11. How To Add Swap Space on Ubuntu 20.04 – devconnected.md",
+    "Linux/05. Tips/10. How To Manage Root Account on Ubuntu 20.04 – devconnected.md",
     "Linux/05. Tips/09. How To Setup OpenLDAP Server on Debian 10 – devconnected.md",
     "Linux/05. Tips/08. How To Change Root Password on Debian 10 – devconnected.md",
     "Linux/07. Git and GIthub/img/Pasted image 20230128101730.png",
-    "Linux/07. Git and GIthub/32. SQL is Dead, Hail to Flux – devconnected.md",
-    "Linux/07. Git and GIthub/31. A Practical Introduction to Integration Patterns – devconnected.md",
-    "Linux/07. Git and GIthub/30. The 10 Best Software Engineering Books in 2019 – devconnected.md",
-    "Linux/07. Git and GIthub/29. How To Clone a Git Repository – devconnected.md",
-    "Linux/07. Git and GIthub/28. How To Setup SSH Keys on GitHub – devconnected.md",
-    "Linux/07. Git and GIthub/27. How To Set Upstream Branch on Git – devconnected.md",
-    "Linux/07. Git and GIthub/26. How To Git Stash Changes – devconnected.md"
+    "Linux/07. Git and GIthub/32. SQL is Dead, Hail to Flux – devconnected.md"
   ]
 }

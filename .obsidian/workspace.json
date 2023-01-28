@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f16d583ab8d0d11f",
+        "id": "c071ebe728ad69a4",
         "type": "tabs",
         "children": [
           {
-            "id": "7315a201782db462",
+            "id": "0abba7a322a934a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/06. Monitoring/04. Prometheus/08. Complete Node Exporter Mastery with Prometheus – devconnected.md",
+                "file": "Linux/07. Git and GIthub/03. How To Change Branch Name on Git – devconnected.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/06. Monitoring/04. Prometheus/08. Complete Node Exporter Mastery with Prometheus – devconnected.md",
+                "file": "Linux/07. Git and GIthub/03. How To Change Branch Name on Git – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/06. Monitoring/04. Prometheus/08. Complete Node Exporter Mastery with Prometheus – devconnected.md",
+                "file": "Linux/07. Git and GIthub/03. How To Change Branch Name on Git – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/06. Monitoring/04. Prometheus/08. Complete Node Exporter Mastery with Prometheus – devconnected.md"
+                "file": "Linux/07. Git and GIthub/03. How To Change Branch Name on Git – devconnected.md"
               }
             }
           }
@@ -154,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7315a201782db462",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
+    "Linux/07. Git and GIthub/02. How To Undo Git Add Command – devconnected.md",
+    "Linux/07. Git and GIthub/01. How To Git Add All Files – devconnected.md",
+    "Linux/06. Monitoring/04. Prometheus/img/Pasted image 20230128100915.png",
+    "Linux/06. Monitoring/04. Prometheus/09. Prometheus Monitoring  The Definitive Guide in 2019 – devconnected.md",
+    "Linux/06. Monitoring/04. Prometheus/08. Complete Node Exporter Mastery with Prometheus – devconnected.md",
     "Linux/06. Monitoring/04. Prometheus/07. MongoDB Monitoring with Grafana & Prometheus – devconnected.md",
     "Linux/06. Monitoring/04. Prometheus/06. How to Setup Grafana and Prometheus on Linux – devconnected.md",
     "Linux/06. Monitoring/04. Prometheus/05. AlertManager and Prometheus Complete Setup on Linux – devconnected.md",
     "Linux/06. Monitoring/04. Prometheus/04. How To Check SSL Certificate Expiration with Grafana – devconnected.md",
-    "Linux/06. Monitoring/04. Prometheus/03. Windows Server Monitoring using Prometheus and WMI Exporter.md",
-    "Linux/06. Monitoring/04. Prometheus/02. How To Install Prometheus with Docker on Ubuntu 18.04 – devconnected.md",
-    "Linux/06. Monitoring/04. Prometheus/01. How To Install and Configure Blackbox Exporter for Prometheus.md",
-    "Linux/06. Monitoring/03. Kibana/01. Monitoring Linux Logs with Kibana and Rsyslog – devconnected.md",
-    "Linux/06. Monitoring/02. Influxdb/img/Pasted image 20230128100244.png",
-    "Linux/06. Monitoring/02. Influxdb/07. The Definitive Guide To InfluxDB In 2019 – devconnected.md"
+    "Linux/06. Monitoring/04. Prometheus/03. Windows Server Monitoring using Prometheus and WMI Exporter.md"
   ]
 }

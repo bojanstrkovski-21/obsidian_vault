@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6aaad74978f2a9ef",
+        "id": "22561f41843c6c01",
         "type": "tabs",
         "children": [
           {
-            "id": "6020c95dbc5a8485",
+            "id": "d004aa70584a9972",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md"
+              }
             }
           }
         ],
@@ -146,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6020c95dbc5a8485",
+  "active": "d004aa70584a9972",
   "lastOpenFiles": [
+    "Linux/02. Basics/29. How To List Users and Groups on Linux – devconnected.md",
+    "Linux/02. Basics/28. Cron Jobs and Crontab on Linux Explained – devconnected.md",
+    "Linux/02. Basics/27. Source Command on Linux Explained – devconnected.md",
+    "Linux/02. Basics/26. How To Change The Timezone on Debian 10 Buster – devconnected.md",
+    "Linux/02. Basics/25. Access Control Lists on Linux Explained – devconnected.md",
     "Linux/02. Basics/24. How To Install and Enable SSH Server on Debian 10.md",
     "Linux/02. Basics/23. Understanding Processes on Linux – devconnected.md",
     "Linux/02. Basics/22. 4 Ways to Transfer Files and Directories on Linux – devconnected.md",
     "Linux/02. Basics/21. Screen Command on Linux Explained – devconnected.md",
-    "Linux/02. Basics/18. How To Set Date and Time On Linux – devconnected.md",
-    "Linux/02. Basics/How To Set Date and Time On Linux – devconnected.md",
-    "Linux/02. Basics/20. User Administration Complete Guide on Linux – devconnected.md",
-    "Linux/02. Basics/19. How To Change User on Linux – devconnected.md",
-    "Linux/02. Basics/17. How To Set and Unset Environment Variables on Linux – devconnected.md",
-    "Linux/02. Basics/16. How To Show Hidden Files on Linux – devconnected.md"
+    "Linux/02. Basics/18. How To Set Date and Time On Linux – devconnected.md"
   ]
 }

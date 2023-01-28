@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4bd929047099aa4",
+        "id": "6aaad74978f2a9ef",
         "type": "tabs",
         "children": [
           {
-            "id": "27b8eb806cc7a5f5",
+            "id": "6020c95dbc5a8485",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27b8eb806cc7a5f5",
+  "active": "6020c95dbc5a8485",
   "lastOpenFiles": [
+    "Linux/02. Basics/24. How To Install and Enable SSH Server on Debian 10.md",
+    "Linux/02. Basics/23. Understanding Processes on Linux – devconnected.md",
+    "Linux/02. Basics/22. 4 Ways to Transfer Files and Directories on Linux – devconnected.md",
+    "Linux/02. Basics/21. Screen Command on Linux Explained – devconnected.md",
+    "Linux/02. Basics/18. How To Set Date and Time On Linux – devconnected.md",
+    "Linux/02. Basics/How To Set Date and Time On Linux – devconnected.md",
     "Linux/02. Basics/20. User Administration Complete Guide on Linux – devconnected.md",
     "Linux/02. Basics/19. How To Change User on Linux – devconnected.md",
-    "Linux/02. Basics/18. How To Set Date and Time On Linux – devconnected.md",
     "Linux/02. Basics/17. How To Set and Unset Environment Variables on Linux – devconnected.md",
-    "Linux/02. Basics/16. How To Show Hidden Files on Linux – devconnected.md",
-    "Linux/02. Basics/15. How To Create Disk Partitions on Linux – devconnected.md",
-    "Linux/02. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
-    "Linux/02. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
-    "Linux/02. Basics/12. How To Mount and Unmount Drives on Linux – devconnected.md",
-    "Linux/02. Basics/11. Command Not Found in Bash Fixed – devconnected.md"
+    "Linux/02. Basics/16. How To Show Hidden Files on Linux – devconnected.md"
   ]
 }

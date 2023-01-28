@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6636a48cb70f0ee9",
+        "id": "143819da150af39c",
         "type": "tabs",
         "children": [
           {
-            "id": "80412a26127e98c7",
+            "id": "6544b92b3bbe4b9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/06. Monitoring/02. Influxdb/01. How To Install and Configure Blackbox Exporter for Prometheus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/06. Monitoring/02. Influxdb/01. How To Install and Configure Blackbox Exporter for Prometheus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/06. Monitoring/02. Influxdb/01. How To Install and Configure Blackbox Exporter for Prometheus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/06. Monitoring/02. Influxdb/01. How To Install and Configure Blackbox Exporter for Prometheus.md"
+              }
             }
           }
         ],
@@ -146,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "6544b92b3bbe4b9d",
   "lastOpenFiles": [
+    "Linux/06. Monitoring/03. Kibana/01. Monitoring Linux Logs with Kibana and Rsyslog – devconnected.md",
+    "Linux/06. Monitoring/02. Influxdb/img/Pasted image 20230128100244.png",
+    "Linux/06. Monitoring/02. Influxdb/07. The Definitive Guide To InfluxDB In 2019 – devconnected.md",
+    "Linux/06. Monitoring/02. Influxdb/06. How To Install InfluxDB on Windows in 2019 – devconnected.md",
+    "Linux/06. Monitoring/02. Influxdb/05. InfluxDays London 2019 Recap – devconnected.md",
+    "Linux/06. Monitoring/02. Influxdb/04. How To Install InfluxDB 1.7 and 2.0 on Linux in 2019 – devconnected.md",
+    "Linux/06. Monitoring/02. Influxdb/04. How To Setup Telegraf InfluxDB and Grafana on Linux – devconnected.md",
     "Linux/06. Monitoring/02. Influxdb/03. How To Setup Telegraf InfluxDB and Grafana on Linux – devconnected.md",
     "Linux/06. Monitoring/02. Influxdb/02. How To Create a Database on InfluxDB 1.7 & 2.0 – devconnected.md",
-    "Linux/06. Monitoring/02. Influxdb/01. How To Install InfluxDB Telegraf and Grafana on Docker.md",
-    "Linux/06. Monitoring/01. Grafana/img/Pasted image 20230128095535.png",
-    "Linux/06. Monitoring/01. Grafana/10. How To Create a Grafana Dashboard? (UI + API methods) – devconnected.md",
-    "Linux/06. Monitoring/01. Grafana/09. MongoDB Monitoring with Grafana & Prometheus – devconnected.md",
-    "Linux/06. Monitoring/01. Grafana/08. How To Install Grafana on Ubuntu 18.04 – devconnected.md",
-    "Linux/06. Monitoring/01. Grafana/07. How to Setup Grafana and Prometheus on Linux – devconnected.md",
-    "Linux/06. Monitoring/01. Grafana/06. How To Install Grafana on Windows 8-10 – devconnected.md",
-    "Linux/06. Monitoring/01. Grafana/05. How To Check SSL Certificate Expiration with Grafana – devconnected.md"
+    "Linux/06. Monitoring/02. Influxdb/01. How To Install InfluxDB Telegraf and Grafana on Docker.md"
   ]
 }

@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f01095cebf45b17d",
+        "id": "bc1ce7c168c03361",
         "type": "tabs",
         "children": [
           {
-            "id": "b78e53d1d9051345",
+            "id": "ab60df0b3e8f810d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Linux/05. Tips/img/Pasted image 20230128094730.png"
+              }
+            }
+          },
+          {
+            "id": "8ef6dbfcaac13e60",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b78e53d1d9051345",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
-    "Linux/Tips/03. How To Chown Recursively on Linux – devconnected.md",
-    "Linux/Tips/01. How To Copy Directory on Linux – devconnected.md",
-    "Linux/Tips/02. How To Count Files in Directory on Linux – devconnected.md",
+    "Linux/05. Tips/img/Pasted image 20230128094730.png",
+    "Linux/05. Tips/07. How To Zip Multiple Files on Linux – devconnected.md",
+    "Linux/05. Tips/06. How To Rename a Directory on Linux – devconnected.md",
+    "Linux/05. Tips/05. How To Zip Folder on Linux – devconnected.md",
+    "Linux/05. Tips/04. How To Ping Specific Port Number – devconnected.md",
+    "Linux/05. Tips/03. How To Chown Recursively on Linux – devconnected.md",
+    "Linux/05. Tips/01. How To Copy Directory on Linux – devconnected.md",
+    "Linux/05. Tips/02. How To Count Files in Directory on Linux – devconnected.md",
     "Linux/04. Security/img/Pasted image 20230128094238.png",
-    "Linux/04. Security/03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected.md",
-    "Linux/04. Security/02. How To Encrypt File on Linux – devconnected.md",
-    "Linux/04. Security/01. How To Encrypt Partition on Linux – devconnected.md",
-    "Linux/03. Logging/img/Pasted image 20230128093902.png",
-    "Linux/03. Logging/04. Monitoring Linux Logs with Kibana and Rsyslog – devconnected.md",
-    "Linux/03. Logging/03. The Definitive Guide to Centralized Logging with Syslog on Linux.md"
+    "Linux/04. Security/03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected.md"
   ]
 }

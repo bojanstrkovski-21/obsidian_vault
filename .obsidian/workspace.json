@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87354482de741ba3",
+        "id": "60db425923f606c3",
         "type": "tabs",
         "children": [
           {
-            "id": "80448409e73e007a",
+            "id": "fc7abf92f3f95f29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md",
+                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md",
+                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md",
+                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md"
+                "file": "Linux/05. Tips/How To Manage Root Account on Ubuntu 20.04 – devconnected.md"
               }
             }
           }
@@ -154,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80448409e73e007a",
+  "active": "fc7abf92f3f95f29",
   "lastOpenFiles": [
+    "Linux/05. Tips/09. How To Setup OpenLDAP Server on Debian 10 – devconnected.md",
+    "Linux/05. Tips/08. How To Change Root Password on Debian 10 – devconnected.md",
+    "Linux/07. Git and GIthub/img/Pasted image 20230128101730.png",
+    "Linux/07. Git and GIthub/32. SQL is Dead, Hail to Flux – devconnected.md",
+    "Linux/07. Git and GIthub/31. A Practical Introduction to Integration Patterns – devconnected.md",
+    "Linux/07. Git and GIthub/30. The 10 Best Software Engineering Books in 2019 – devconnected.md",
     "Linux/07. Git and GIthub/29. How To Clone a Git Repository – devconnected.md",
     "Linux/07. Git and GIthub/28. How To Setup SSH Keys on GitHub – devconnected.md",
     "Linux/07. Git and GIthub/27. How To Set Upstream Branch on Git – devconnected.md",
-    "Linux/07. Git and GIthub/26. How To Git Stash Changes – devconnected.md",
-    "Linux/07. Git and GIthub/25. How To Delete Local and Remote Tags on Git – devconnected.md",
-    "Linux/07. Git and GIthub/24. How To Clear Git Cache – devconnected.md",
-    "Linux/07. Git and GIthub/23. How To Cherry Pick Git Commits – devconnected.md",
-    "Linux/07. Git and GIthub/22. How To Clean Up Git Branches – devconnected.md",
-    "Linux/07. Git and GIthub/21. How To Unstage Files on Git – devconnected.md",
-    "Linux/07. Git and GIthub/20. How To Checkout Git Tags – devconnected.md"
+    "Linux/07. Git and GIthub/26. How To Git Stash Changes – devconnected.md"
   ]
 }

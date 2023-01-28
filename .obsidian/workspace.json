@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "22561f41843c6c01",
+        "id": "35324a0f5eeb54f3",
         "type": "tabs",
         "children": [
           {
-            "id": "d004aa70584a9972",
+            "id": "e278e2121393a8fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/02. Basics/Find Files and Directories on Linux Easily – devconnected.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d004aa70584a9972",
+  "active": "e278e2121393a8fc",
   "lastOpenFiles": [
+    "Linux/02. Basics/37. Linux File Permissions Complete Guide – devconnected.md",
+    "Linux/02. Basics/36. Understanding Hard and Soft Links on Linux – devconnected.md",
+    "Linux/02. Basics/35. How To Set Up SSH Keys on Debian 10 Buster – devconnected.md",
+    "Linux/02. Basics/34. How To Add and Delete Users on Debian 10 Buster – devconnected.md",
+    "Linux/02. Basics/33. How To Change User Password on Debian 10 – devconnected.md",
+    "Linux/02. Basics/32. How To Add Swap Space on Debian 10 Buster – devconnected.md",
+    "Linux/02. Basics/31. Input Output Redirection on Linux Explained – devconnected.md",
+    "Linux/02. Basics/30. Find Files and Directories on Linux Easily – devconnected.md",
     "Linux/02. Basics/29. How To List Users and Groups on Linux – devconnected.md",
-    "Linux/02. Basics/28. Cron Jobs and Crontab on Linux Explained – devconnected.md",
-    "Linux/02. Basics/27. Source Command on Linux Explained – devconnected.md",
-    "Linux/02. Basics/26. How To Change The Timezone on Debian 10 Buster – devconnected.md",
-    "Linux/02. Basics/25. Access Control Lists on Linux Explained – devconnected.md",
-    "Linux/02. Basics/24. How To Install and Enable SSH Server on Debian 10.md",
-    "Linux/02. Basics/23. Understanding Processes on Linux – devconnected.md",
-    "Linux/02. Basics/22. 4 Ways to Transfer Files and Directories on Linux – devconnected.md",
-    "Linux/02. Basics/21. Screen Command on Linux Explained – devconnected.md",
-    "Linux/02. Basics/18. How To Set Date and Time On Linux – devconnected.md"
+    "Linux/02. Basics/28. Cron Jobs and Crontab on Linux Explained – devconnected.md"
   ]
 }

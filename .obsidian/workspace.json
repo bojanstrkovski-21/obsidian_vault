@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ac75c65bc78bfa",
+        "id": "af4d15b64ffa4acc",
         "type": "tabs",
         "children": [
           {
-            "id": "c54cd87303cebf49",
+            "id": "c38c33cd0037fa1b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54cd87303cebf49",
+  "active": "c38c33cd0037fa1b",
   "lastOpenFiles": [
+    "Linux/02. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
+    "Linux/02. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
+    "Linux/02. Basics/12. How To Mount and Unmount Drives on Linux – devconnected.md",
+    "Linux/02. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
     "Linux/02. Basics/10. How To Archive and Compress Files on Linux – devconnected.md",
     "Linux/02. Basics/09. How To Check RAM on Linux – devconnected.md",
     "Linux/02. Basics/08. APT Package Manager on Linux Explained – devconnected.md",
     "Linux/02. Basics/07. Find Text in Files on Linux using grep – devconnected.md",
     "Linux/02. Basics/06. Working Remotely with Linux Systems – devconnected.md",
-    "Linux/02. Basics/05. Network Manager on Linux with Examples – devconnected.md",
-    "Linux/02. Basics/04. How To Get Your IP Address on Linux – devconnected.md",
-    "Linux/02. Basics/03. How To List Services on Linux – devconnected.md",
-    "Linux/02. Basics/02. How To Find Last Login on Linux – devconnected.md",
-    "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md"
+    "Linux/02. Basics/05. Network Manager on Linux with Examples – devconnected.md"
   ]
 }

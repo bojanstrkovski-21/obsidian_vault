@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09557ea4195a7e11",
+        "id": "d723433de8bc43b3",
         "type": "tabs",
         "children": [
           {
-            "id": "f4aee839e36752fa",
+            "id": "893c3cc083078001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clipping/How To List Services on Linux – devconnected.md",
+                "file": "Linux/02. Basics/06. Working Remotely with Linux Systems – devconnected.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clipping/How To List Services on Linux – devconnected.md",
+                "file": "Linux/02. Basics/06. Working Remotely with Linux Systems – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clipping/How To List Services on Linux – devconnected.md",
+                "file": "Linux/02. Basics/06. Working Remotely with Linux Systems – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clipping/How To List Services on Linux – devconnected.md"
+                "file": "Linux/02. Basics/06. Working Remotely with Linux Systems – devconnected.md"
               }
             }
           }
@@ -154,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4aee839e36752fa",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
-    "clipping/02. How To Find Last Login on Linux – devconnected.md",
-    "clipping/How To List Services on Linux – devconnected.md",
+    "Linux/02. Basics/05. Network Manager on Linux with Examples – devconnected.md",
+    "Linux/02. Basics/04. How To Get Your IP Address on Linux – devconnected.md",
+    "Linux/02. Basics/03. How To List Services on Linux – devconnected.md",
+    "Linux/02. Basics/02. How To Find Last Login on Linux – devconnected.md",
+    "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
+    "Linux/02. Basics/01. How To Flush DNS Cache on Linux.md",
     "clipping/How To Find Last Login on Linux – devconnected-28-01-2023.md",
     "clipping/Obsidian Clipper-28-01-2023.md",
     "clipping/Untitled.md",
-    "clipping/Obsidian Clipper-2023-01-28.md",
-    "Linux/02. Basics/01. How To Flush DNS Cache on Linux.md",
-    "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
-    "Linux/02. Basics/How To Flush DNS Cache on Linux – devconnected.md",
-    "Linux/01. Bash/04. How To Run a Bash Script.md"
+    "clipping/Obsidian Clipper-2023-01-28.md"
   ]
 }

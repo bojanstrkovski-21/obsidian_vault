@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6c4e4a3695c6ee74",
+        "id": "aaf9fb7dd6442e26",
         "type": "tabs",
         "children": [
           {
-            "id": "7482d18151544c83",
+            "id": "65c9a2e4c8a2f8b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md"
+              }
             }
           }
         ],
@@ -146,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7482d18151544c83",
+  "active": "65c9a2e4c8a2f8b0",
   "lastOpenFiles": [
-    "Linux/07. Git and GIthub/12. How To Undo Last Git Commit – devconnected.md",
-    "Linux/07. Git and GIthub/11. How To Create a Git Branch – devconnected.md",
-    "Linux/07. Git and GIthub/10. How To Create Git Tags – devconnected.md",
-    "Linux/07. Git and GIthub/09. How To Amend Git Commit Message – devconnected.md",
-    "Linux/07. Git and GIthub/08. How To Switch Branch on Git – devconnected.md",
-    "Linux/07. Git and GIthub/07. How To Push Git Branch To Remote – devconnected.md",
-    "Linux/07. Git and GIthub/06. How To List Git Tags – devconnected.md",
-    "Linux/07. Git and GIthub/01. How To Git Add All Files – devconnected.md",
-    "Linux/07. Git and GIthub/02. How To Undo Git Add Command – devconnected.md",
-    "Linux/07. Git and GIthub/03. How To Change Branch Name on Git – devconnected.md"
+    "Linux/07. Git and GIthub/22. How To Clean Up Git Branches – devconnected.md",
+    "Linux/07. Git and GIthub/21. How To Unstage Files on Git – devconnected.md",
+    "Linux/07. Git and GIthub/20. How To Checkout Git Tags – devconnected.md",
+    "Linux/07. Git and GIthub/19. How To Compare Two Git Branches – devconnected.md",
+    "Linux/07. Git and GIthub/18. How To Generate Git SSH Keys – devconnected.md",
+    "Linux/07. Git and GIthub/17. How To Git Reset to HEAD – devconnected.md",
+    "Linux/07. Git and GIthub/16. How To Create and Apply Git Patch Files – devconnected.md",
+    "Linux/07. Git and GIthub/15. How To Remove Files From Git Commit – devconnected.md",
+    "Linux/07. Git and GIthub/14. How To Add and Update Git Submodules – devconnected.md",
+    "Linux/07. Git and GIthub/13. How To Delete a GitHub Repository – devconnected.md"
   ]
 }

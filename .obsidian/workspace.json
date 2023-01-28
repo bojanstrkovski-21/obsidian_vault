@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6f713a5ab7b7f5a",
+        "id": "0e28faa288379da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9e15e15efad9199c",
+            "id": "4c8e153802a86c11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/04. Security/How To Copy Directory on Linux – devconnected.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 500.5
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/04. Security/How To Copy Directory on Linux – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/04. Security/How To Copy Directory on Linux – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/04. Security/How To Copy Directory on Linux – devconnected.md"
+              }
             }
           }
         ],
@@ -146,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e15e15efad9199c",
+  "active": "4c8e153802a86c11",
   "lastOpenFiles": [
+    "Linux/04. Security/img/Pasted image 20230128094238.png",
+    "Linux/04. Security/03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected.md",
+    "Linux/04. Security/02. How To Encrypt File on Linux – devconnected.md",
+    "Linux/04. Security/01. How To Encrypt Partition on Linux – devconnected.md",
+    "Linux/03. Logging/img/Pasted image 20230128093902.png",
+    "Linux/03. Logging/04. Monitoring Linux Logs with Kibana and Rsyslog – devconnected.md",
+    "Linux/03. Logging/03. The Definitive Guide to Centralized Logging with Syslog on Linux.md",
     "Linux/03. Logging/02. Syslog  The Complete System Administrator Guide – devconnected.md",
     "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md",
-    "Linux/01. Basics/37. Linux File Permissions Complete Guide – devconnected.md",
-    "Linux/01. Basics/09. How To Check RAM on Linux – devconnected.md",
-    "Linux/01. Basics/08. APT Package Manager on Linux Explained – devconnected.md",
-    "Linux/01. Basics/06. Working Remotely with Linux Systems – devconnected.md",
-    "Linux/01. Basics/04. How To Get Your IP Address on Linux – devconnected.md",
-    "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
-    "Linux/01. Basics/img/Pasted image 20230128080427.png",
-    "Linux/01. Basics/img/Pasted image 20230128080240.png"
+    "Linux/01. Basics/37. Linux File Permissions Complete Guide – devconnected.md"
   ]
 }

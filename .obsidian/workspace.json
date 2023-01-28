@@ -11,11 +11,9 @@
             "id": "1194fc8e3e34a66c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Linux/05. Tips/17. 5 Proven Ways To Finish Your Side Project – devconnected.md",
-                "mode": "source",
-                "source": false
+                "file": "Linux/05. Tips/img/Pasted image 20230128110534.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/05. Tips/17. 5 Proven Ways To Finish Your Side Project – devconnected.md",
+                "file": "Linux/05. Tips/img/Pasted image 20230128110534.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/05. Tips/17. 5 Proven Ways To Finish Your Side Project – devconnected.md",
+                "file": "Linux/05. Tips/img/Pasted image 20230128110534.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/05. Tips/17. 5 Proven Ways To Finish Your Side Project – devconnected.md"
+                "file": "Linux/05. Tips/img/Pasted image 20230128110534.png"
               }
             }
           }
@@ -154,17 +152,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1194fc8e3e34a66c",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
+    "Linux/05. Tips/img/Pasted image 20230128110454.png",
+    "Linux/05. Tips/img/Pasted image 20230128110407.png",
+    "Linux/05. Tips/18. The 10 Best Linux Books To Read in 2019 – devconnected.md",
+    "Linux/05. Tips/17. 5 Proven Ways To Finish Your Side Project – devconnected.md",
     "Linux/05. Tips/16. 6 Tips To A Successful Code Review – devconnected.md",
     "Linux/08. Docker/img/Pasted image 20230128110241.png",
     "Linux/08. Docker/06. How To Install Docker on Ubuntu 18.04 & Debian 10 – devconnected.md",
     "Linux/08. Docker/05. How To Install Docker on Windows 7-8-10 Home and Pro – devconnected.md",
     "Linux/08. Docker/04. How To Install InfluxDB Telegraf and Grafana on Docker.md",
-    "Linux/08. Docker/03. Docker Logs Complete Guide – devconnected.md",
-    "Linux/08. Docker/02. Docker Exec Command With Examples – devconnected.md",
-    "Linux/08. Docker/01. How To List Docker Images – devconnected.md",
-    "Linux/05. Tips/img/Pasted image 20230128103839.png",
-    "Linux/05. Tips/15. How To Install and Configure Ubuntu 20.04 with GNOME – devconnected.md"
+    "Linux/08. Docker/03. Docker Logs Complete Guide – devconnected.md"
   ]
 }

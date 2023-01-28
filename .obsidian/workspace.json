@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aaf9fb7dd6442e26",
+        "id": "87354482de741ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "65c9a2e4c8a2f8b0",
+            "id": "80448409e73e007a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md",
+                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md",
+                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md",
+                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/07. Git and GIthub/How To Cherry Pick Git Commits – devconnected.md"
+                "file": "Linux/07. Git and GIthub/The 10 Best Software Engineering Books in 2019 – devconnected.md"
               }
             }
           }
@@ -154,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65c9a2e4c8a2f8b0",
+  "active": "80448409e73e007a",
   "lastOpenFiles": [
+    "Linux/07. Git and GIthub/29. How To Clone a Git Repository – devconnected.md",
+    "Linux/07. Git and GIthub/28. How To Setup SSH Keys on GitHub – devconnected.md",
+    "Linux/07. Git and GIthub/27. How To Set Upstream Branch on Git – devconnected.md",
+    "Linux/07. Git and GIthub/26. How To Git Stash Changes – devconnected.md",
+    "Linux/07. Git and GIthub/25. How To Delete Local and Remote Tags on Git – devconnected.md",
+    "Linux/07. Git and GIthub/24. How To Clear Git Cache – devconnected.md",
+    "Linux/07. Git and GIthub/23. How To Cherry Pick Git Commits – devconnected.md",
     "Linux/07. Git and GIthub/22. How To Clean Up Git Branches – devconnected.md",
     "Linux/07. Git and GIthub/21. How To Unstage Files on Git – devconnected.md",
-    "Linux/07. Git and GIthub/20. How To Checkout Git Tags – devconnected.md",
-    "Linux/07. Git and GIthub/19. How To Compare Two Git Branches – devconnected.md",
-    "Linux/07. Git and GIthub/18. How To Generate Git SSH Keys – devconnected.md",
-    "Linux/07. Git and GIthub/17. How To Git Reset to HEAD – devconnected.md",
-    "Linux/07. Git and GIthub/16. How To Create and Apply Git Patch Files – devconnected.md",
-    "Linux/07. Git and GIthub/15. How To Remove Files From Git Commit – devconnected.md",
-    "Linux/07. Git and GIthub/14. How To Add and Update Git Submodules – devconnected.md",
-    "Linux/07. Git and GIthub/13. How To Delete a GitHub Repository – devconnected.md"
+    "Linux/07. Git and GIthub/20. How To Checkout Git Tags – devconnected.md"
   ]
 }

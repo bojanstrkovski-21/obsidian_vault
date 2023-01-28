@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5799496e7724770e",
+        "id": "6636a48cb70f0ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "586e09abeb5bec8f",
+            "id": "80412a26127e98c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/06. Monitoring/01. Grafana/How To Install Grafana on Ubuntu 18.04 – devconnected.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/06. Monitoring/01. Grafana/How To Install Grafana on Ubuntu 18.04 – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/06. Monitoring/01. Grafana/How To Install Grafana on Ubuntu 18.04 – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/06. Monitoring/01. Grafana/How To Install Grafana on Ubuntu 18.04 – devconnected.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "586e09abeb5bec8f",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
+    "Linux/06. Monitoring/02. Influxdb/03. How To Setup Telegraf InfluxDB and Grafana on Linux – devconnected.md",
+    "Linux/06. Monitoring/02. Influxdb/02. How To Create a Database on InfluxDB 1.7 & 2.0 – devconnected.md",
+    "Linux/06. Monitoring/02. Influxdb/01. How To Install InfluxDB Telegraf and Grafana on Docker.md",
+    "Linux/06. Monitoring/01. Grafana/img/Pasted image 20230128095535.png",
+    "Linux/06. Monitoring/01. Grafana/10. How To Create a Grafana Dashboard? (UI + API methods) – devconnected.md",
+    "Linux/06. Monitoring/01. Grafana/09. MongoDB Monitoring with Grafana & Prometheus – devconnected.md",
+    "Linux/06. Monitoring/01. Grafana/08. How To Install Grafana on Ubuntu 18.04 – devconnected.md",
     "Linux/06. Monitoring/01. Grafana/07. How to Setup Grafana and Prometheus on Linux – devconnected.md",
     "Linux/06. Monitoring/01. Grafana/06. How To Install Grafana on Windows 8-10 – devconnected.md",
-    "Linux/06. Monitoring/01. Grafana/05. How To Check SSL Certificate Expiration with Grafana – devconnected.md",
-    "Linux/06. Monitoring/01. Grafana/04. Windows Server Monitoring using Prometheus and WMI Exporter.md",
-    "Linux/06. Monitoring/01. Grafana/03. How To Install InfluxDB Telegraf and Grafana on Docker.md",
-    "Linux/02. Bash/06. Advanced Bash Scripting Guide.md",
-    "Linux/02. Bash/05. How To Check If File or Directory Exists in Bash.md",
-    "Linux/02. Bash/04. How To Run a Bash Script.md",
-    "Linux/02. Bash/03. How To Set Environment Variable in Bash.md",
-    "Linux/02. Bash/02. Bash If Else Syntax with examples.md"
+    "Linux/06. Monitoring/01. Grafana/05. How To Check SSL Certificate Expiration with Grafana – devconnected.md"
   ]
 }

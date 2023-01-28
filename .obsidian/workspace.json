@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "882446cce50c7fd0",
+        "id": "5d3cea66aca45776",
         "type": "tabs",
         "children": [
           {
-            "id": "4fffc4dc369ffaf4",
+            "id": "bfafaa54efcbe1e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "bfafaa54efcbe1e3",
   "lastOpenFiles": [
+    "clipping/Untitled.md",
+    "clipping/Obsidian Clipper-2023-01-28.md",
     "Linux/02. Basics/01. How To Flush DNS Cache on Linux.md",
     "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
     "Linux/02. Basics/How To Flush DNS Cache on Linux – devconnected.md",
@@ -155,8 +157,6 @@
     "Linux/01. Bash/03. How To Set Environment Variable in Bash.md",
     "Linux/01. Bash/06. Advanced Bash Scripting Guide.md",
     "Linux/01. Bash/05. How To Check If File or Directory Exists in Bash.md",
-    "Linux/01. Bash/02. Bash If Else Syntax with examples.md",
-    "Linux/01. Bash/01. Writing Bash Scripts.md",
-    "Windows/Windows stuff.md"
+    "Linux/01. Bash/02. Bash If Else Syntax with examples.md"
   ]
 }

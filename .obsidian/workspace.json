@@ -11,8 +11,12 @@
             "id": "f4aee839e36752fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "clipping/How To List Services on Linux – devconnected.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clipping/How To List Services on Linux – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "clipping/How To List Services on Linux – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "clipping/How To List Services on Linux – devconnected.md"
+              }
             }
           }
         ],
@@ -146,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "f4aee839e36752fa",
   "lastOpenFiles": [
+    "clipping/02. How To Find Last Login on Linux – devconnected.md",
+    "clipping/How To List Services on Linux – devconnected.md",
+    "clipping/How To Find Last Login on Linux – devconnected-28-01-2023.md",
     "clipping/Obsidian Clipper-28-01-2023.md",
     "clipping/Untitled.md",
     "clipping/Obsidian Clipper-2023-01-28.md",
     "Linux/02. Basics/01. How To Flush DNS Cache on Linux.md",
     "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
     "Linux/02. Basics/How To Flush DNS Cache on Linux – devconnected.md",
-    "Linux/01. Bash/04. How To Run a Bash Script.md",
-    "Linux/01. Bash/03. How To Set Environment Variable in Bash.md",
-    "Linux/01. Bash/06. Advanced Bash Scripting Guide.md",
-    "Linux/01. Bash/05. How To Check If File or Directory Exists in Bash.md"
+    "Linux/01. Bash/04. How To Run a Bash Script.md"
   ]
 }

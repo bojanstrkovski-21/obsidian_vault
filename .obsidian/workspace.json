@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "056a8001bfbccb94",
+        "id": "53fd1801a2e9922c",
         "type": "tabs",
         "children": [
           {
-            "id": "703feb2fd6ce7b16",
+            "id": "0c4b7afc0858a450",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md",
+                "file": "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md",
+                "file": "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md"
+                "file": "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md"
               }
             }
           }
@@ -154,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "703feb2fd6ce7b16",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
+    "Linux/LINUX SCRIPT/Sparklines_fish/distrotube alias rainbowlolcat.md",
+    "Linux/LINUX SCRIPT/Sparklines_fish/fish_prompt.fish.md",
+    "Linux/LINUX SCRIPT/netstart/net-start_default.md",
     "Linux/LINUX SCRIPT/netstart/net-start_default.service.md",
     "Linux/LINUX SCRIPT/vbox/virtualbox-link.md",
     "Linux/02. Bash/img/Pasted image 20230129142723.png",
     "Linux/02. Bash/06. Writing Scripts on Linux using Bash – devconnected.md",
     "Linux/02. Bash/05. Advanced Bash Scripting Guide – devconnected.md",
     "Linux/02. Bash/04. How To Check If File or Directory Exists in Bash – devconnected.md",
-    "Linux/02. Bash/03. How To Run a Bash Script – devconnected.md",
-    "Linux/02. Bash/02. How To Set Environment Variable in Bash – devconnected.md",
-    "Linux/02. Bash/01. Bash If Else Syntax With Examples – devconnected.md",
-    "Linux/02. Bash/01. Writing Bash Scripts.md"
+    "Linux/02. Bash/03. How To Run a Bash Script – devconnected.md"
   ]
 }

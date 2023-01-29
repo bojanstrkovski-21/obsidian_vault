@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "f26a6742b0e4fab2",
   "lastOpenFiles": [
+    "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/distrotube alias rainbowlolcat.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/fish_prompt.fish.md",
     "Linux/LINUX SCRIPT/netstart/net-start_default.md",
@@ -160,7 +157,6 @@
     "Linux/02. Bash/img/Pasted image 20230129142723.png",
     "Linux/02. Bash/06. Writing Scripts on Linux using Bash – devconnected.md",
     "Linux/02. Bash/05. Advanced Bash Scripting Guide – devconnected.md",
-    "Linux/02. Bash/04. How To Check If File or Directory Exists in Bash – devconnected.md",
-    "Linux/02. Bash/03. How To Run a Bash Script – devconnected.md"
+    "Linux/02. Bash/04. How To Check If File or Directory Exists in Bash – devconnected.md"
   ]
 }

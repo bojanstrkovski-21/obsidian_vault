@@ -11,9 +11,11 @@
             "id": "703feb2fd6ce7b16",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Linux/02. Bash/img/Pasted image 20230129142723.png"
+                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/02. Bash/img/Pasted image 20230129142723.png",
+                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/02. Bash/img/Pasted image 20230129142723.png",
+                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/02. Bash/img/Pasted image 20230129142723.png"
+                "file": "Linux/LINUX SCRIPT/netstart/net-start_default.md"
               }
             }
           }
@@ -152,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "703feb2fd6ce7b16",
   "lastOpenFiles": [
+    "Linux/LINUX SCRIPT/netstart/net-start_default.service.md",
+    "Linux/LINUX SCRIPT/vbox/virtualbox-link.md",
+    "Linux/02. Bash/img/Pasted image 20230129142723.png",
     "Linux/02. Bash/06. Writing Scripts on Linux using Bash – devconnected.md",
     "Linux/02. Bash/05. Advanced Bash Scripting Guide – devconnected.md",
     "Linux/02. Bash/04. How To Check If File or Directory Exists in Bash – devconnected.md",
     "Linux/02. Bash/03. How To Run a Bash Script – devconnected.md",
     "Linux/02. Bash/02. How To Set Environment Variable in Bash – devconnected.md",
     "Linux/02. Bash/01. Bash If Else Syntax With Examples – devconnected.md",
-    "Linux/02. Bash/01. Writing Bash Scripts.md",
-    "Linux/02. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
-    "Linux/02. Basics/How To Flush DNS Cache on Linux – devconnected.md",
-    "Linux/01. Bash/04. How To Run a Bash Script.md"
+    "Linux/02. Bash/01. Writing Bash Scripts.md"
   ]
 }

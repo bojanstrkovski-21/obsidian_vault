@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "512ae5d9b2052731",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,6 +69,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9129a3d614504dbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f26a6742b0e4fab2",
+  "active": "512ae5d9b2052731",
   "lastOpenFiles": [
     "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/distrotube alias rainbowlolcat.md",

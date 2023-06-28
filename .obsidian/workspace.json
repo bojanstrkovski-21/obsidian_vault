@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a0188e1ccdc33f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +158,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,10 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c4b7afc0858a450",
+  "active": "1a0188e1ccdc33f3",
   "lastOpenFiles": [
     "Linux/LINUX SCRIPT/VIM CHEATSHEET.md",
     "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
+    "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
     "Linux/LINUX SCRIPT/VIM commands",
     "Linux/LINUX SCRIPT/How to Find and Replace Text in a File on Linux.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",

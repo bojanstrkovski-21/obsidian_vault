@@ -1,245 +1,710 @@
-Introduction
-
-**Vim** is a widely used, open-source Unix text editor. Learning to use Vim commands is a matter of practice and experience. That is why it is handy to have a helpful reference sheet while mastering them.
-
-**In this tutorial, you will find the most important Vim commands as well as a downloadable cheat sheet.**
-
-![Vim commands: Cheat Sheet.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/vim-commands-cheat-sheet.png)
-
-## Moving Inside a File
-
-You can move the cursor within a file by single characters, words, tokens, or lines.
-
-According to Vim, a word can be a group of letters, numbers, and underscores. On the other hand, a token is anything separated by whitespace and can include punctuation.
-
-Additionally, you can move to different parts of a text by screen view.
-
-### Moving by Characters, Words and Tokens
-
-The basic keys for moving the cursor by one character are:
-
-- **`h`** – move the cursor left
-- **`j`** – move the cursor down
-- **`k`** – move the cursor up
-- **`l`** – move the cursor right
-
-You can also use these keys with a number as a prefix to move in a specified direction multiple times. For example, if you run **`5j`** the cursor moves down 5 lines.
-
-- **`b`** – move to the start of a word
-- **`B`** – move to the start of a token
-- **`w`** – move to the start of the next word
-- **`W`** – move to the start of the next token
-- **`e`** – move to the end of a word
-- **`E`** – move to the end of a token
-
-For instance, you have the noun phrase “step-by-step” as part of a text and the cursor is placed at the end of it. The first time you press **`b`**, the cursor  moves back to “step-by-**s**tep”. However, if you use **`B`**, the cursor moves all the way back to: “**s**tep-by-step” since there is no whitespace between these characters.
-
-### Moving by Lines
-
-- **`0`** (zero) – jump to the beginning of the line
-- **`$`** – jump to the end of the line
-- **`^`** – jump to the first (non-blank) character of the line
-- **`#G`** / **`#gg`** / **`:#`** – move to a specified line number (replace **#** with the line number)
-
-To illustrate the difference between **`0`** and **`^`**, take a look at the following example. In the first bullet, the command moves the cursor to the blank space before the bullet. On the other hand, in the third bullet, the **`^`** key moves the cursor to the hyphen (the first character in the line).
-
-![Move the the beginning of line in Vim.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/move-to-start-of-line-in-vim.png)
-
-**Note:** To use the **#G** / **#gg** to jump to the wanted line, line numbering needs to be enabled. Check out [how to show or hide line numbers in Vim/Vi](https://phoenixnap.com/kb/vim-show-line-numbers).
-
-To learn more about **`matchpairs`** and how to use more than the default supported pairs, run the following commands in the text editor: **`:h matchpairs`**.
-
-![Commands for finding matchpairs in Vim.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/find-matchpairs-in-vim.png)
-
-### Moving by Screens
-
-The following commands are used as a quick way to move within the text without scrolling.
-
-- **`Ctrl + b`** – move back one full screen
-- **`Ctrl + f`** – move forward one full screen
-- **`Ctrl + d`** – move forward 1/2 a screen
-- **`Ctrl + u`** – move back 1/2 a screen
-- **`Ctrl + e`** – move screen down one line (without moving the cursor)
-- **`Ctrl + y`** – move screen up one line (without moving the cursor)
-- **`Ctrl + o`** – move backward through the jump history
-- **`Ctrl + i`** – move forward through the jump history
-
-- **`H`** – move to the top of the screen (H=high)
-- **`M`** – move to the middle of the screen (M=middle)
-- **`L`** – move to the bottom of the screen (L=low)
-
-## Inserting Text
-
-- **`i`** – switch to insert mode before the cursor
-- **`I`** – insert text at the beginning of the line
-- **`a`** – switch to insert mode after the cursor
-- **`A`** – insert text at the end of the line
-- **`o`** – open a new line below the current one
-- **`O`** – open a new line above the current one
-- **`ea`** – insert text at the end of the word
-- **`Esc`** – exit insert mode; switch to command mode
-
-Some of these commands switch between **command** and **insert mode**. By default, Vim launches in command mode, allowing you to move around and edit the file. To switch to command mode, use the **Esc** key.
-
-On the other hand, the insert mode enables you to type and add text into the file. To move to insert mode, press **`i`**.
-
-![Switch to insert mode.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/switch-to-insert-mode.png)
-
-## Editing Text
-
-- **`r`** – replace a single character (and return to command mode)
-- **`cc`** – replace an entire line (deletes the line and moves into insert mode)
-- **`C`** / **`c$`** – replace from the cursor to the end of a line
-- **`cw`** – replace from the cursor to the end of a word
-- **`s`** – delete a character (and move into insert mode)
-- **`J`** – merge the line below to the current one with a space in between them
-- **`gJ`** – merge the line below to the current one with no space in between them
-- **`u`** – undo
-- **`Ctrl`** + **`r`** – redo
-- **`.`** – repeat last command
-
-**Note:** Bear in mind that Vim undoes and redoes changes by entries (changes made within one insert mode session). For more details, refer to the article [How to Undo and Redo Changes in Vim](https://phoenixnap.com/kb/vim-undo-redo).
-
-### Cutting, Copying And Pasting
-
-- **`yy`** – copy (yank) entire line
-- **`#yy`** – copy the specified number of lines
-- **`dd`** – cut (delete) entire line
-- **`#dd`** – cut the specified number of lines
-- **`p`** – paste after the cursor
-- **`P`** – paste before the cursor
-
-**Note:** Find more commands and options in [How to Cut, Copy, and Paste in Vim/Vi](https://phoenixnap.com/kb/cut-copy-paste-vim).
-
-## Marking Text (Visual Mode)
-
-Apart from command mode and insert mode, Vim also includes **visual mode**. This mode is mainly used for marking text.
-
-Based on the chunk of text you want to select, you can choose between three versions of visual mode: **character mode**, **line mode**, and **block mode**.
-
-- **`v`** – select text using character mode
-- **`V`** – select lines using line mode
-- **`Ctrl`**+**`v`** – select text using block mode
-
-Once you have enabled one of the modes, use the navigation keys to select the desired text.
-
-![Versions of visual mode in Vim.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/versions-of-visual-mode.png)
-
-- **`o`** – move from one end of the selected text to the other
-- **`aw`** – select a word
-- **`ab`** – select a block with ()
-- **`aB`** – select a block with {}
-- **`at`** – select a block with <>
-- **`ib`** – select inner block with ()
-- **`iB`** – select inner block with {}
-- **`it`** – select inner block with <>
-
-### Visual Commands
-
-Once you have selected the desired text in visual mode, you can use one of the visual commands to manipulate it. Some of them include:
-
-- **`y`** – yank (copy) the marked text
-- **`d`** – delete (cut) the marked text
-- **`p`** – paste the text after the cursor
-- **`u`** – change the market text to lowercase
-- **`U`** – change the market text to uppercase
-
-## Search in File
-
-- **`*`** – jump to the next instance of the current word
-- **`#`** – jump to previous instance of the current word
-- **`/pattern`** – search forward for the specified pattern
-- **`?pattern`** – search backward for the specified pattern
-- **`n`** – repeat the search in the same direction
-- **`N`** – repeat the search in the opposite direction
-
-**Note:** Searching in Vim/Vi is a task you will certainly perform often. Get to know all the search options in [How To Search To Find A Word In Vim Or Vi Text Editor](https://phoenixnap.com/kb/search-in-vim-vi). To keep track of all the changes Vim shows how to use [find and replace](https://phoenixnap.com/kb/vim-find-replace) function.
-
-## Saving and Exiting File
-
-- **`:w`** – save the file
-- **`:wq`** / **`:x`** / **`ZZ`** – save and close the file
-- **`:q`** – quit
-- **`:q!`**/ **`ZQ`** – quit without saving changes
-- **`:w new_file_name`** – save the file under a new name and continue editing the original
-- **`:sav`** – save the file under a new name and continue editing the new copy
-- **`:w !sudo tee %`** – write out the file using sudo and [tee command](https://phoenixnap.com/kb/linux-tee)
-
-**Note:** Learn more about how to exit using Vim commands or shortcut keys with [How To Exit (Quit) Linux Vim/Vi Editor](https://phoenixnap.com/kb/how-to-exit-vim).
-
-## Working with Multiple Files
-
-- **`:e file_name`**  – open a file in a new buffer
-- **`:bn`**  – move to the next buffer
-- **`:bp`** – go back to previous buffer
-- **`:bd`**  – close buffer
-- **`:b#`**  – move to the specified buffer (by number)
-- **`:b file_name`** – move to a buffer (by name)
-- **`:ls`** – list all open buffers
-
-![List all buffers in Vim.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/list-all-open-buffers-in-vim.png)
-
-- **`:sp file_name`**  – open a file in a new buffer and split [viewport](https://phoenixnap.com/glossary/viewport-definition) horizontally
-- **`:vs file_name`**  – open a file in a new buffer and split viewport vertically
-- **`:vert ba`**  – edit all files as vertical viewports
-- **`:tab ba`**  – edit all buffers as tabs
-- **`gt`** – move to next tab
-- **`gT`** – move to previous tab
-
-![Open files as tabs in Vim.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/open-files-as-tabs-in-vim.png)
-
-- **`Ctrl+ws`** – split viewport
-- **`Ctrl+wv`** – split viewport vertically
-- **`Ctrl+ww`** – switch viewports
-- **`Ctrl+wq`** – quit a viewport
-- **Ctrl+wx** – exchange current viewport with next one
-- **`Ctrl+=`** – make all viewports equal in height and width
-
-## Marks and Jumps
-
-- **`m[a-z]`** – mark text using character mode (from **`a`** to **`z`**)
-- **`M[a-z]`** – mark lines using line mode (from **`a`** to **`z`**)
-- **`` `a ``** - jump to position marked **`a`**
-- **`` `y`a ``** – yank text to position marked **>`a>`**
-- **`` `. ``** – jump to last change in file
-- **`` `0 ``** – jump to position where Vim was last exited
-- **` `` `** – jump to last jump
-- **`:marks`** – list all marks
-- **`:jumps`** – list all jumps
-- **`:changes`** – list all changes
-- **`Ctrl+i`** – move to next instance in jump list
-- **`Ctrl+o`** – move to previous instance in jump list
-- **`g,`** – move to next instance in change list
-- **`g;`** – move to previous instance in change list
-
-## Macros
-
-- **`qa`**  – record macro **`a`**
-- **`q`**  – stop recording macro
-- **`@a`**  – run macro **`a`**
-- **`@@`**  – run last macro again
-
-## Enabling Vim Color Schemes
-
-- **`:colorscheme [colorscheme_name]`**  – change to specified scheme
-- **`:colorscheme [space]+Ctrl+d`** – list available Vim color scheme
-
-The list of Vim color schemes shows you the ones that come by default with the text editor, as in the image below:
-
-![List Vim color schemes.](https://phoenixnap.com/kb/wp-content/uploads/2021/04/list-vim-color-schemes.png)
-
-You can also configure the color settings manually or download user-made schemes. Find out how to do so in [How to Change and Use Vim Color Schemes](https://phoenixnap.com/kb/vim-color-schemes#htoc-download-vim-color-schemes).
-
-## Vim Commands Cheat Sheet
-
-This article includes a one-page Vim commands reference sheet. Save the cheat sheet in PDF format by clicking the **Download Cheat Sheet** button below.
-
-[**Download Vim Commands Cheat Sheet**](https://phoenixnap.com/kb/wp-content/uploads/2021/11/vim-commands-cheat-sheet-by-pnap.pdf)
-
-![Vim commands cheat sheet PDF preview](https://phoenixnap.com/kb/wp-content/uploads/2020/07/vim-commands-cheat-sheet-pdf-preview.png)
-
-Conclusion
-
-Knowing basic Vim commands is useful as most Linux distributions have it installed by default. Once you get use to using Vim commands, mastering Vim should be simple.
-
-Until then, keep a Vim cheat sheet at hand.
+# Vim cheatsheet
+
+A useful collection of [Vim](http://www.vim.org/) 8.2 quick reference cheat sheets to help you learn vim editor faster.
+
+## [#](https://quickref.me/vim.html#getting-started)Getting Started
+
+### Motion Diagrams
+
+```bash
+▼/▶ Cursor   ▽/▷ Target
+```
+
+#### Left-right motions
+
+```bash
+┌───────────── |      
+├───────────── 0      $ ──────────────┐ 
+│  ┌────────── ^      fe ────────┐    │
+│  │  ┌─────── Fo     te ───────┐│    │
+│  │  │┌────── To     30| ───┐  ││    │
+│  │  ││ ┌──── ge     w ───┐ │  ││    │
+│  │  ││ │ ┌── b      e ─┐ │ │  ││    │
+│  │  ││ │ │  ┌h      l┐ │ │ │  ││    │
+▽  ▽  ▽▽ ▽ ▽  ▽▼      ▼▽ ▽ ▽ ▽  ▽▽    ▽
+   echo "A cheatsheet from quickref.me"
+```
+
+#### Up-down motions
+
+```bash
+                 - SCREEN 1 START
+   ┌─┬─────────▷ #!/usr/bin/python
+   │ │     ┌───▷     
+   │ │     │     print("Hello")
+   │ │     { } ▶ print("Vim")
+   │ │       │   print("!")
+   │ │       └─▷    
+   │ │ ┌───┬───▷ print("Welcome")
+G gg H M L k j ▶ print("to")
+│        │   └─▷ print("quickref.me")
+│        │       print("/vim")
+│        │     
+│        └─────▷ 
+│                - SCREEN 1 END
+└──────────────▷ print("SCREEN 2")
+```
+
+### Motions
+
+|   |   |
+|---|---|
+|`h` _\|_ `j` _\|_ `k` _\|_ `l`|Arrow keys|
+|`<C-u>` _/_ `<C-d>`|Half-page up/down|
+|`<C-b>` _/_ `<C-f>`|Page up/down|
+
+#### Words
+
+|   |   |
+|---|---|
+|`b` _/_ `w`|Previous/Next word|
+|`ge` _/_ `e`|Previous/Next end of word|
+
+#### Line
+
+|   |   |
+|---|---|
+|`0` _(zero)_ _/_ `$`|Start/End of line|
+|`^`|Start of line _(non-blank)_|
+
+#### Character
+
+|   |   |
+|---|---|
+|`Fe` _/_ `fe`|Move to previous/next `e`|
+|`To` _/_ `to`|Move before/after previous/next `o`|
+|`\|` _/_ `n\|`|Go to first/`n`th column|
+
+#### Document
+
+|   |   |
+|---|---|
+|`gg` _/_ `G`|First/Last line|
+|`:n` _\|_ `nG`|Go to line `n`|
+|`}` _/_ `{`|Next/Previous empty line|
+
+#### Window
+
+|   |   |
+|---|---|
+|`H` _/_ `M` _/_ `L`|Top/Middle/Bottom screen|
+|`zt` _/_ `zz` _/_ `zb`|Top/Center/Bottom this line|
+
+### Insert Mode
+
+|   |   |
+|---|---|
+|`i` _/_ `a`|Insert before/after cursor|
+|`I` _/_ `A`|Insert start/end of line|
+|`o` _/_ `O` _(letter)_|Insert new line below/above|
+|`s` _/_ `S`|Delete char/line and insert|
+|`C` _/_ `cc`|Change to end of/current line|
+|`gi`|Insert at last insert point|
+|`Esc` _\|_ `<C-[>`|Exit insert mode|
+
+### Saving and Exiting
+
+|   |   |
+|---|---|
+|`:w`|Save|
+|`:q`|Close file|
+|`:wq` _\|_ `:x` _\|_ `ZZ`|Save and quit|
+|`:wqa`|Save and quit all files|
+|`:q!` _\|_ `ZQ`|Force quit|
+|`:qa`|Close all files|
+|`:qa!`|Force quit all files|
+|`:w` now.txt|Write to `now.txt`|
+|`:sav` new.txt|Save and edit `new.txt`|
+|`:w` !sudo tee %|Write to readonly file|
+
+### Normal Mode
+
+|   |   |
+|---|---|
+|`r`|Replace one character|
+|`R`|Enter Replace mode|
+|`u` _/_ `3u`|Undo changes `1` / `3` times|
+|`U`|Undo changes on one line|
+|`J`|Join with next line|
+|`<C-r>` _/_ 5 `<C-r>`|Redo changes `1` / `5` times|
+
+### Cut and paste
+
+|   |   |
+|---|---|
+|`x`|Delete character _(Cut)_|
+|`p` _/_ `P`|Paste after/before|
+|`xp`|Swap two characters|
+|`D`|Delete to end of line _(Cut)_|
+|`dw`|Delete word _(Cut)_|
+|`dd`|Delete line _(Cut)_|
+|`ddp`|Swap two lines|
+|`yy`|Yank line _(Copy)_|
+|`"*p` _\|_ `"+p`|Paste from system clipboard|
+|`"*y` _\|_ `"+y`|Paste to system clipboard|
+
+#### In visual mode
+
+|   |   |
+|---|---|
+|`d` _\|_ `x`|Delete selection _(Cut)_|
+|`s`|Replace selection|
+|`y`|Yank selection _(Copy)_|
+
+### Repeating
+
+|   |   |
+|---|---|
+|`.`|Repeat last command|
+|`;`|Repeat latest `f`, `t`, `F` or `T`|
+|`,`|Repeat latest `f`, `t`, `F` or `T` reversed|
+|`&`|Repeat last `:s`|
+|`@:`|Repeat a command-line command|
+
+### Visual mode
+
+|   |   |
+|---|---|
+|`v`|Enter visual mode|
+|`V`|Enter visual line mode|
+|`<C-v>`|Enter visual block mode|
+|`ggVG`|Select all text|
+|`>` _/_ `<`|Shift text right/left|
+
+### Macros
+
+|   |   |
+|---|---|
+|`qi`|Record macro `i`|
+|`q`|Stop recording macro|
+|`@i`|Run macro `i`|
+|`7@i`|Run macro `i` 7 times|
+|`@@`|Repeat last macro|
+
+You can save macro for any letters not just `i`
+
+## [#](https://quickref.me/vim.html#vim-operators)Vim Operators
+
+### Usage
+
+|   |   |
+|---|---|
+|`d`|w|
+|Operator|Motion|
+
+Combine [operators](https://quickref.me/vim.html#available-operators) with [motions](https://quickref.me/vim.html#motions) to use them
+
+### Available Operators
+
+|   |   |
+|---|---|
+|`d`|Delete|
+|`y`|Yank _(copy)_|
+|`c`|Change _(delete then insert)_|
+|`p`|Paste|
+|`=`|Formats code|
+|`g~`|Toggle case|
+|`gU`|Uppercase|
+|`gu`|Lowercase|
+|`>`|Indent right|
+|`<`|Indent left|
+|`!`|Filter through external program|
+
+### Examples
+
+|Combination|Description|
+|---|---|
+|`d`d|Delete current line|
+|`d`j|Delete two lines|
+|`d`w|Delete to next word|
+|`d`b|Delete to beginning of word|
+|`d`fa|Delete until `a` char|
+|`d`/hello|Delete until `hello`|
+|`c`c|Change current line, synonym with `S`|
+|`y`y|Copy current line|
+|`>`j|Indent 2 lines|
+|gg`d`G|Delete a complete document|
+|gg`=`G|Indent a complete document|
+|gg`y`G|Copy a whole document|
+
+### Counts
+
+```
+[count] <operator> <motion>
+<operator> [count] <motion>
+```
+
+---
+
+|   |   |
+|---|---|
+|2`d`d|Delete `2` lines|
+|6`y`y|Copy `6` lines|
+|`d`3w|Delete `3` words|
+|`d`5j|Delete `5` lines downwards|
+|`>`4k|Indent `4` lines upwards|
+
+## [#](https://quickref.me/vim.html#vim-text-objects)Vim Text objects
+
+### Usage
+
+|   |   |   |
+|---|---|---|
+|`v`|i _/_ a|p|
+|Operator|inner _/_ around|Text object|
+
+Operate with an [operator](https://quickref.me/vim.html#available-operators) inner or around text blocks
+
+### Text objects
+
+|   |   |
+|---|---|
+|p|Paragraph|
+|w|Word|
+|W|WORD  <br>_(surrounded by whitespace)_|
+|s|Sentence|
+|[ ( { <|A [], (), or {} block|
+|] ) } >|A [], (), or {} block|
+|' " `|A quoted string|
+|b|A block [(|
+|B|A block in [{|
+|t|A HTML tag block|
+
+See `:help text-objects`
+
+### Delete
+
+|   |   |
+|---|---|
+|`d`iw|Delete inner word|
+|`d`is|Delete inner sentence|
+|`d`i"|Delete in quotes|
+|`d`a"|Delete in quotes _(including quotes)_|
+|`d`ip|Delete a paragraph|
+
+### Selections
+
+|   |   |
+|---|---|
+|`v`i"|Select inner quotes "`...`"|
+|`v`a"|Select quotes `"..."`|
+|`v`i[|Select inner brackets [`...`]|
+|`v`a[|Select brackets `[...]`|
+|`v`iw|Select inner word|
+|`v`ip|Select inner paragraph|
+|`v`ipip|Select more paragraph|
+
+### Misc
+
+|   |   |
+|---|---|
+|`c`iw|Change inner word|
+|`c`i"|Change inner quotes|
+|`c`it|Change inner tags (HTML)|
+|`c`ip|Change inner paragraph|
+|`y`ip|Yank inner paragraph|
+|`y`ap|Yank paragraph _(including newline)_|
+
+## [#](https://quickref.me/vim.html#vim-multiple-files)Vim Multiple files
+
+### Buffers
+
+|   |   |
+|---|---|
+|`:e file`|Edit a file in a new buffer|
+|`:bn`|Go to the next buffer|
+|`:bp`|Go to the previous buffer|
+|`:bd`|Remove file from buffer list|
+|`:b 5`|Open buffer #5|
+|`:b file`|Go to a buffer by file|
+|`:ls`|List all open buffers|
+|`:sp file`|Open and split window|
+|`:vs file`|Open and vertically split window|
+|`:hid`|Hide this buffer|
+|`:wn`|Write file and move to next|
+|`:tab ba`|Edit all buffers as tabs|
+
+### Windows
+
+|   |   |
+|---|---|
+|`<C-w>` `s`|Split window|
+|`<C-w>` `v`|Split window vertically|
+|`<C-w>` `w`|Switch windows|
+|`<C-w>` `q`|Quit a window|
+|`<C-w>` `T`|Break out into a new tab|
+|`<C-w>` `x`|Swap current with next|
+|`<C-w>` `-` _/_ `+`|Decrease/Increase height|
+|`<C-w>` `<` _/_ `>`|Decrease/Increase width|
+|`<C-w>` `\|`|Max out the width|
+|`<C-w>` `=`|Equally high and wide|
+|`<C-w>` `h` _/_ `l`|Go to the left/right window|
+|`<C-w>` `j` _/_ `k`|Go to the up/down window|
+
+### Tabs
+
+|   |   |
+|---|---|
+|`:tabe [file]`|Edit file in a new tab|
+|`:tabf [file]`|Open if exists in new tab|
+|`:tabc`|Close current tab|
+|`:tabo`|Close other tabs|
+|`:tabs`|List all tabs|
+|`:tabr`|Go to first tab|
+|`:tabl`|Go to last tab|
+|`:tabm 0`|Move to position `0`|
+|`:tabn`|Go to next tab|
+|`:tabp`|Go to previous tab|
+
+#### Normal mode
+
+|   |   |
+|---|---|
+|`gt`|Go to next tab|
+|`gT`|Go to previous tab|
+|`2gt`|Go to tab number `2`|
+
+## [#](https://quickref.me/vim.html#vim-search-and-replace)Vim Search and Replace
+
+### Search
+
+|   |   |
+|---|---|
+|`/foo`|Search forward|
+|`/foo\c`|Search forward _(case insensitive)_|
+|`?foo`|Search backward|
+|`/\v\d+`|Search with [regex](https://quickref.me/regex)|
+|`n`|Next matching search pattern|
+|`N`|Previous match|
+|`*`|Search for current word forward|
+|`#`|Search for current word backward|
+
+### Replace LINE
+
+```vim
+:[range]s/{pattern}/{str}/[flags]
+```
+
+---
+
+|   |   |
+|---|---|
+|`:s/old/new`|Replace first|
+|`:s/old/new/g`|Replace all|
+|`:s/\vold/new/g`|Replace all with [regex](https://quickref.me/regex)|
+|`:s/old/new/gc`|replace all _(Confirm)_|
+|`:s/old/new/i`|Ignore case replace first|
+|`:2,6s/old/new/g`|Replace between lines `2`-`6`|
+
+### Replace FILE
+
+```vim
+:%s/{pattern}/{str}/[flags]
+```
+
+---
+
+|   |   |
+|---|---|
+|`:%s/old/new`|Replace first|
+|`:%s/old/new/g`|Replace all|
+|`:%s/old/new/gc`|Replace all _(Confirm)_|
+|`:%s/old/new/gi`|Replace all _(ignore case)_|
+|`:%s/\vold/new/g`|Replace all with [regex](https://quickref.me/regex)|
+
+### Ranges
+
+|   |   |
+|---|---|
+|`%`|Entire file|
+|`’<,’>`|Current selection|
+|`5`|Line `5`|
+|`5,10`|Lines `5` to `10`|
+|`$`|Last line|
+|`2,$`|Lines `2` to Last|
+|`.`|Current line|
+|`,3`|Next `3` lines|
+|`-3,`|Forward `3` lines|
+
+### Global command
+
+```vim
+:[range]g/{pattern}/[command]
+```
+
+---
+
+|   |   |
+|---|---|
+|`:g/foo/d`|Delete lines containing `foo`|
+|`:g!/foo/d`|Delete lines not containing `foo`|
+|`:g/^\s*$/d`|Delete all blank lines|
+|`:g/foo/t$`|Copy lines containing `foo` to EOF|
+|`:g/foo/m$`|Move lines containing `foo` to EOF|
+|`:g/^/m0`|Reverse a file|
+|`:g/^/t.`|Duplicate every line|
+
+### Inverse :g
+
+```vim
+:[range]v/{pattern}/[command]
+```
+
+---
+
+|   |   |
+|---|---|
+|`:v/foo/d`|Delete lines not containing `foo`  <br>_(also `:g!/foo/d`)_|
+
+### Flags
+
+|   |   |
+|---|---|
+|`g`|Replace all occurrences|
+|`i`|Ignore case|
+|`I`|Don't ignore case|
+|`c`|Confirm each substitution|
+
+### Substitute expression (magic)
+
+|   |   |
+|---|---|
+|`&` _\|_ `\0`|Replace with the whole matched|
+|`\1`...`\9`|Replace with the group 0-9|
+|`\u`|Uppercase next letter|
+|`\U`|Uppercase following characters|
+|`\l`|Lowercase next letter|
+|`\L`|Lowercase following characters|
+|`\e`|End of `\u`, `\U`, `\l` and `\L`|
+|`\E`|End of `\u`, `\U`, `\l` and `\L`|
+
+### Examples
+
+```c
+:s/a\|b/xxx\0xxx/g		         # Modifies "a b"      to "xxxaxxx xxxbxxx"
+:s/test/\U& file/                # Modifies "test"     to "TEST FILE"
+:s/\(test\)/\U\1\e file/         # Modifies "test"     to "TEST file"
+:s/\v([abc])([efg])/\2\1/g	     # Modifies "af fa bg" to "fa fa gb"
+:s/\v\w+/\u\0/g		             # Modifies "bla bla"  to "Bla Bla"
+:s/\v([ab])|([cd])/\1x/g         # Modifies "a b c d"  to "ax bx x x"
+:%s/.*/\L&/                      # Modifies "HTML"     to "html"
+:s/\v<(.)(\w*)/\u\1\L\2/g        # Make every first letter of a word uppercase
+:%s/^\(.*\)\n\1/\1/              # Remove duplicate lines
+:%s/<\/\=\(\w\+\)\>/\U&/g        # Convert HTML-Tags to uppercase
+:g/^pattern/s/$/mytext           # Find and append text to the end
+:g/pattern/norm! @i              # Run a macro on matching lines
+/^\(.*\)\(\r\?\n\1\)\+$          # View the duplicates lines
+/\v^(.*)(\r?\n\1)+$              # View the duplicates lines (very magic)
+:v/./,/./-j                      # Compress blank lines into a blank line
+:g/<p1>/,/<p2>/d                 # Delete inclusively from <p1> to <p2>
+```
+
+## [#](https://quickref.me/vim.html#vimdiff)Vimdiff
+
+### Usage
+
+```shell
+
+$ vimdiff file1 file2 [file3]
+$ vim -d file1 file2 [file3]
+```
+
+### Editing
+
+```
+:[range]diffget [bufspec]
+:[range]diffput [bufspec]
+```
+
+---
+
+|   |   |
+|---|---|
+|`do` _/_ `:diffget`|Obtain (get) difference|
+|`dp` _/_ `:diffput`|Put difference|
+|`:dif`|Re-scan differences|
+|`:diffo`|Switch off diff mode|
+|`:1,$+1diffget`|Get all differences|
+|`ZQ`|Quit without changes|
+
+See: [Ranges](https://quickref.me/vim.html#ranges)
+
+### Folds
+
+|   |   |
+|---|---|
+|`zo` _/_ `zO`|Open|
+|`zc` _/_ `zC`|Close|
+|`za` _/_ `zA`|Toggle|
+|`zv`|Open folds for this line|
+|`zM`|Close all|
+|`zR`|Open all|
+|`zm`|Fold more _(foldlevel += 1)_|
+|`zr`|Fold less _(foldlevel -= 1)_|
+|`zx`|Update folds|
+
+### Jumping
+
+  
+
+|   |   |
+|---|---|
+|`]c`|Next difference|
+|`[c`|Previous difference|
+
+## [#](https://quickref.me/vim.html#miscellaneous)Miscellaneous
+
+### Case
+
+|   |   |
+|---|---|
+|`vU`|_Uppercase_ character|
+|`vu`|_Lowercase_ character|
+|`~`|_Toggle case_ character|
+|`viw` `U`|_Uppercase_ word|
+|`viw` `u`|_Lowercase_ word|
+|`viw` `~`|_Toggle case_ word|
+|`VU` _/_ `gUU`|_Uppercase_ line|
+|`Vu` _/_ `guu`|_Lowercase_ line|
+|`V~` _/_ `g~~`|_Toggle case_ line|
+|`gggUG`|_Uppercase_ all text|
+|`ggguG`|_Lowercase_ all text|
+|`ggg~G`|_Toggle case_ all text|
+
+### Jumping
+
+|   |   |
+|---|---|
+|`<C-o>`|Go back to previous|
+|`<C-i>`|Go forward|
+|`gf`|Go to file in cursor|
+|`ga`|Display hex, ascii value|
+
+### Misc command-lines
+
+|   |   |
+|---|---|
+|`:h`|Help open help view|
+|`:edit!`|Reload current file|
+|`:2,8m0`|Move lines `2`-`8` to `0`|
+|`:noh`|Clear search highlights|
+|`:sort`|Sort lines|
+|`:ter`|Open a terminal window|
+|`:set paste`|Enable Insert Paste sub-mode|
+|`:set nopaste`|disable Insert Paste sub-mode|
+|`:cq`|Exiting with an error  <br>_(aborting Git)_|
+
+### Navigating
+
+|   |   |
+|---|---|
+|`%`|Nearest/matching `{[()]}`|
+|`[(` _\|_ `[{`|Previous `(` or `{`|
+|`])` _\|_ `]{`|Next `)` or `}`|
+|`[m`|Previous method start|
+|`[M`|Previous method end|
+
+### Counters
+
+|   |   |
+|---|---|
+|`<C-a>`|Increase number|
+|`<C-x>`|Decrease number|
+
+### Tags
+
+|   |   |
+|---|---|
+|`:tag Classname`|Jump to first definition of Classname|
+|`<C-]>`|Jump to definition|
+|`g]`|See all definitions|
+|`<C-t>`|Go back to last tag|
+|`<C-o> <C-i>`|Back/forward|
+|`:tselect Classname`|Find definitions of Classname|
+|`:tjump Classname`|Find definitions of Classname (auto-select 1st)|
+
+### Formatting
+
+|   |   |
+|---|---|
+|`:ce 8`|Center lines between `8` columns|
+|`:ri 4`|Right-align lines at `4` columns|
+|`:le`|Left-align lines|
+
+See `:help formatting`
+
+### Marks
+
+|   |   |
+|---|---|
+|`` `^ ``|Last position of cursor in insert mode|
+|`` `. ``|Last change in current buffer|
+|`` `" ``|Last exited current buffer|
+|`` `0 ``|In last file edited|
+|`''`|Back to line in current buffer where jumped from|
+|` `` `|Back to position in current buffer where jumped from|
+|`` `[ ``|To beginning of previously changed or yanked text|
+|`` `] ``|To end of previously changed or yanked text|
+|`` `< ``|To beginning of last visual selection|
+|`` `> ``|To end of last visual selection|
+|`ma`|Mark this cursor position as `a`|
+|`` `a ``|Jump to the cursor position `a`|
+|`'a`|Jump to the beginning of the line with position `a`|
+|`d'a`|Delete from current line to line of mark `a`|
+|``d`a``|Delete from current position to position of mark `a`|
+|`c'a`|Change text from current line to line of `a`|
+|``y`a``|Yank text from current position to position of `a`|
+|`:marks`|List all current marks|
+|`:delm a`|Delete mark `a`|
+|`:delm a-d`|Delete marks `a`, `b`, `c`, `d`|
+|`:delm abc`|Delete marks `a`, `b`, `c`|
+
+### Calculator
+
+|   |   |
+|---|---|
+|`<C-r>` `=` 7*7|Shows the result|
+|`<C-r>` `=` 10/2|Shows the result|
+
+Do this in INSERT mode
+
+### Shell
+
+|   |   |
+|---|---|
+|`:!<shell>`|Interpret Shell Command|
+|`:r!<shell>`|Read in output of shell|
+|`:r!date`|Insert date|
+|`:!!date`|Replace current line with date|
+
+### Command line
+
+|   |   |
+|---|---|
+|`<C-r><C-w>`|Insert current word into the command line|
+|`<C-r>"`|Paste from " register|
+|`<C-x><C-f>`|Auto-completion of path in insert mode|
+
+### Tricks
+
+Remove duplicate lines
+
+```shell
+:sort | %!uniq -u
+```
+
+To number the lines in the file
+
+```shell
+:%!cat -n
+```
+
+Copy whole doc to clipboard
+
+```shell
+:%w !pbcopy            # Mac OS X
+:%w !xclip -i -sel c   # GNU/Linux
+:%w !xsel -i -b        # GNU/Linux
+```
+
+## [#](https://quickref.me/vim.html#also-see)Also see

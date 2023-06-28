@@ -707,4 +707,3 @@ Copy whole doc to clipboard
 :%w !xsel -i -b        # GNU/Linux
 ```
 
-## [#](https://quickref.me/vim.html#also-see)Also see

@@ -11,8 +11,12 @@
             "id": "0c4b7afc0858a450",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md"
+              }
             }
           }
         ],
@@ -156,6 +164,10 @@
   },
   "active": "0c4b7afc0858a450",
   "lastOpenFiles": [
+    "Linux/LINUX SCRIPT/VIM CHEATSHEET.md",
+    "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
+    "Linux/LINUX SCRIPT/VIM commands",
+    "Linux/LINUX SCRIPT/How to Find and Replace Text in a File on Linux.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/distrotube alias rainbowlolcat.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/fish_prompt.fish.md",

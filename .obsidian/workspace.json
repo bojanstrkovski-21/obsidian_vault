@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM.md",
-                "mode": "preview",
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM.md",
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM.md",
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM.md"
+                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md"
               }
             }
           }
@@ -176,9 +176,9 @@
   },
   "active": "1a0188e1ccdc33f3",
   "lastOpenFiles": [
-    "Linux/LINUX SCRIPT/VIM commands/VIM.pdf",
-    "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
     "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
+    "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
+    "Linux/LINUX SCRIPT/VIM commands/VIM.pdf",
     "Linux/LINUX SCRIPT/VIM commands/VIM.md",
     "Linux/LINUX SCRIPT/VIM CHEATSHEET.md",
     "Linux/LINUX SCRIPT/VIM commands",

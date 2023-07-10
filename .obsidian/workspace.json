@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md",
+                "file": "Linux/LINUX SCRIPT/Install Tide fish promt.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md",
+                "file": "Linux/LINUX SCRIPT/Install Tide fish promt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md",
+                "file": "Linux/LINUX SCRIPT/Install Tide fish promt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md"
+                "file": "Linux/LINUX SCRIPT/Install Tide fish promt.md"
               }
             }
           }
@@ -176,6 +176,9 @@
   },
   "active": "1a0188e1ccdc33f3",
   "lastOpenFiles": [
+    "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md",
+    "Linux/LINUX SCRIPT/Install Tide fish promt.md",
+    "Linux/LINUX SCRIPT/Change Default Shell.md",
     "Linux/LINUX SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
     "Linux/LINUX SCRIPT/VIM commands/Unconfirmed 226377.crdownload",
     "Linux/LINUX SCRIPT/VIM commands/VIM.md",
@@ -189,8 +192,6 @@
     "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
     "Linux/LINUX SCRIPT/VIM commands/~$M COMMANDS.docx",
     "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.docx",
-    "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md",
-    "Linux/LINUX SCRIPT/VIM commands",
     "Linux/LINUX SCRIPT/How to Find and Replace Text in a File on Linux.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/distrotube alias rainbowlolcat.md",

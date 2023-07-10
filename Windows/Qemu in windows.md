@@ -170,3 +170,5 @@ How to use QEMU on Windows via QtEmu? Here is the guide:
 ![select Ubuntu ISO file](https://www.minitool.com/images/uploads/articles/2021/12/qemu-for-windows/qemu-for-windows-19.png)
 
 **Step 12:** Select the VM and then click the **Play** icon. Then, you may need to go through the Ubuntu installation process. After the installation process is completed, you can enjoy the VM.
+
+https://www.youtube.com/watch?v=cJzBHXZWxy4

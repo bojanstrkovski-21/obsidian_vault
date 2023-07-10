@@ -1,3 +1,4 @@
+A.  Install build prerequisites on your system
 Build prerequisites
 General requirements (see #1469):
 1. Clang or GCC version 4.9+
@@ -54,3 +55,22 @@ nix-shell '<nixpkgs>' -A neovim-dev
 
 Thus you can run Neovim nightly with:
 nix run github:neovim/neovim?dir=contrib. Similarly to develop on Neovim: nix develop github:neovim/neovim?dir=contrib#neovim-developer.
+
+B. Build Neovim:
+1. git clone https://github.com/neovim/neovim
+2. cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo
+3. run "git checkout stable" If you want the stable release.
+4. If you want to install to a custom location, set CMAKE_INSTALL_PREFIX. See also Installing Neovim.
+   (On BSD, use gmake instead of make.
+   (To build on Windows, see the Building on Windows section. MSVC (Visual Studio) is recommended.
+5. On Debian/Ubuntu, instead of installing files directly with sudo make install, 
+you can run "cd build && cpack -G DEB && sudo dpkg -i nvim-linux64.deb"  to build DEB-package and install it. 
+This should help ensuring the clean removal of installed files.
+Or Default install with "sudo make install" in Default install location "/usr/local"
+
+Notes:
+    From the repository's root directory, running make will download and build all the needed dependencies and put the nvim executable in build/bin.
+    Third-party dependencies (libuv, LuaJIT, etc.) are downloaded automatically to .deps/. See the FAQ if you have issues.
+    After building, you can run the nvim executable without installing it by running VIMRUNTIME=runtime ./build/bin/nvim.
+    If you plan to develop Neovim, install Ninja for faster builds. It will automatically be used.
+    Install ccache for faster rebuilds of Neovim. It's used by default. To disable it, use CCACHE_DISABLE=true make.

@@ -1,5 +1,5 @@
 A. Build Prerequisites
-A.1 general
+
 1. Neovim 0.8 or newer
 2. Nerd Fonts ( Dejavu, Droid, Fira Code,Fira Mono,Hack Nerd, Incosolata, 
 Iosevska, JetBrainsMono Nerd Font, source-code-pro,Meslo,
@@ -49,14 +49,5 @@ Terminess nerd-Terminus, Ubuntu Font)
    nvm list-remote  for listing node versions 
    nvm install node  for installing latest nodej+npm
   9.1 for neovim integration insstall: npm install -g neovim
-A.2 Platform-specific requirements are listed below.
-Ubuntu/Debian
-sudo apt-get install ninja-build gettext cmake unzip curl
-CentOS / RHEL / Fedora
-sudo dnf -y install ninja-build cmake gcc make unzip gettext curl
-openSUSE
-sudo zypper install ninja cmake gcc-c++ gettext-tools curl
-Arch Linux
-sudo pacman -S base-devel cmake unzip ninja curl
-VoidLinux
-xbps-install base-devel cmake curl git
+
+

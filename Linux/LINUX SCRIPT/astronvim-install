@@ -49,5 +49,11 @@ Terminess nerd-Terminus, Ubuntu Font)
    nvm list-remote  for listing node versions 
    nvm install node  for installing latest nodej+npm
   9.1 for neovim integration insstall: npm install -g neovim
+10. ncurses sudo apt-get install libncurses5-dev libncursesw5-dev
 
-
+B. Install  Astronvim
+bacup older: 
+mv ~/.config/nvim ~/.config/nvim.bak
+mv ~/.local/share/nvim ~/.local/share/nvim.bak
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+nvim

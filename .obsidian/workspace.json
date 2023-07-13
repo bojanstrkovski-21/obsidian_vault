@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "53fd1801a2e9922c",
+        "id": "2a5da4a4d268dbdd",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4b7afc0858a450",
+            "id": "36234652131688a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0188e1ccdc33f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/Qemu in windows.md",
+                "file": "Linux/09. Leftwm/Installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 200
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Qemu in windows.md",
+                "file": "Linux/09. Leftwm/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Qemu in windows.md",
+                "file": "Linux/09. Leftwm/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Qemu in windows.md"
+                "file": "Linux/09. Leftwm/Installation.md"
               }
             }
           }
@@ -174,11 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a0188e1ccdc33f3",
+  "active": "36234652131688a4",
   "lastOpenFiles": [
+    "Linux/09. Leftwm/Installation.md",
+    "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
+    "Linux/09. Leftwm/Dependencies.md",
+    "Windows/Qemu in windows.md",
+    "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
     "Linux/LINUX SCRIPT/Install Tide fish promt.md",
-    "Windows/Qemu in windows.md",
     "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md",
     "Linux/LINUX SCRIPT/Change Default Shell.md",
     "Linux/LINUX SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
@@ -190,10 +181,8 @@
     "Linux/LINUX SCRIPT/VIM commands/~$VIM.docx",
     "Linux/LINUX SCRIPT/VIM commands/VIM.docx",
     "Linux/LINUX SCRIPT/VIM commands/VIM.pdf",
-    "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
     "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.md",
     "Linux/LINUX SCRIPT/VIM commands/~$M COMMANDS.docx",
-    "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS.docx",
     "Linux/LINUX SCRIPT/How to Find and Replace Text in a File on Linux.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/fish_sparklines.md",
     "Linux/LINUX SCRIPT/Sparklines_fish/distrotube alias rainbowlolcat.md",

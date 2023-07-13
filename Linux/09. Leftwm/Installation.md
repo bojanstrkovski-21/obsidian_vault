@@ -1,3 +1,5 @@
+https://github.com/leftwm/leftwm
+
 I. With Package Managers
 ## Gentoo ([GURU](https://gitweb.gentoo.org/repo/proj/guru.git/tree/x11-wm/leftwm))
 
@@ -105,4 +107,5 @@ exec dbus-launch ~/.cargo/bin/leftwm >> ~/.cache/leftwm.log 2>&1
     
 
 You should now see LeftWM in your list of available window managers. At this point, expect only a simple black screen on login. For a more customized look, install a theme.
+
 

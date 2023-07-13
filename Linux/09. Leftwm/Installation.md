@@ -70,3 +70,39 @@ exec dbus-launch ~/.cargo/bin/leftwm >> ~/.cache/leftwm.log 2>&1
 ```
 
 
+# Manual Installation (no package manager)
+
+## [](https://github.com/leftwm/leftwm#using-a-graphical-login-such-as-lightdm-gdm-lxdm-and-others)Using a graphical login such as LightDM, GDM, LXDM, and others
+
+1. Dependencies: Rust, Cargo
+    
+2. Clone the repository and cd into the directory
+    
+    ```shell
+    git clone https://github.com/leftwm/leftwm.git
+    cd leftwm
+    ```
+    
+3. Build leftwm
+    
+    ```shell
+    cargo build --profile optimized
+    ```
+    
+    For more options see the [build options](https://github.com/leftwm/leftwm#optional-build-features) section.
+    
+4. Copy leftwm executables to the /usr/bin folder
+    
+    ```shell
+    sudo install -s -Dm755 ./target/optimized/leftwm ./target/optimized/leftwm-worker ./target/optimized/lefthk-worker ./target/optimized/leftwm-state ./target/optimized/leftwm-check ./target/optimized/leftwm-command -t /usr/bin
+    ```
+    
+5. Copy leftwm.desktop to xsessions folder
+    
+    ```shell
+    sudo cp leftwm.desktop /usr/share/xsessions/
+    ```
+    
+
+You should now see LeftWM in your list of available window managers. At this point, expect only a simple black screen on login. For a more customized look, install a theme.
+

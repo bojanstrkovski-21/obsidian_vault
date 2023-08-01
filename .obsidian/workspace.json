@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5da4a4d268dbdd",
+        "id": "9c223844acee3880",
         "type": "tabs",
         "children": [
           {
-            "id": "36234652131688a4",
+            "id": "4654fef860e34136",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/09. Leftwm/Installation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/09. Leftwm/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/09. Leftwm/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/09. Leftwm/Installation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,17 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36234652131688a4",
+  "active": "4654fef860e34136",
   "lastOpenFiles": [
+    "Linux/LINUX SCRIPT/Install Tide fish promt.md",
+    "Linux/LINUX SCRIPT/Change Default Shell.md",
     "Linux/09. Leftwm/Installation.md",
     "Linux/LINUX SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
     "Linux/09. Leftwm/Dependencies.md",
     "Windows/Qemu in windows.md",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
-    "Linux/LINUX SCRIPT/Install Tide fish promt.md",
     "Linux/LINUX SCRIPT/VIM commands/VIM CHEATSHEET.md",
-    "Linux/LINUX SCRIPT/Change Default Shell.md",
     "Linux/LINUX SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
     "Linux/LINUX SCRIPT/VIM commands/Unconfirmed 226377.crdownload",
     "Linux/LINUX SCRIPT/VIM commands/VIM.md",

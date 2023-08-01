@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "de7157989158ba36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md"
+              }
             }
           }
         ]
@@ -153,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4654fef860e34136",
+  "active": "de7157989158ba36",
   "lastOpenFiles": [
+    "Linux/LINUX SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX SCRIPT/Install Tide fish promt.md",
     "Linux/LINUX SCRIPT/Change Default Shell.md",
     "Linux/09. Leftwm/Installation.md",

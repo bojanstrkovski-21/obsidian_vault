@@ -1,5 +1,26 @@
 To add multiple custom repositories to the Pacman configuration file (`/etc/pacman.conf`), you can use a script that appends the repository information to the end of the configuration file. Here's a simple bash script to achieve this:
 
+```
+#!/bin/bash 
+
+# Function to add a custom repository to pacman.conf add_repository() { 
+repo_name="$1" 
+repo_url="$2" 
+
+echo -e "\n[${repo_name}]\nSigLevel = Optional TrustAll\nServer = ${repo_url}\n" | sudo tee -a /etc/pacman.conf } 
+
+# Add your custom repositories here 
+# Example: 
+# add_repository "my_repo" "https://example.com/repo" 
+
+# Uncomment and edit the lines below to add your custom repositories 
+# add_repository "custom_repo_1" "https://custom_repo_1_url" 
+# add_repository "custom_repo_2" "https://custom_repo_2_url" 
+# add_repository "custom_repo_3" "https://custom_repo_3_url" 
+
+# After adding the repositories, you may want to refresh the package database # sudo pacman -Sy echo "Custom repositories added to pacman.conf."
+```
+
 
 
 

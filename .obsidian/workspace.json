@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md",
+                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md",
+                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md",
+                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX SCRIPT/Qprocess-links-web.md"
+                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md"
               }
             }
           }
@@ -173,6 +174,7 @@
   "active": "de7157989158ba36",
   "lastOpenFiles": [
     "Linux/LINUX SCRIPT/Qprocess-links-web.md",
+    "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX SCRIPT/Install Tide fish promt.md",
     "Linux/LINUX SCRIPT/Change Default Shell.md",
     "Linux/09. Leftwm/Installation.md",

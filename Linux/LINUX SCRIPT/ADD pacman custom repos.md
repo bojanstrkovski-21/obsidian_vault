@@ -17,6 +17,7 @@ echo -e "\n[${repo_name}]\nSigLevel = Optional TrustAll\nServer = ${repo_url}\n"
 # add_repository "custom_repo_1" "https://custom_repo_1_url" 
 # add_repository "custom_repo_2" "https://custom_repo_2_url" 
 # add_repository "custom_repo_3" "https://custom_repo_3_url" 
+# https://gitlab.com/bojanstrkovski-21/\$repo/-/raw/main/\$arch/
 
 # After adding the repositories, you may want to refresh the package database 
 

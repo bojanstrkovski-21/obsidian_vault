@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "OBSIDIAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "OBSIDIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "OBSIDIAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "OBSIDIAN.md"
               }
             }
           }
@@ -172,7 +172,7 @@
   },
   "active": "25a2c94f08e5d7b8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "OBSIDIAN.md",
     "Linux/LINUX SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX SCRIPT/Install Tide fish promt.md",

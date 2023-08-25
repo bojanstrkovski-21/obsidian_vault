@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "de7157989158ba36",
+            "id": "25a2c94f08e5d7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX SCRIPT/ADD pacman custom repos.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -171,8 +170,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "25a2c94f08e5d7b8",
   "lastOpenFiles": [
+    "Untitled.md",
     "Linux/LINUX SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX SCRIPT/Install Tide fish promt.md",

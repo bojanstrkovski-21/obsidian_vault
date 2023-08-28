@@ -4,5 +4,7 @@
   "settings-search",
   "homepage",
   "obsidian-emoji-toolbar",
-  "dataview"
+  "dataview",
+  "obsidian-banners",
+  "reveal-active-file-button"
 ]

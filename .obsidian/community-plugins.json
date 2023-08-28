@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "settings-search",
+  "homepage",
+  "obsidian-emoji-toolbar",
+  "dataview"
 ]

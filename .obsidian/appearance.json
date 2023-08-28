@@ -2,5 +2,9 @@
   "accentColor": "",
   "nativeMenus": true,
   "cssTheme": "AnuPpuccin",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }

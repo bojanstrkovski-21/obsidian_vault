@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cb07216cfa44d72c",
+        "id": "e0c1f95b29f64ac6",
         "type": "tabs",
         "children": [
           {
-            "id": "93ab1ae5917bd865",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a6803856add4ff3f",
+            "id": "62a1e9a0088396da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,11 +163,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "62a1e9a0088396da",
   "lastOpenFiles": [
+    "Texas.md",
+    "Home.md",
     "images/home.jpg",
     "images",
-    "Home.md",
     "Obsidian",
     "Obsidian/OBSIDIAN.md",
     "Linux/LINUX SCRIPT/Qprocess-links-web.md",

@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": true,
+  "cssTheme": "AnuPpuccin",
+  "showViewHeader": true
 }

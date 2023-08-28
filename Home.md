@@ -72,4 +72,5 @@ banner_y: 0.008
 	- Linux/Security: `$=dv.pages('"Linux/04. Security"').length`
 	- Linux/Tips: `$=dv.pages('"Linux/05. Tips"').length`
 	- Linux/Monitoring: `$=dv.pages('"Linux/06. Monitoring"').length`
-	- Linux/Git_and_github: `$=dv.pages('"Linux/07. Git a"').length`
+	- Linux/Git_and_github: `$=dv.pages('"Linux/07. Git"').length`
+	- 

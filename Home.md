@@ -7,7 +7,7 @@ banner_y: 0.008
 <div class="title" style="color:Sienna">HOME</div>
 
 # 🐧 Linux Basics
-- 🗄️ Linux Basics
+- 🔹 Linux Basics
 	- [[01. How To Flush DNS Cache on Linux – devconnected|How to flush dns cache on linux]]
 	- [[02. How To Find Last Login on Linux – devconnected|How to find last login on linux]]
 	- [[03. How To List Services on Linux – devconnected|How to list services in linux]]
@@ -18,16 +18,16 @@ banner_y: 0.008
 	- [[08. APT Package Manager on Linux Explained – devconnected|APT package manager on linux explained]]
 	- [[09. How To Check RAM on Linux – devconnected|How to check ram on linux]]
 	- [[10. How To Archive and Compress Files on Linux – devconnected|How to archive and compress files on linux]]
--  Linux Basics 02
+- 🔹 Linux Basics 02
 	- [[Family Recipes]]
 	- [[Family Calendar]]
 	- [[Education Plan]]
 	- [[Yearly Budget]]
-- 🌅 Exotic Vacations 
+- 🔹 Exotic Vacations 
 	- [[Peru]]
 	- [[Austria]]
 	- [[Texas]]  
-- 🎥 Movies to Watch
+- 🔹 Movies to Watch
 	- [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
 	- [Joe vs the Volcano](https://www.imdb.com/title/tt0099892/)
 
@@ -66,4 +66,4 @@ banner_y: 0.008
  `$=dv.list(dv.pages('#favorite').sort(f=>f.file.name,"desc").limit(4).file.link)`
 - 〽️ Stats
 	-  File Count: `$=dv.pages().length`
-	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
+	-  Personal recipes: `$=dv.pages('').length`

@@ -7,10 +7,11 @@ banner_y: 0.008
 <div class="title" style="color:Sienna">HOME</div>
 
 # Family
-- 🏈 Sunday Game
-	- [[Spicy-Sweet Buffalo Popcorn]]
-	- [[Guest list]]
-	- [Jalapeno Popper Wantons](https://www.allrecipes.com/recipe/166991/jalapeno-popper-wontons/)
+- 🐧 Linux/01. Basics
+	- [[01. How To Flush DNS Cache on Linux – devconnected]]
+	- [[02. How To Find Last Login on Linux – devconnected]]
+	- [[03. How To List Services on Linux – devconnected]]
+	- 
 - 👨‍👩‍👦 Objectives
 	- [[Family Recipes]]
 	- [[Family Calendar]]

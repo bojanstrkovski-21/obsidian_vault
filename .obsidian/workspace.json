@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9c223844acee3880",
+        "id": "cb07216cfa44d72c",
         "type": "tabs",
         "children": [
           {
-            "id": "4654fef860e34136",
+            "id": "93ab1ae5917bd865",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "de7157989158ba36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OBSIDIAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OBSIDIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OBSIDIAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OBSIDIAN.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,7 +153,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de7157989158ba36",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
     "OBSIDIAN.md",
     "Linux/LINUX SCRIPT/Qprocess-links-web.md",

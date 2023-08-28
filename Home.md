@@ -16,7 +16,9 @@ banner_y: 0.008
 	- [[06. Working Remotely with Linux Systems – devconnected|Working remotely with linux systems]]
 	- [[07. Find Text in Files on Linux using grep – devconnected|Find text in files on linux using grep]]
 	- [[08. APT Package Manager on Linux Explained – devconnected|APT package manager on linux explained]]
-- 👨‍👩‍👦 Objectives
+	- [[09. How To Check RAM on Linux – devconnected|How to check ram on linux]]
+	- [[10. How To Archive and Compress Files on Linux – devconnected|How to archive and compress files on linux]]
+-  Linux Basics 02
 	- [[Family Recipes]]
 	- [[Family Calendar]]
 	- [[Education Plan]]

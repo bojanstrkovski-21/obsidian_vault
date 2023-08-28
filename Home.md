@@ -6,12 +6,11 @@ banner_y: 0.008
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
-# Family
-- 🐧 Linux/01. Basics
-	- [[01. How To Flush DNS Cache on Linux – devconnected]]
-	- [[02. How To Find Last Login on Linux – devconnected]]
-	- [[03. How To List Services on Linux – devconnected]]
-	- 
+# 🐧 Basics
+- [[01. How To Flush DNS Cache on Linux – devconnected|How to flush dns cache on linux]]
+- [[02. How To Find Last Login on Linux – devconnected|How to find last login on linux]]
+- [[03. How To List Services on Linux – devconnected|How to list services in linux]]
+- [[04. How To Get Your IP Address on Linux – devconnected]]
 - 👨‍👩‍👦 Objectives
 	- [[Family Recipes]]
 	- [[Family Calendar]]

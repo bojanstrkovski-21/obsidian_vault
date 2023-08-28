@@ -7,10 +7,14 @@ banner_y: 0.008
 <div class="title" style="color:Sienna">HOME</div>
 
 # 🐧 Basics
-- [[01. How To Flush DNS Cache on Linux – devconnected|How to flush dns cache on linux]]
-- [[02. How To Find Last Login on Linux – devconnected|How to find last login on linux]]
-- [[03. How To List Services on Linux – devconnected|How to list services in linux]]
-- [[04. How To Get Your IP Address on Linux – devconnected]]
+- 🗄️ Linux Basics
+	- [[01. How To Flush DNS Cache on Linux – devconnected|How to flush dns cache on linux]]
+	- [[02. How To Find Last Login on Linux – devconnected|How to find last login on linux]]
+	- [[03. How To List Services on Linux – devconnected|How to list services in linux]]
+	- [[04. How To Get Your IP Address on Linux – devconnected|How to get your IP address on linux]]
+	- [[05. Network Manager on Linux with Examples – devconnected|Network Manager on linux with examples]]
+	- [[06. Working Remotely with Linux Systems – devconnected|Working remotely with linux Systems]]
+	- 
 - 👨‍👩‍👦 Objectives
 	- [[Family Recipes]]
 	- [[Family Calendar]]

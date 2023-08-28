@@ -6,15 +6,16 @@ banner_y: 0.008
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
-# 🐧 Basics
+# 🐧 Linux Basics
 - 🗄️ Linux Basics
 	- [[01. How To Flush DNS Cache on Linux – devconnected|How to flush dns cache on linux]]
 	- [[02. How To Find Last Login on Linux – devconnected|How to find last login on linux]]
 	- [[03. How To List Services on Linux – devconnected|How to list services in linux]]
 	- [[04. How To Get Your IP Address on Linux – devconnected|How to get your IP address on linux]]
 	- [[05. Network Manager on Linux with Examples – devconnected|Network Manager on linux with examples]]
-	- [[06. Working Remotely with Linux Systems – devconnected|Working remotely with linux Systems]]
-	- 
+	- [[06. Working Remotely with Linux Systems – devconnected|Working remotely with linux systems]]
+	- [[07. Find Text in Files on Linux using grep – devconnected|Find text in files on linux using grep]]
+	- [[08. APT Package Manager on Linux Explained – devconnected|APT package manager on linux explained]]
 - 👨‍👩‍👦 Objectives
 	- [[Family Recipes]]
 	- [[Family Calendar]]

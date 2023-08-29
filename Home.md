@@ -37,7 +37,8 @@ banner_y: 0.008
 	- [[24. How To Install and Enable SSH Server on Debian 10|How to install and enable SSH server on Debian]]
 	- [[25. Access Control Lists on Linux Explained – devconnected|Access control lists on linux explained]]
 	- [[26. How To Change The Timezone on Debian 10 Buster – devconnected|How to change the timezone on Debian]]
-	- 
+	- [[29. How To List Users and Groups on Linux – devconnected|How To List Users and Groups on Linux]]
+	- [[]]
 	  
 - 🔹 Movies to Watch
 	- [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
@@ -86,4 +87,5 @@ banner_y: 0.008
 	- Linux/Monitoring: `$=dv.pages('"Linux/06. Monitoring"').length`
 	- Linux/Git_and_github: `$=dv.pages('"Linux/07. Git"').length`
 	- Linux/Docker: `$=dv.pages('"Linux/08. Docker"').length`
-	- Linux
+	- Linux/Leftwm: `$=dv.pages('"Linux/09. Leftwm"').length`
+	- Linux/Linux_Script: `$=dv.pages('"Linux/LINUX_SCRIPT"').length`

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e877cf5d77a49e6",
+        "id": "87f9aa42b40d4083",
         "type": "tabs",
         "children": [
           {
-            "id": "2b873324ff7bcb75",
+            "id": "584a35274eded759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "490252c7257b3ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,10 +163,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2b873324ff7bcb75",
+  "active": "584a35274eded759",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
     "Home.md",
+    "Untitled.md",
+    "Linux/09. Leftwm/Installation.md",
+    "Linux/09. Leftwm/Dependencies.md",
     "Linux/01. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
     "Linux/01. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
     "Linux/01. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
@@ -192,9 +183,7 @@
     "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX_SCRIPT/Install Tide fish promt.md",
     "Linux/LINUX_SCRIPT/Change Default Shell.md",
-    "Linux/09. Leftwm/Installation.md",
     "Linux/LINUX_SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
-    "Linux/09. Leftwm/Dependencies.md",
     "Windows/Qemu in windows.md",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
@@ -214,7 +203,6 @@
     "Linux/LINUX_SCRIPT/Sparklines_fish/fish_prompt.fish.md",
     "Linux/LINUX_SCRIPT/netstart/net-start_default.md",
     "Linux/LINUX_SCRIPT/netstart/net-start_default.service.md",
-    "Linux/LINUX_SCRIPT/vbox/virtualbox-link.md",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

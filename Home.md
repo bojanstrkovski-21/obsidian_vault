@@ -19,10 +19,10 @@ banner_y: 0.008
 	- [[09. How To Check RAM on Linux – devconnected|How to check ram on linux]]
 	- [[10. How To Archive and Compress Files on Linux – devconnected|How to archive and compress files on linux]]
 - 🔹 Linux Basics 02
-	- [[Family Recipes]]
-	- [[Family Calendar]]
-	- [[Education Plan]]
-	- [[Yearly Budget]]
+	- [[11. Command Not Found in Bash Fixed – devconnected|Command not found in bash fixed]]
+	- [[13. How To Format Disk Partitions on Linux – devconnected|How to format disk partitions on linux]]
+	- [[12. How To Mount and Unmount Drives on Linux – devconnected|How to mount and unmount drives on linux]]
+	- [[14.]]
 - 🔹 Exotic Vacations 
 	- [[Peru]]
 	- [[Austria]]

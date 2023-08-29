@@ -46,10 +46,12 @@ banner_y: 0.008
 	- [[31. Input Output Redirection on Linux Explained – devconnected|Input Output Redirection on Linux Explained]]
 	- [[32. How To Add Swap Space on Debian 10 Buster – devconnected|How To Add Swap Space on Debian]]
 	- [[33. How To Change User Password on Debian 10 – devconnected|How To Change User Password on Debian]]
-	- [[34. How To Add and Delete Users on Debian 10 Buster – devconnected]]
-	- 
+	- [[34. How To Add and Delete Users on Debian 10 Buster – devconnected|How To Add and Delete Users on Debian]]
+	- [[35. How To Set Up SSH Keys on Debian 10 Buster – devconnected|How To Set Up SSH Keys on Debian]]
+	- [[36. Understanding Hard and Soft Links on Linux – devconnected|Understanding Hard and Soft Links on Linux]]
+	- [[37. Linux File Permissions Complete Guide – devconnected|Linux File Permissions Complete Guide]]
 
- # Personal Projects
+ #  Bash
 - 🏡 Remodeling Projects
 	- [[Bathroom Remodel]]
 	- [[Paint entryway]]

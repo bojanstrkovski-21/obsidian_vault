@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "490252c7257b3ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -165,9 +177,10 @@
   },
   "active": "2b873324ff7bcb75",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Home.md",
     "Linux/01. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
     "Linux/01. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
-    "Home.md",
     "Linux/01. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
     "Linux/01. Basics/12. How To Mount and Unmount Drives on Linux – devconnected.md",
     "Texas.md",
@@ -202,7 +215,6 @@
     "Linux/LINUX_SCRIPT/netstart/net-start_default.md",
     "Linux/LINUX_SCRIPT/netstart/net-start_default.service.md",
     "Linux/LINUX_SCRIPT/vbox/virtualbox-link.md",
-    "Linux/02. Bash/img/Pasted image 20230129142723.png",
-    "Linux/02. Bash/06. Writing Scripts on Linux using Bash – devconnected.md"
+    "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

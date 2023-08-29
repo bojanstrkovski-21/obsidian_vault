@@ -25,8 +25,11 @@ banner_y: 0.008
 	- [[14. How To Check Free Disk Space on Linux – devconnected|How to check free disk space on linux]]
 	- [[15. How To Create Disk Partitions on Linux – devconnected|How to create disk partitions on linux]]
 	- [[16. How To Show Hidden Files on Linux – devconnected|How to show hidden files on linux]]
-	- 
-- 🔹 Exotic Vacations 
+	- [[17. How To Set and Unset Environment Variables on Linux – devconnected|How to set and unset environment variables on linux]]
+	- [[18. How To Set Date and Time On Linux – devconnected|How to set date and time on linux]]
+	- [[19. How To Change User on Linux – devconnected|How to change user on linux]]
+	- [[20. User Administration Complete Guide on Linux – devconnected|User administration complete guide on linux]]
+- 🔹 Linux Basics 03
 	- [[Peru]]
 	- [[Austria]]
 	- [[Texas]]  

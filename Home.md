@@ -37,12 +37,17 @@ banner_y: 0.008
 	- [[24. How To Install and Enable SSH Server on Debian 10|How to install and enable SSH server on Debian]]
 	- [[25. Access Control Lists on Linux Explained – devconnected|Access control lists on linux explained]]
 	- [[26. How To Change The Timezone on Debian 10 Buster – devconnected|How to change the timezone on Debian]]
+	- [[27. Source Command on Linux Explained – devconnected|Source Command on Linux Explained]]
+	- [[28. Cron Jobs and Crontab on Linux Explained – devconnected|Cron Jobs and Crontab on Linux Explained]]
 	- [[29. How To List Users and Groups on Linux – devconnected|How To List Users and Groups on Linux]]
-	- [[]]
 	  
-- 🔹 Movies to Watch
-	- [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
-	- [Joe vs the Volcano](https://www.imdb.com/title/tt0099892/)
+- 🔹 Linux Basics 04
+	- [[30. Find Files and Directories on Linux Easily – devconnected|Find Files and Directories on Linux Easily]]
+	- [[31. Input Output Redirection on Linux Explained – devconnected|Input Output Redirection on Linux Explained]]
+	- [[32. How To Add Swap Space on Debian 10 Buster – devconnected|How To Add Swap Space on Debian]]
+	- [[33. How To Change User Password on Debian 10 – devconnected|How To Change User Password on Debian]]
+	- [[34. How To Add and Delete Users on Debian 10 Buster – devconnected]]
+	- 
 
  # Personal Projects
 - 🏡 Remodeling Projects

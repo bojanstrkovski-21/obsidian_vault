@@ -22,7 +22,10 @@ banner_y: 0.008
 	- [[11. Command Not Found in Bash Fixed – devconnected|Command not found in bash fixed]]
 	- [[13. How To Format Disk Partitions on Linux – devconnected|How to format disk partitions on linux]]
 	- [[12. How To Mount and Unmount Drives on Linux – devconnected|How to mount and unmount drives on linux]]
-	- [[14.]]
+	- [[14. How To Check Free Disk Space on Linux – devconnected|How to check free disk space on linux]]
+	- [[15. How To Create Disk Partitions on Linux – devconnected|How to create disk partitions on linux]]
+	- [[16. How To Show Hidden Files on Linux – devconnected|How to show hidden files on linux]]
+	- 
 - 🔹 Exotic Vacations 
 	- [[Peru]]
 	- [[Austria]]

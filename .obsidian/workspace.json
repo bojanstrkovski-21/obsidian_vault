@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c1f95b29f64ac6",
+        "id": "2e877cf5d77a49e6",
         "type": "tabs",
         "children": [
           {
-            "id": "62a1e9a0088396da",
+            "id": "2b873324ff7bcb75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62a1e9a0088396da",
+  "active": "2b873324ff7bcb75",
   "lastOpenFiles": [
-    "Texas.md",
+    "Linux/01. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
+    "Linux/01. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
     "Home.md",
+    "Linux/01. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
+    "Linux/01. Basics/12. How To Mount and Unmount Drives on Linux – devconnected.md",
+    "Texas.md",
     "images/home.jpg",
     "images",
     "Obsidian",
@@ -199,8 +203,6 @@
     "Linux/LINUX_SCRIPT/netstart/net-start_default.service.md",
     "Linux/LINUX_SCRIPT/vbox/virtualbox-link.md",
     "Linux/02. Bash/img/Pasted image 20230129142723.png",
-    "Linux/02. Bash/06. Writing Scripts on Linux using Bash – devconnected.md",
-    "Linux/02. Bash/05. Advanced Bash Scripting Guide – devconnected.md",
-    "Linux/02. Bash/04. How To Check If File or Directory Exists in Bash – devconnected.md"
+    "Linux/02. Bash/06. Writing Scripts on Linux using Bash – devconnected.md"
   ]
 }

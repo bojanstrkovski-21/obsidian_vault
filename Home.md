@@ -29,13 +29,15 @@ banner_y: 0.008
 	- [[18. How To Set Date and Time On Linux – devconnected|How to set date and time on linux]]
 	- [[19. How To Change User on Linux – devconnected|How to change user on linux]]
 	- [[20. User Administration Complete Guide on Linux – devconnected|User administration complete guide on linux]]
+
 - 🔹 Linux Basics 03
 	- [[21. Screen Command on Linux Explained – devconnected|Screen command on linux explained]]
 	- [[22. 4 Ways to Transfer Files and Directories on Linux – devconnected|4 ways to transfer files and directories on linux]]
 	- [[23. Understanding Processes on Linux – devconnected|Understanding processes on linux]]
 	- [[24. How To Install and Enable SSH Server on Debian 10|How to install and enable SSH server on Debian]]
+	- [[25. Access Control Lists on Linux Explained – devconnected|Access control lists on linux explained]]
+	- [[26. How To Change The Timezone on Debian 10 Buster – devconnected|How to change the timezone on Debian]]
 	- 
-
 	  
 - 🔹 Movies to Watch
 	- [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
@@ -83,4 +85,5 @@ banner_y: 0.008
 	- Linux/Tips: `$=dv.pages('"Linux/05. Tips"').length`
 	- Linux/Monitoring: `$=dv.pages('"Linux/06. Monitoring"').length`
 	- Linux/Git_and_github: `$=dv.pages('"Linux/07. Git"').length`
-	- 
+	- Linux/Docker: `$=dv.pages('"Linux/08. Docker"').length`
+	- Linux

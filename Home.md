@@ -30,19 +30,13 @@ banner_y: 0.008
 	- [[19. How To Change User on Linux – devconnected|How to change user on linux]]
 	- [[20. User Administration Complete Guide on Linux – devconnected|User administration complete guide on linux]]
 - 🔹 Linux Basics 03
-	- [[Peru]]
-	- [21. Screen Command on Linux Explained – devconnected](app://obsidian.md/Linux/01.%20Basics/21.%20Screen%20Command%20on%20Linux%20Explained%20%E2%80%93%20devconnected.md)
-- [22. 4 Ways to Transfer Files and Directories on Linux – devconnected](app://obsidian.md/Linux/01.%20Basics/22.%204%20Ways%20to%20Transfer%20Files%20and%20Directories%20on%20Linux%20%E2%80%93%20devconnected.md)
-- [23. Understanding Processes on Linux – devconnected](app://obsidian.md/Linux/01.%20Basics/23.%20Understanding%20Processes%20on%20Linux%20%E2%80%93%20devconnected.md)
-- [24. How To Install and Enable SSH Server on Debian 10](app://obsidian.md/Linux/01.%20Basics/24.%20How%20To%20Install%20and%20Enable%20SSH%20Server%20on%20Debian%2010.md)
-- [25. Access Control Lists on Linux Explained – devconnected](app://obsidian.md/Linux/01.%20Basics/25.%20Access%20Control%20Lists%20on%20Linux%20Explained%20%E2%80%93%20devconnected.md)
-- [26. How To Change The Timezone on Debian 10 Buster – devconnected](app://obsidian.md/Linux/01.%20Basics/26.%20How%20To%20Change%20The%20Timezone%20on%20Debian%2010%20Buster%20%E2%80%93%20devconnected.md)
-- [27. Source Command on Linux Explained – devconnected](app://obsidian.md/Linux/01.%20Basics/27.%20Source%20Command%20on%20Linux%20Explained%20%E2%80%93%20devconnected.md)
-- [28. Cron Jobs and Crontab on Linux Explained – devconnected](app://obsidian.md/Linux/01.%20Basics/28.%20Cron%20Jobs%20and%20Crontab%20on%20Linux%20Explained%20%E2%80%93%20devconnected.md)
-- [29. How To List Users and Groups on Linux – devconnected](app://obsidian.md/Linux/01.%20Basics/29.%20How%20To%20List%20Users%20and%20Groups%20on%20Linux%20%E2%80%93%20devconnected.md)
-- [30. Find Files and Directories on Linux Easily – devconnected](app://obsidian.md/Linux/01.%20Basics/30.%20Find%20Files%20and%20Directories%20on%20Linux%20Easily%20%E2%80%93%20devconnected.md)
-	- [[Austria]]
-	- [[Texas]]  
+	- [[21. Screen Command on Linux Explained – devconnected|Screen command on linux explained]]
+	- [[22. 4 Ways to Transfer Files and Directories on Linux – devconnected|4 ways to transfer files and directories on linux]]
+	- [[23. Understanding Processes on Linux – devconnected|Understanding processes on linux]]
+	- [[24. How To Install and Enable SSH Server on Debian 10|How to install and enable SSH server on Debian]]
+	- 
+
+	  
 - 🔹 Movies to Watch
 	- [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
 	- [Joe vs the Volcano](https://www.imdb.com/title/tt0099892/)

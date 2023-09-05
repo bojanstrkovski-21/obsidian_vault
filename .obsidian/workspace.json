@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md"
               }
             }
           }
@@ -163,10 +163,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "584a35274eded759",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
-    "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
     "Home.md",
+    "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
     "Untitled.md",
     "Linux/09. Leftwm/Installation.md",
     "Linux/09. Leftwm/Dependencies.md",

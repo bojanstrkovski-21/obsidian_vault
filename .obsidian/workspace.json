@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
+                "file": "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "466dd8766a2e456d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
               }
             }
           }
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
+                "file": "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
+                "file": "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md"
+                "file": "Linux/LINUX_SCRIPT/ADD pacman custom repos.md"
               }
             }
           }
@@ -163,8 +173,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "584a35274eded759",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
+    "Linux/LINUX_SCRIPT/color schema link.md",
+    "Linux/LINUX_SCRIPT/pacman exist.md",
+    "Linux/LINUX_SCRIPT/xfreerdp.md",
+    "Linux/LINUX_SCRIPT/Viber wont Start.md",
+    "Linux/LINUX_SCRIPT/Search and replace text in files in Linux.md",
+    "Linux/LINUX_SCRIPT/recover default folders.md",
+    "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
+    "Linux/LINUX_SCRIPT/pkglist.md",
     "Home.md",
     "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
     "Untitled.md",
@@ -179,7 +198,6 @@
     "images",
     "Obsidian",
     "Obsidian/OBSIDIAN.md",
-    "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX_SCRIPT/Install Tide fish promt.md",
     "Linux/LINUX_SCRIPT/Change Default Shell.md",
@@ -190,19 +208,11 @@
     "Linux/LINUX_SCRIPT/VIM commands/VIM CHEATSHEET.md",
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
     "Linux/LINUX SCRIPT/VIM commands/Unconfirmed 226377.crdownload",
-    "Linux/LINUX_SCRIPT/VIM commands/VIM.md",
     "Linux/LINUX_SCRIPT/VIM commands/VIM1.pdf",
     "Linux/LINUX SCRIPT/VIM commands/~WRL0001.tmp",
     "Linux/LINUX SCRIPT/VIM commands/~WRD0000.tmp",
     "Linux/LINUX SCRIPT/VIM commands/~$VIM.docx",
     "Linux/LINUX_SCRIPT/VIM commands/VIM.docx",
-    "Linux/LINUX_SCRIPT/VIM commands/VIM COMMANDS.md",
-    "Linux/LINUX_SCRIPT/How to Find and Replace Text in a File on Linux.md",
-    "Linux/LINUX_SCRIPT/Sparklines_fish/fish_sparklines.md",
-    "Linux/LINUX_SCRIPT/Sparklines_fish/distrotube alias rainbowlolcat.md",
-    "Linux/LINUX_SCRIPT/Sparklines_fish/fish_prompt.fish.md",
-    "Linux/LINUX_SCRIPT/netstart/net-start_default.md",
-    "Linux/LINUX_SCRIPT/netstart/net-start_default.service.md",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

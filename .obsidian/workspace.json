@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "466dd8766a2e456d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ]
       }
@@ -176,9 +166,9 @@
   },
   "active": "584a35274eded759",
   "lastOpenFiles": [
-    "Untitled.md",
     "Linux/LINUX_SCRIPT/Symbolic links for archiso build.md",
     "Home.md",
+    "Untitled.md",
     "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
     "Linux/LINUX_SCRIPT/color schema link.md",
     "Linux/LINUX_SCRIPT/pacman exist.md",

@@ -323,6 +323,43 @@ def vrfs_selected(self):
         iterator += 1
 ```
 
-the link to the documentation [http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/PyQt-x11-gpl-4.7.2/doc/html/qtreewidgetitemiterator.html](http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/PyQt-x11-gpl-4.7.2/doc/html/qtreewidgetitemiterator.html) and an example [https://riverbankcomputing.com/pipermail/pyqt/2014-May/034315.html](https://riverbankcomputing.com/pipermail/pyqt/2014-May/034315.html)
+the link for the example [https://riverbankcomputing.com/pipermail/pyqt/2014-May/034315.html](https://riverbankcomputing.com/pipermail/pyqt/2014-May/034315.html)
+ 
+https://doc.qt.io/qt-6/qtreewidgetitemiterator.html
 
-[](https://stackoverflow.com/a/41419412 "Short permalink to this answer")
+from PyQt4 import QtGui, QtCore
+
+class Window(QtGui.QWidget):
+     def __init__(self):
+         QtGui.QWidget.__init__(self)
+         self.tree = QtGui.QTreeWidget(self)
+         parent = QtGui.QTreeWidgetItem(self.tree, ['rigname1'])
+         QtGui.QTreeWidgetItem(parent, ['light01'])
+         parent = QtGui.QTreeWidgetItem(parent, ['light02'])
+         QtGui.QTreeWidgetItem(parent, ['object02'])
+         self.tree.expandAll()
+         self.button = QtGui.QPushButton('Print', self)
+         self.button.clicked.connect(self.handleButton)
+         layout = QtGui.QVBoxLayout(self)
+         layout.addWidget(self.tree)
+         layout.addWidget(self.button)
+
+     def handleButton(self):
+         iterator = QtGui.QTreeWidgetItemIterator(self.tree)
+         while iterator.value():
+             item = iterator.value()
+             print item.text(0)
+             iterator += 1
+
+if __name__ == '__main__':
+
+     import sys
+     app = QtGui.QApplication(sys.argv)
+     window = Window()
+     window.resize(300, 200)
+     window.show()
+     sys.exit(app.exec_())
+
+-- 
+Regards
+Baz Walter

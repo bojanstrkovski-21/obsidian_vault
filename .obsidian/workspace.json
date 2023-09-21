@@ -8,27 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7ff08dcef9d6e9d",
+            "id": "c4b767f4d5188750",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "56a80e2a9e6ee55a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "python qtreewidget checkboxes.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.13"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -103,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python qtreewidget checkboxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python qtreewidget checkboxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "python qtreewidget checkboxes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,13 +167,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56a80e2a9e6ee55a",
+  "active": "c4b767f4d5188750",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
+    "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
+    "Linux/LINUX_SCRIPT/pkglist.md",
+    "Home.md",
     "Untitled.md",
     "python qtreewidget checkboxes.md",
-    "Home.md",
     "Linux/LINUX_SCRIPT/Symbolic links for archiso build.md",
-    "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
     "Linux/LINUX_SCRIPT/color schema link.md",
     "Linux/LINUX_SCRIPT/pacman exist.md",
     "Linux/LINUX_SCRIPT/xfreerdp.md",
@@ -197,7 +183,6 @@
     "Linux/LINUX_SCRIPT/Search and replace text in files in Linux.md",
     "Linux/LINUX_SCRIPT/recover default folders.md",
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
-    "Linux/LINUX_SCRIPT/pkglist.md",
     "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
     "Linux/09. Leftwm/Installation.md",
     "Linux/09. Leftwm/Dependencies.md",
@@ -210,7 +195,6 @@
     "images",
     "Obsidian",
     "Obsidian/OBSIDIAN.md",
-    "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX_SCRIPT/Install Tide fish promt.md",
     "Linux/LINUX_SCRIPT/Change Default Shell.md",
     "Linux/LINUX_SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",

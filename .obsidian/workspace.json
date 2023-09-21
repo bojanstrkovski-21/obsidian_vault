@@ -11,9 +11,11 @@
             "id": "c4b767f4d5188750",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md"
+              }
             }
           },
           {
@@ -169,10 +176,11 @@
   },
   "active": "c4b767f4d5188750",
   "lastOpenFiles": [
+    "Home.md",
+    "Linux/LINUX_SCRIPT/softlinks for arch.md",
     "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
     "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX_SCRIPT/pkglist.md",
-    "Home.md",
     "Untitled.md",
     "python qtreewidget checkboxes.md",
     "Linux/LINUX_SCRIPT/Symbolic links for archiso build.md",
@@ -197,7 +205,6 @@
     "Obsidian/OBSIDIAN.md",
     "Linux/LINUX_SCRIPT/Install Tide fish promt.md",
     "Linux/LINUX_SCRIPT/Change Default Shell.md",
-    "Linux/LINUX_SCRIPT/VIM commands/VIM COMMANDS CHEAT SHEET TUTORIAL.md",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",

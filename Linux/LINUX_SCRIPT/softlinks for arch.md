@@ -10,7 +10,4 @@ ln -s /usr/lib/systemd/system/NetworkManager-wait-online.service airootfs/etc/sy
 ln -s /usr/lib/systemd/system/sddm.service airootfs/etc/systemd/system/display-manager.service
 
 
-/usr/lib/systemd/system/
 
-
-/usr/lib/systemd/system/

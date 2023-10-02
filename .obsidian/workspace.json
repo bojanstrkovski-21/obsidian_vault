@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md",
+                "file": "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md",
+                "file": "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md",
+                "file": "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/softlinks for arch.md"
+                "file": "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md"
               }
             }
           },
@@ -175,9 +175,10 @@
   },
   "active": "c4b767f4d5188750",
   "lastOpenFiles": [
+    "Home.md",
+    "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX_SCRIPT/pacman exist.md",
-    "Home.md",
     "Linux/LINUX_SCRIPT/softlinks for arch.md",
     "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
     "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
@@ -203,7 +204,6 @@
     "Obsidian",
     "Obsidian/OBSIDIAN.md",
     "Linux/LINUX_SCRIPT/Install Tide fish promt.md",
-    "Linux/LINUX_SCRIPT/Change Default Shell.md",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",

@@ -134,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/LINUX_SCRIPT.md"
+              }
             }
           },
           {
@@ -165,8 +167,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "258f3b53ef326c89",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT.md",
     "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md",
     "Linux/LINUX_SCRIPT/Logout from DE.md",
     "Linux/LINUX_SCRIPT/Unconfirmed 793262.crdownload",
@@ -193,7 +196,6 @@
     "Linux/01. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
     "Linux/01. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
     "Linux/01. Basics/12. How To Mount and Unmount Drives on Linux – devconnected.md",
-    "Texas.md",
     "images/home.jpg",
     "images",
     "Obsidian",

@@ -11,8 +11,12 @@
             "id": "2c7fbbad1f3ef39f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md"
+                "file": "Home.md"
               }
             }
           },
@@ -167,9 +173,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
     "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md",
+    "Linux/LINUX_SCRIPT/Obsidian Clipper.md",
     "Linux/LINUX_SCRIPT/Unconfirmed 256985.crdownload",
     "Linux/LINUX_SCRIPT/Untitled.md",
     "Linux/LINUX_SCRIPT/Obsidian Web Clipper Test Note.md",

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "201fd599b9eb98bc",
+        "id": "69ab221bb5eeb0fc",
         "type": "tabs",
         "children": [
           {
-            "id": "258f3b53ef326c89",
+            "id": "2c7fbbad1f3ef39f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/LINUX_SCRIPT/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Untitled.md"
+                "file": "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md"
               }
             }
           },
@@ -173,12 +167,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "258f3b53ef326c89",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
-    "Home.md",
-    "Linux/LINUX_SCRIPT/Untitled.md",
-    "Linux/LINUX_SCRIPT.md",
     "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md",
+    "Linux/LINUX_SCRIPT/Unconfirmed 256985.crdownload",
+    "Linux/LINUX_SCRIPT/Untitled.md",
+    "Linux/LINUX_SCRIPT/Obsidian Web Clipper Test Note.md",
+    "Home.md",
+    "Linux/LINUX_SCRIPT.md",
     "Linux/LINUX_SCRIPT/Logout from DE.md",
     "Linux/LINUX_SCRIPT/Unconfirmed 793262.crdownload",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
@@ -200,8 +196,6 @@
     "Linux/09. Leftwm/Installation.md",
     "Linux/09. Leftwm/Dependencies.md",
     "Linux/01. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
-    "Linux/01. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
-    "Linux/01. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
     "images/home.jpg",
     "images",
     "Obsidian",
@@ -212,7 +206,6 @@
     "Linux/LINUX_SCRIPT/VIM commands/VIM1.pdf",
     "Linux/LINUX SCRIPT/VIM commands/~WRL0001.tmp",
     "Linux/LINUX SCRIPT/VIM commands/~WRD0000.tmp",
-    "Linux/LINUX SCRIPT/VIM commands/~$VIM.docx",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX_SCRIPT.md",
+                "file": "Linux/logout de/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX_SCRIPT.md",
+                "file": "Linux/logout de/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX_SCRIPT.md",
+                "file": "Linux/logout de/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX_SCRIPT.md"
+                "file": "Linux/logout de/Untitled.md"
               }
             }
           },
@@ -176,6 +176,9 @@
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
     "Home.md",
+    "Linux/logout de/Untitled.md",
+    "Linux/logout de/imgs",
+    "Linux/logout de",
     "Linux/LINUX_SCRIPT.md",
     "How to Log Out from Command Line in GNOME, KDE, XFCE.md",
     "Linux/LINUX_SCRIPT/Logout from DE.md",
@@ -202,7 +205,6 @@
     "Linux/LINUX_SCRIPT/recover default folders.md",
     "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
     "Linux/09. Leftwm/Installation.md",
-    "Linux/09. Leftwm/Dependencies.md",
     "images/home.jpg",
     "images",
     "Obsidian",
@@ -211,8 +213,6 @@
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
     "Linux/LINUX SCRIPT/VIM commands/Unconfirmed 226377.crdownload",
     "Linux/LINUX_SCRIPT/VIM commands/VIM1.pdf",
-    "Linux/LINUX SCRIPT/VIM commands/~WRL0001.tmp",
-    "Linux/LINUX SCRIPT/VIM commands/~WRD0000.tmp",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

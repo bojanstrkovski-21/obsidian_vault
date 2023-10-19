@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a777531fa9666737",
+        "id": "8c65ddbff3e8d241",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b767f4d5188750",
+            "id": "f3feb3776d05bb4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/Logout from DE.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/Logout from DE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/Logout from DE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/LINUX_SCRIPT/Logout from DE.md"
               }
             }
           },
@@ -173,8 +173,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c4b767f4d5188750",
+  "active": "f3feb3776d05bb4e",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT/Logout from DE.md",
     "Home.md",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
@@ -203,7 +204,6 @@
     "images",
     "Obsidian",
     "Obsidian/OBSIDIAN.md",
-    "Linux/LINUX_SCRIPT/Install Tide fish promt.md",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",

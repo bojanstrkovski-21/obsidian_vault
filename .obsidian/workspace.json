@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c65ddbff3e8d241",
+        "id": "201fd599b9eb98bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f3feb3776d05bb4e",
+            "id": "258f3b53ef326c89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/LINUX_SCRIPT/Logout from DE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Logout from DE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/Logout from DE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/LINUX_SCRIPT/Logout from DE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,9 +165,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3feb3776d05bb4e",
+  "active": "258f3b53ef326c89",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md",
     "Linux/LINUX_SCRIPT/Logout from DE.md",
+    "Linux/LINUX_SCRIPT/Unconfirmed 793262.crdownload",
     "Home.md",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
@@ -203,7 +197,6 @@
     "images/home.jpg",
     "images",
     "Obsidian",
-    "Obsidian/OBSIDIAN.md",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
@@ -212,7 +205,6 @@
     "Linux/LINUX SCRIPT/VIM commands/~WRL0001.tmp",
     "Linux/LINUX SCRIPT/VIM commands/~WRD0000.tmp",
     "Linux/LINUX SCRIPT/VIM commands/~$VIM.docx",
-    "Linux/LINUX_SCRIPT/VIM commands/VIM.docx",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

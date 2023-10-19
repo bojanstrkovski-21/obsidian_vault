@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/logout de/Untitled.md",
+                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/logout de/Untitled.md",
+                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/logout de/Untitled.md",
+                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/logout de/Untitled.md"
+                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
+    "Linux/logout de/imgs/17cbbfc4de65d8007b22fba4b0d38b93.jpeg",
+    "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
     "Home.md",
-    "Linux/logout de/Untitled.md",
     "Linux/logout de/imgs",
     "Linux/logout de",
     "Linux/LINUX_SCRIPT.md",
@@ -204,7 +205,6 @@
     "Linux/LINUX_SCRIPT/Search and replace text in files in Linux.md",
     "Linux/LINUX_SCRIPT/recover default folders.md",
     "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
-    "Linux/09. Leftwm/Installation.md",
     "images/home.jpg",
     "images",
     "Obsidian",

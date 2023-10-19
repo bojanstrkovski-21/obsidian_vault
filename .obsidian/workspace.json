@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Linux/LINUX_SCRIPT.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/LINUX_SCRIPT.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
-    "How to Log Out from Command Line in GNOME, KDE, XFCE.md",
     "Home.md",
+    "Linux/LINUX_SCRIPT.md",
+    "How to Log Out from Command Line in GNOME, KDE, XFCE.md",
     "Linux/LINUX_SCRIPT/Logout from DE.md",
     "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md",
     "Linux/LINUX_SCRIPT/Obsidian Clipper.md",
     "Linux/LINUX_SCRIPT/Unconfirmed 256985.crdownload",
     "Linux/LINUX_SCRIPT/Untitled.md",
     "Linux/LINUX_SCRIPT/Obsidian Web Clipper Test Note.md",
-    "Linux/LINUX_SCRIPT.md",
     "Linux/LINUX_SCRIPT/Unconfirmed 793262.crdownload",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",

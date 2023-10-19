@@ -11,8 +11,12 @@
             "id": "258f3b53ef326c89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/LINUX_SCRIPT/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/LINUX_SCRIPT/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/LINUX_SCRIPT/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX_SCRIPT.md"
+                "file": "Linux/LINUX_SCRIPT/Untitled.md"
               }
             }
           },
@@ -167,13 +173,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "258f3b53ef326c89",
   "lastOpenFiles": [
+    "Home.md",
+    "Linux/LINUX_SCRIPT/Untitled.md",
     "Linux/LINUX_SCRIPT.md",
     "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md",
     "Linux/LINUX_SCRIPT/Logout from DE.md",
     "Linux/LINUX_SCRIPT/Unconfirmed 793262.crdownload",
-    "Home.md",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX_SCRIPT/pacman exist.md",
@@ -195,7 +202,6 @@
     "Linux/01. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
     "Linux/01. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
     "Linux/01. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
-    "Linux/01. Basics/12. How To Mount and Unmount Drives on Linux – devconnected.md",
     "images/home.jpg",
     "images",
     "Obsidian",

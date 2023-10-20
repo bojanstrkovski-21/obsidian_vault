@@ -15,7 +15,7 @@ For **Ubuntu**, **Fedora workstation**, and other Linux with GNOME, as well as *
 gnome-session-quit
 ```
 
-[![](:/f3ea658fc9ed4b74991fba46efd1ea5a)](https://i0.wp.com/fostips.com/wp-content/uploads/2021/11/gnome-quit.png?ssl=1)
+![[gnome-quit.webp]]
 
 In case you don’t want to see the confirm dialog, but log out directly after running the command, use:
 
@@ -57,7 +57,7 @@ Or, force log-out without confirm even when there are unfinished jobs:
 qdbus org.kde.ksmserver /KSMServer logout 0 0 2
 ```
 
-[![](:/279027e6212d42ce8f1d562f97f293c0)](https://i0.wp.com/fostips.com/wp-content/uploads/2021/11/kde5-logoutcommand.jpg?ssl=1)
+![[kde5-logoutcommand.webp]]
 
 ## 3\. Log out XFCE4 from command line:
 
@@ -93,7 +93,7 @@ For the MATE desktop in Ubuntu MATE, Linux Mint, etc, you may run this command t
 mate-session-save --logout-dialog
 ```
 
-[![](:/2dd6b207c2344acfb7a9b4984afb973d)](https://i0.wp.com/fostips.com/wp-content/uploads/2021/11/mate-logout.png?ssl=1)
+![[mate-logout.webp]]
 
 To log out directly without user confirmation, use command:
 
@@ -111,7 +111,7 @@ For Linux Mint Cinnamon and other Linux with this desktop environment, use comma
 cinnamon-session-quit
 ```
 
-[![](:/ce22eb832b8c4b949b5e78ed8fa3c018)](https://i0.wp.com/fostips.com/wp-content/uploads/2021/11/cinnamon-quit.png?ssl=1)
+![[cinnamon-quit.webp]]
 
 To get rid of the confirm dialog, using command:
 
@@ -127,7 +127,7 @@ For the LXQt desktop, I can only find the **`lxqt-leave`** command which brings 
 
 Also, there’s **`lxqt-leave --logout`** command to show the log-out dialog only.
 
-[![](:/49bfefb8372741e79a50eff8ee987467)](https://i0.wp.com/fostips.com/wp-content/uploads/2021/11/lxqt-logout.png?ssl=1)
+![[lxqt-logout.webp]]
 
 However,the command does not seem to have an option to skip confirm dialog …
 

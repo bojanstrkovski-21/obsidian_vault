@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
+                "file": "Linux/LINUX_SCRIPT/mount ntfs fstab.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
+                "file": "Linux/LINUX_SCRIPT/mount ntfs fstab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
+                "file": "Linux/LINUX_SCRIPT/mount ntfs fstab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md"
+                "file": "Linux/LINUX_SCRIPT/mount ntfs fstab.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
     "Home.md",
+    "Linux/LINUX_SCRIPT/mount ntfs fstab.md",
     "Linux/logout de/imgs/lxqt-logout.webp",
     "Linux/logout de/imgs/cinnamon-quit.webp",
     "Linux/logout de/imgs/mate-logout.webp",

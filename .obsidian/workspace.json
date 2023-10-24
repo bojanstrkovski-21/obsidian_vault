@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
+                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
+                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
+                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md"
+                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
     "Home.md",
+    "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
     "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
     "Linux/10. Rsync tutorial",
     "Linux/LINUX_SCRIPT/mount ntfs fstab.md",
@@ -211,7 +212,6 @@
     "Linux/LINUX_SCRIPT/xfreerdp.md",
     "Linux/LINUX_SCRIPT/Viber wont Start.md",
     "Linux/LINUX_SCRIPT/Search and replace text in files in Linux.md",
-    "Linux/LINUX_SCRIPT/recover default folders.md",
     "images/home.jpg",
     "images",
     "Obsidian",

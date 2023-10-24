@@ -6,17 +6,18 @@
 ```
 
 3. Next step is to run the "ls" command in the directory to see the images and choose the one you want to resize, for example "image.qcow2".
-     ---
+   ```
      ls
-     ---
-4. Than you can run the following command if you are directly cd in the directory ( capital G not lowercase ! ) " where "size" is the size you want to add to the vm. 
+   ```
 
-     ---
+4. Than you can run the command  
+    
+```
      sudo qemu-img resize image.qcow2 sizeG
----
-     
-     
-     
----
-    sudo qemu-img resize /var/lib/libvirt/images/image.qcow2 sizeG
----
+```
+
+ where "size" is the size you want to add to the vm if you are directly cd in the directory ( capital G not lowercase ! ) or run the command
+
+```
+	 sudo qemu-img resize /var/lib/libvirt/images/image.qcow2 sizeG
+```

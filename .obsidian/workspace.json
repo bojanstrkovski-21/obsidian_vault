@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md"
+                "file": "Home.md"
               }
             }
           },
@@ -175,6 +175,11 @@
   },
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT/dmenu-dependencies.md",
+    "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
+    "Linux/LINUX_SCRIPT/install-neovim-sourcem .md",
+    "Linux/LINUX_SCRIPT/Node.js-install.md",
+    "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Home.md",
     "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
     "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
@@ -207,11 +212,6 @@
     "Linux/LINUX_SCRIPT/pkglist.md",
     "Untitled.md",
     "python qtreewidget checkboxes.md",
-    "Linux/LINUX_SCRIPT/Symbolic links for archiso build.md",
-    "Linux/LINUX_SCRIPT/color schema link.md",
-    "Linux/LINUX_SCRIPT/xfreerdp.md",
-    "Linux/LINUX_SCRIPT/Viber wont Start.md",
-    "Linux/LINUX_SCRIPT/Search and replace text in files in Linux.md",
     "images/home.jpg",
     "images",
     "Obsidian",

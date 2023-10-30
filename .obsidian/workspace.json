@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md"
               }
             }
           },
@@ -175,12 +175,12 @@
   },
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
+    "Home.md",
     "Linux/LINUX_SCRIPT/dmenu-dependencies.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem .md",
     "Linux/LINUX_SCRIPT/Node.js-install.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",
-    "Home.md",
     "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
     "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
     "Linux/10. Rsync tutorial",

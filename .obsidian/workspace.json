@@ -175,10 +175,10 @@
   },
   "active": "009b0fc7ca0bd75d",
   "lastOpenFiles": [
-    "Home.md",
-    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
-    "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
+    "Linux/LINUX_SCRIPT/astronvim-install.md",
+    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+    "Home.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Linux/11. Neovim prepare and install",
     "Linux/LINUX_SCRIPT/dmenu-dependencies.md",

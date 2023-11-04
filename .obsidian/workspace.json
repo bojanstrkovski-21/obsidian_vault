@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "835296b389d48e42",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08cd250acd40d53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

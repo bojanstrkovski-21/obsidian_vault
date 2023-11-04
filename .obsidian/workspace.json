@@ -20,6 +20,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "209f56508de3f849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3827f0d261e00b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b7b13df1f8a214c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,14 +203,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
-    "Linux/LINUX_SCRIPT/astronvim-install.md",
+    "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+    "Linux/LINUX_SCRIPT/astronvim-install.md",
+    "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Home.md",
     "Linux/11. Neovim prepare and install",
     "Linux/LINUX_SCRIPT/dmenu-dependencies.md",
-    "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem .md",
     "Linux/LINUX_SCRIPT/Node.js-install.md",
     "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
@@ -205,7 +236,6 @@
     "Linux/LINUX_SCRIPT/Untitled.md",
     "Linux/LINUX_SCRIPT/Obsidian Web Clipper Test Note.md",
     "Linux/LINUX_SCRIPT/Unconfirmed 793262.crdownload",
-    "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX_SCRIPT/pacman exist.md",
     "Linux/LINUX_SCRIPT/softlinks for arch.md",

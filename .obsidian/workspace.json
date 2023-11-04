@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md"
               }
             }
           },
@@ -173,14 +173,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2c7fbbad1f3ef39f",
+  "active": "4407d55c4ab7565c",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT/astronvim-install.md",
+    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Home.md",
+    "Linux/11. Neovim prepare and install",
     "Linux/LINUX_SCRIPT/dmenu-dependencies.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem .md",
     "Linux/LINUX_SCRIPT/Node.js-install.md",
-    "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
     "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
     "Linux/10. Rsync tutorial",
@@ -211,14 +213,12 @@
     "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
     "Linux/LINUX_SCRIPT/pkglist.md",
     "Untitled.md",
-    "python qtreewidget checkboxes.md",
     "images/home.jpg",
     "images",
     "Obsidian",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
-    "Linux/LINUX SCRIPT/VIM commands/Unconfirmed 226377.crdownload",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

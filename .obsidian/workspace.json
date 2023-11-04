@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,9 +206,9 @@
   },
   "active": "2c7fbbad1f3ef39f",
   "lastOpenFiles": [
+    "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/11. Neovim prepare and install/1. Prerequisites.md",
-    "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Home.md",
     "Linux/11. Neovim prepare and install",

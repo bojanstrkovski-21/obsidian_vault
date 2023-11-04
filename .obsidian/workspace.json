@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md"
+                "file": "Linux/LINUX_SCRIPT/astronvim-install.md"
               }
             }
           },
@@ -204,11 +204,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2c7fbbad1f3ef39f",
+  "active": "9b7b13df1f8a214c",
   "lastOpenFiles": [
+    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
-    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Home.md",
     "Linux/11. Neovim prepare and install",

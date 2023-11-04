@@ -4,53 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "69ab221bb5eeb0fc",
+        "id": "d003c9d736409785",
         "type": "tabs",
         "children": [
           {
-            "id": "2c7fbbad1f3ef39f",
+            "id": "009b0fc7ca0bd75d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "209f56508de3f849",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3827f0d261e00b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b7b13df1f8a214c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/LINUX_SCRIPT/astronvim-install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/LINUX_SCRIPT/astronvim-install.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,7 +165,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9b7b13df1f8a214c",
+  "active": "009b0fc7ca0bd75d",
   "lastOpenFiles": [
     "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",

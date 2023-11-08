@@ -144,6 +144,16 @@
                 "file": "Home.md"
               }
             }
+          },
+          {
+            "id": "a31c9d5a466ce6a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -163,7 +173,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4407d55c4ab7565c",
+  "active": "584a35274eded759",
   "lastOpenFiles": [
     "python qtreewidget checkboxes.md",
     "Linux/logout de/imgs/mate-logout.webp",

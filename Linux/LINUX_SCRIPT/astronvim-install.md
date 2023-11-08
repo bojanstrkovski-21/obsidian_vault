@@ -43,7 +43,7 @@ Terminess nerd-Terminus, Ubuntu Font)
  8.3 Arch linux
      sudo pacman -S ruby
  a. gem install neovim for neovim integration
-9 Node: 
+9. Node: 
    a. Install nvm: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
    "source ~/.bashrc" source the shell
    nvm list-remote  for listing node versions 

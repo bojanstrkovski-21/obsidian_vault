@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87f9aa42b40d4083",
+        "id": "d003c9d736409785",
         "type": "tabs",
         "children": [
           {
-            "id": "584a35274eded759",
+            "id": "009b0fc7ca0bd75d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,12 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md"
               }
             }
           },
           {
-            "id": "a31c9d5a466ce6a5",
+            "id": "e7e37994a3200c9c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,52 +173,52 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "584a35274eded759",
+  "active": "009b0fc7ca0bd75d",
   "lastOpenFiles": [
-    "python qtreewidget checkboxes.md",
-    "Linux/logout de/imgs/mate-logout.webp",
-    "Linux/logout de/imgs/lxqt-logout.webp",
-    "Linux/logout de/imgs/kde5-logoutcommand.webp",
-    "Linux/logout de/imgs/gnome-quit.webp",
-    "Linux/logout de/imgs/cinnamon-quit.webp",
-    "Linux/logout de/imgs/17cbbfc4de65d8007b22fba4b0d38b93.jpeg",
-    "Linux/logout de/imgs",
-    "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
-    "Linux/logout de",
-    "Linux/LINUX_SCRIPT/softlinks for arch.md",
-    "Linux/LINUX_SCRIPT/mount ntfs fstab.md",
-    "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
-    "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
-    "Linux/LINUX_SCRIPT/dmenu-dependencies.md",
+    "Home.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",
-    "Linux/LINUX_SCRIPT/Untitled.md",
-    "Linux/LINUX_SCRIPT/Symbolic links for archiso build.md",
-    "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
-    "Linux/LINUX_SCRIPT/Node.js-install.md",
     "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+    "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
+    "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
     "Linux/11. Neovim prepare and install",
+    "Linux/LINUX_SCRIPT/dmenu-dependencies.md",
+    "Linux/LINUX_SCRIPT/install-neovim-sourcem .md",
+    "Linux/LINUX_SCRIPT/Node.js-install.md",
+    "Linux/LINUX_SCRIPT/QEMU VM resize disk space.md",
     "Linux/10. Rsync tutorial/Rsync Tutorial by Jay from LearnLinuxTV.md",
     "Linux/10. Rsync tutorial",
-    "Home.md",
-    "Linux/01. Basics/29. How To List Users and Groups on Linux – devconnected.md",
+    "Linux/LINUX_SCRIPT/mount ntfs fstab.md",
+    "Linux/logout de/imgs/lxqt-logout.webp",
+    "Linux/logout de/imgs/cinnamon-quit.webp",
+    "Linux/logout de/imgs/mate-logout.webp",
+    "Linux/logout de/imgs/kde5-logoutcommand.webp",
+    "Linux/logout de/imgs/gnome-quit.webp",
+    "Linux/logout de/imgs/17cbbfc4de65d8007b22fba4b0d38b93.jpeg",
+    "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
+    "Linux/logout de/imgs",
+    "Linux/logout de",
+    "Linux/LINUX_SCRIPT.md",
+    "How to Log Out from Command Line in GNOME, KDE, XFCE.md",
+    "Linux/LINUX_SCRIPT/Logout from DE.md",
+    "Linux/LINUX_SCRIPT/How to Log Out from Command Line in GNOME, KDE, XFCE & Other Linux Desktops - FOSTips.md",
+    "Linux/LINUX_SCRIPT/Obsidian Clipper.md",
+    "Linux/LINUX_SCRIPT/Unconfirmed 256985.crdownload",
+    "Linux/LINUX_SCRIPT/Untitled.md",
+    "Linux/LINUX_SCRIPT/Obsidian Web Clipper Test Note.md",
+    "Linux/LINUX_SCRIPT/Unconfirmed 793262.crdownload",
+    "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
+    "Linux/LINUX_SCRIPT/pacman exist.md",
+    "Linux/LINUX_SCRIPT/softlinks for arch.md",
+    "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
+    "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
+    "Linux/LINUX_SCRIPT/pkglist.md",
     "Untitled.md",
-    "Linux/09. Leftwm/Installation.md",
-    "Linux/09. Leftwm/Dependencies.md",
-    "Linux/01. Basics/13. How To Format Disk Partitions on Linux – devconnected.md",
-    "Linux/01. Basics/11. Command Not Found in Bash Fixed – devconnected.md",
-    "Linux/01. Basics/14. How To Check Free Disk Space on Linux – devconnected.md",
-    "Linux/01. Basics/12. How To Mount and Unmount Drives on Linux – devconnected.md",
-    "Texas.md",
     "images/home.jpg",
     "images",
     "Obsidian",
-    "Obsidian/OBSIDIAN.md",
-    "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
     "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
-    "Linux/LINUX SCRIPT/VIM commands/Unconfirmed 226377.crdownload",
-    "Linux/LINUX_SCRIPT/VIM commands/VIM1.pdf",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

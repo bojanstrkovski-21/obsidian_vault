@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md"
+                "file": "Linux/LINUX_SCRIPT/Viber wont Start.md"
               }
             }
           },
@@ -177,12 +177,12 @@
   },
   "active": "009b0fc7ca0bd75d",
   "lastOpenFiles": [
+    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Home.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/SAMBA config/2. SAMBA client conf manual.md",
     "Linux/LINUX_SCRIPT/SAMBA config/1. SAMBA conf manual.md",
     "Linux/LINUX_SCRIPT/SAMBA config/Arch Linux Configuring SAMBA.mp4",
-    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/install kickstart.nvim needed stuf.md",
     "Linux/LINUX_SCRIPT/install-neovim-sourcem.md",
@@ -216,15 +216,11 @@
     "Linux/LINUX_SCRIPT/pacman exist.md",
     "Linux/LINUX_SCRIPT/softlinks for arch.md",
     "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
-    "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
-    "Linux/LINUX_SCRIPT/pkglist.md",
-    "Untitled.md",
     "images/home.jpg",
     "images",
     "Obsidian",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
-    "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

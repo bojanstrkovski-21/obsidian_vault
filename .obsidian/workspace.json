@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4016a7f55c523719",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           }
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md"
+                "file": "Home.md"
               }
             }
           },

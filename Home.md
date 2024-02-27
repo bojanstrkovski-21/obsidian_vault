@@ -1,5 +1,6 @@
 ---
 banner: "![[home.jpg]]"
+banner_y: 0.456
 ---
 ---
 banner: "![[home.jpg]]"

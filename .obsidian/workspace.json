@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "39f244948e573ed4",
   "lastOpenFiles": [
     "Home.md",
+    "Linux/11. Neovim prepare and install/Vim Commands.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/SAMBA config/2. SAMBA client conf manual.md",
     "Linux/LINUX_SCRIPT/SAMBA config/1. SAMBA conf manual.md",
@@ -214,16 +215,11 @@
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
     "Linux/LINUX_SCRIPT/pacman exist.md",
     "Linux/LINUX_SCRIPT/softlinks for arch.md",
-    "Linux/LINUX_SCRIPT/Add setfont to mkinitcpio.md",
-    "Linux/LINUX_SCRIPT/ADD pacman custom repos.md",
-    "Linux/LINUX_SCRIPT/pkglist.md",
-    "Untitled.md",
     "images/home.jpg",
     "images",
     "Obsidian",
     "Linux/09. Leftwm",
     "Windows/feuters-win.PNG",
-    "Linux/LINUX_SCRIPT/VIM commands/vim-commands-cheat-sheet-by-pnap.pdf",
     "Linux/02. Bash/img/Pasted image 20230129142723.png"
   ]
 }

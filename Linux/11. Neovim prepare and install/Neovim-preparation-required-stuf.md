@@ -55,7 +55,7 @@ URL: https://github.com/sharkdp/fd
 ### 9. FZF - fuzy finder
 ArchLinux: `sudo pacman -S fzf` 
 
-https://github.com/junegunn/fzf
+URL: https://github.com/junegunn/fzf
 
 ## II. Rust language
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`

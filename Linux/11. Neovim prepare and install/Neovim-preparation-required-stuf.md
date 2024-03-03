@@ -175,7 +175,7 @@ URL: https://tecadmin.net/how-to-install-nvm-on-debian-12/      \
 
 `sudo pacman -S ruby`
 
-a. For neovim integration install: 
+a. For neovim integration install:  \
 LocalUser: `gem install neovim` \
 SysteWide: `sudo gem install neovim`
 ## XI. Lua language and stuf

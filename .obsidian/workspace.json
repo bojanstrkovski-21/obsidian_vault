@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d003c9d736409785",
+        "id": "3920bd74c4c1b5d2",
         "type": "tabs",
         "children": [
           {
-            "id": "009b0fc7ca0bd75d",
+            "id": "39f244948e573ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+
                 "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
                 "mode": "preview",
+
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md",
+                "mode": "source",
+
                 "source": false
               }
             }
@@ -77,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 582.5
+    "width": 201.5
   },
   "right": {
     "id": "71b3c5d3c756b701",
@@ -94,6 +99,9 @@
               "type": "backlink",
               "state": {
                 "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
+
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+
                 "file": "Linux/LINUX_SCRIPT/Viber wont Start.md",
+
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +154,8 @@
               "type": "outline",
               "state": {
                 "file": "Linux/LINUX_SCRIPT/Viber wont Start.md"
+                "file": "Linux/11. Neovim prepare and install/Vim Commands.md"
+
               }
             }
           },
@@ -161,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +188,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "009b0fc7ca0bd75d",
+  "active": "39f244948e573ed4",
   "lastOpenFiles": [
     "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Home.md",
+    "Linux/11. Neovim prepare and install/Vim Commands.md",
     "Linux/LINUX_SCRIPT/astronvim-install.md",
     "Linux/LINUX_SCRIPT/SAMBA config/2. SAMBA client conf manual.md",
     "Linux/LINUX_SCRIPT/SAMBA config/1. SAMBA conf manual.md",

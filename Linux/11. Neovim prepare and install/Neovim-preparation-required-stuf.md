@@ -7,7 +7,7 @@ Neovim-preparation-required-stuf
 a. Debian: `sudo apt install wget` \
 b. ArchLinux: `sudo pacman -S wget` \
 c. Fedora: `sudo dnf install wget` \
-d. OpenSuse: `sudo zypper install wget` \
+d. OpenSuse: `sudo zypper install wget` 
 
 ### 2. curl
 a. Debian: `sudo apt install curl` \
@@ -25,7 +25,7 @@ d. OpenSuse: `sudo zypper install git`
 a. Debian: `sudo apt install ripgrep` \
 b. ArchLinux: `sudo pacman -S ripgrep ripgrep-all` \
 c. Fedora: `sudo dnf install ripgrep` \
-d. OpenSuse: `sudo zypper install ripgrep` \
+d. OpenSuse: `sudo zypper install ripgrep` 
 
 URL: https://github.com/BurntSushi/ripgrep
 
@@ -45,15 +45,15 @@ d. OpenSuse: `sudo zypper install cmake`
 a. Debian: `sudo apt install unzip` \
 b. ArchLinux: `sudo pacman -S unzip` \
 c. Fedora: `sudo dnf install unzip` \
-d. OpenSuse: `sudo zypper install unzip`\
+d. OpenSuse: `sudo zypper install unzip`
 
 ### 8. fd
-ArchLinux: `sudo pacman -S fd` \
+ArchLinux: `sudo pacman -S fd` 
 
 URL: https://github.com/sharkdp/fd
 
 ### 9. FZF - fuzy finder
-ArchLinux: `sudo pacman -S fzf` \
+ArchLinux: `sudo pacman -S fzf` 
 
 https://github.com/junegunn/fzf
 
@@ -154,7 +154,7 @@ for veficatiopn that go is installed in terminal type `go version`
 
 ## IX. Nvm and Nodejs
 ### 1. nvm install
-URL: https://tecadmin.net/how-to-install-nvm-on-debian-12/
+URL: https://tecadmin.net/how-to-install-nvm-on-debian-12/      \
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash`
 `source ~/.bashrc`
 ### 2. install latest nodejs and npm
@@ -164,12 +164,12 @@ URL: https://tecadmin.net/how-to-install-nvm-on-debian-12/
 ## X. Ruby
 1. Ubuntu/Debian
 
-`sudo apt-get install ruby-full` \
+`sudo apt-get install ruby-full` 
 
 2. CentOS, Fedora, or RHEL
 
 `sudo yum install ruby` \
-`sudo dnf install ruby` \
+`sudo dnf install ruby` 
 
 3. Arch linux
 
@@ -178,18 +178,18 @@ URL: https://tecadmin.net/how-to-install-nvm-on-debian-12/
 a. For neovim integration install: `gem install neovim`
 
 ## XI. Lua language and stuf
-1. lua
-a. Debian: `sudo apt install lua5.4`
-b. ArchLinux: `sudo pacman -S lua`
-2. luarocks
-a. Debian: `sudo apt install luarocks`
-b. ArchLinux: `sudo pacman -S luarocks`
-3. luajit
-a. Debian: `sudo apt install luajit`
-b. ArchLinux: `sudo pacman -S luajit`
-4. lua-check
-a. Debian: `sudo apt install lua-check`
-b. ArchLinux: `sudo pacman -S lua-check`
+1. lua \
+a. Debian: `sudo apt install lua5.4` \
+b. ArchLinux: `sudo pacman -S lua` \
+2. luarocks \
+a. Debian: `sudo apt install luarocks` \
+b. ArchLinux: `sudo pacman -S luarocks` \
+3. luajit \
+a. Debian: `sudo apt install luajit` \
+b. ArchLinux: `sudo pacman -S luajit` \
+4. lua-check \
+a. Debian: `sudo apt install lua-check` \
+b. ArchLinux: `sudo pacman -S lua-check` \
 
 ## XII. Julia
 URL: https://www.linuxfordevices.com/tutorials/install-julia-on-linux

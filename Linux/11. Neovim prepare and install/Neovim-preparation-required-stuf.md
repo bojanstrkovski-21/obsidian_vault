@@ -155,7 +155,7 @@ for veficatiopn that go is installed in terminal type `go version`
 ## IX. Nvm and Nodejs
 ### 1. nvm install
 URL: https://tecadmin.net/how-to-install-nvm-on-debian-12/      \
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash`
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash` \
 `source ~/.bashrc`
 ### 2. install latest nodejs and npm
 `nvm install node`

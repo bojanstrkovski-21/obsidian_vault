@@ -158,7 +158,7 @@ URL: https://tecadmin.net/how-to-install-nvm-on-debian-12/      \
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash` \
 `source ~/.bashrc`
 ### 2. install latest nodejs and npm
-`nvm install node`
+`nvm install node` \
 `npm install -g npm@latest `
 
 ## X. Ruby
@@ -180,16 +180,16 @@ a. For neovim integration install: `gem install neovim`
 ## XI. Lua language and stuf
 1. lua \
 a. Debian: `sudo apt install lua5.4` \
-b. ArchLinux: `sudo pacman -S lua` \
+b. ArchLinux: `sudo pacman -S lua` 
 2. luarocks \
 a. Debian: `sudo apt install luarocks` \
-b. ArchLinux: `sudo pacman -S luarocks` \
+b. ArchLinux: `sudo pacman -S luarocks` 
 3. luajit \
 a. Debian: `sudo apt install luajit` \
-b. ArchLinux: `sudo pacman -S luajit` \
+b. ArchLinux: `sudo pacman -S luajit` 
 4. lua-check \
 a. Debian: `sudo apt install lua-check` \
-b. ArchLinux: `sudo pacman -S lua-check` \
+b. ArchLinux: `sudo pacman -S lua-check` 
 
 ## XII. Julia
 URL: https://www.linuxfordevices.com/tutorials/install-julia-on-linux

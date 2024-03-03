@@ -124,8 +124,8 @@ make install
 ### 2. Cpanminus for Perll neovim integration:
 URL: https://metacpan.org/pod/App::cpanminus
 
-a. Install SystemWide: `curl -L https://cpanmin.us | perl - --sudo App::cpanminus`
-b. Install LocalUser: `curl -L https://cpanmin.us | perl - App::cpanminus`
+a. Install SystemWide: `curl -L https://cpanmin.us | perl - --sudo App::cpanminus` \
+b. Install LocalUser: `curl -L https://cpanmin.us | perl - App::cpanminus` \
 c. Install neovim module: \
   SystemWide: `sudo cpanm -n Neovim::Ext` \
   LocarUser: `cpanm -n Neovim::Ext`
@@ -147,9 +147,9 @@ Go to the downloaded directory and open in teminal and paste the command: \
 `sudo tar -C /usr/local -xzf go1.21.5.linux-amd64.tar.gz` \
 
 open .bashrc with text editor and add at the end of file: \
-`export PATH=$PATH:/usr/local/go/bin`
-than save the .bashrc file and source .bashrc: `source ~/.bashrc`
-or close and reopen terminal
+`export PATH=$PATH:/usr/local/go/bin` \
+than save the .bashrc file and source .bashrc: `source ~/.bashrc` \
+or close and reopen terminal \
 for veficatiopn that go is installed in terminal type `go version`
 
 ## IX. Nvm and Nodejs

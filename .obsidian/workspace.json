@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
-                "mode": "preview",
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/11. Neovim prepare and install/1. Prerequisites.md"
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "979997a9a23a1a2f",
+  "active": "0814ce2d19d7af36",
   "lastOpenFiles": [
+    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
     "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
     "Linux/11. Neovim prepare and install/Vim Commands.md",
     "Home.md"

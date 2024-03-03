@@ -110,7 +110,7 @@ sudo pacman -S --noconfirm ttf-ubuntu-nerd
 
 ## VI. Perl and Cpanminus
 ### 1. Perl
-a. ArchLinux: `sudo pacman -S perl`
+a. ArchLinux: `sudo pacman -S perl` \
 b. Debian: 
 ```bash
 tar -xzf perl-5.38.0.tar.gz

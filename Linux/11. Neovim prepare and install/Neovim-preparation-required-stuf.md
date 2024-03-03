@@ -144,7 +144,7 @@ URL: https://phoenixnap.com/kb/debian-install-go
 Download the tar.gz file from download page https://go.dev/dl/
 
 Go to the downloaded directory and open in teminal and paste the command: \
-`sudo tar -C /usr/local -xzf go1.21.5.linux-amd64.tar.gz` \
+`sudo tar -C /usr/local -xzf go1.21.5.linux-amd64.tar.gz` 
 
 open .bashrc with text editor and add at the end of file: \
 `export PATH=$PATH:/usr/local/go/bin` \

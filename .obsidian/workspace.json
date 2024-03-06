@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "934379aae02f28ba",
+        "id": "60c304b97358904a",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3043f1fe73d396",
+            "id": "e27d62c804730f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
-                "mode": "source",
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md"
+                "file": "Home.md"
               }
             }
           },
@@ -174,11 +174,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b3043f1fe73d396",
+  "active": "e27d62c804730f45",
   "lastOpenFiles": [
+    "Linux/ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
     "Linux/ssh-gpg-keys/1_HAAISMyZ-_dAU57u9Pak7w (1).png",
     "Linux/ssh-gpg-keys/1_HAAISMyZ-_dAU57u9Pak7w (1).webp",
-    "Linux/ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
     "Linux/ssh-gpg-keys/1XA65SRCl5D_QDuSgJ8159g.png",
     "Linux/ssh-gpg-keys/1Jy6R0-K80tuVLNwtCiwtqw.png",
     "Linux/ssh-gpg-keys/0NKUEeMXH8qg62iY0.jpeg",
@@ -206,7 +206,6 @@
     "Linux/logout de/imgs/mate-logout.webp",
     "Linux/logout de/imgs/kde5-logoutcommand.webp",
     "Linux/logout de/imgs/gnome-quit.webp",
-    "Linux/logout de/imgs/17cbbfc4de65d8007b22fba4b0d38b93.jpeg",
     "Linux/logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
     "Linux/logout de/imgs",
     "Linux/logout de",

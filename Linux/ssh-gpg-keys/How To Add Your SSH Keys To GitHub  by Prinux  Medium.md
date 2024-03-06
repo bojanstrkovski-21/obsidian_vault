@@ -76,8 +76,6 @@ Now if you open your default location where your ssh keys are saved, you will fi
 
 Open your web browser and go to the settings of the GitHub page and click on ssh and GPG keys. Then click on new ssh keys and paste your file contents.
 
-![[1_HAAISMyZ-_dAU57u9Pak7w (1).png]]     
+    ![[1_HAAISMyZ-_dAU57u9Pak7w (1).png]] 
 
 The last Step Add SSH keys. Now you have added your ssh keys and are good to go.
-
-> _If you like this blog , please don’t forget to give a clap . if you want to learn more about privacy,security,technology and Linux, consider following me. Plus, whatever I find interesting and valuable._

@@ -11,8 +11,12 @@
             "id": "ac9857af8dbf0edf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/OBSIDIAN.md",
+                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/OBSIDIAN.md",
+                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/OBSIDIAN.md"
+                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md"
               }
             }
           }
@@ -155,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af8da075c54db084",
+  "active": "ac9857af8dbf0edf",
   "lastOpenFiles": [
+    "Obsidian/OBSIDIAN.md",
+    "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
+    "Linux/Autostart in desktop environment",
     "Linux/14. The easiest way to install DWM - FAUN - Developer Community/The easiest way to install DWM - FAUN - Developer Community.md",
     "Linux/13. ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
     "Linux/12. logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1b9f16d8a738b09",
+        "id": "18313f7dce3f1f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "d68054930ca65574",
+            "id": "ac9857af8dbf0edf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
+                "file": "Obsidian/OBSIDIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
+                "file": "Obsidian/OBSIDIAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md"
+                "file": "Obsidian/OBSIDIAN.md"
               }
             }
           }
@@ -161,7 +157,34 @@
   },
   "active": "af8da075c54db084",
   "lastOpenFiles": [
+    "Linux/14. The easiest way to install DWM - FAUN - Developer Community/The easiest way to install DWM - FAUN - Developer Community.md",
+    "Linux/13. ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
+    "Linux/12. logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
+    "Linux/11. 10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
     "Home.md",
+    "Linux/14. The easiest way to install DWM - FAUN - Developer Community",
+    "Linux/13. ssh-gpg-keys/1_HAAISMyZ-_dAU57u9Pak7w (1).png",
+    "Linux/13. ssh-gpg-keys/1Jy6R0-K80tuVLNwtCiwtqw.png",
+    "Linux/13. ssh-gpg-keys",
+    "Linux/12. logout de/imgs/mate-logout.webp",
+    "Linux/12. logout de/imgs/lxqt-logout.webp",
+    "Linux/12. logout de/imgs/kde5-logoutcommand.webp",
+    "Linux/12. logout de/imgs/gnome-quit.webp",
+    "Linux/12. logout de/imgs/cinnamon-quit.webp",
+    "Linux/12. logout de/imgs/17cbbfc4de65d8007b22fba4b0d38b93.jpeg",
+    "Linux/12. logout de/imgs",
+    "Linux/12. logout de",
+    "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
+    "Linux/11. 10 Linux basic commands the everyone should know/image.jpeg",
+    "Linux/11. 10 Linux basic commands the everyone should know",
+    "Linux/The easiest way to install DWM - FAUN - Developer Community/The easiest way to install DWM - FAUN - Developer Community.md",
+    "Linux/The easiest way to install DWM - FAUN - Developer Community",
+    "Linux/New folder",
+    "Linux/The easiest way to install DWM - FAUN - Developer Community.md",
+    "Linux/The easiest way to install DWM!!  FAUN — Developer Community 🐾.md",
+    "Linux/ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
+    "Linux/ssh-gpg-keys/1_HAAISMyZ-_dAU57u9Pak7w (1).png",
+    "Linux/ssh-gpg-keys",
     "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md"
   ]
 }

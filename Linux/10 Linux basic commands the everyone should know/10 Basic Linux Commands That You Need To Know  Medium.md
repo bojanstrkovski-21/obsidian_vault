@@ -4,9 +4,8 @@ tags: []
 source: https://medium.com/@Prinux/10-basic-linux-commands-that-you-need-to-know-50bdecf5a985
 author: Prinux
 ---
-
+![[image.jpeg]]
 # 10 Basic Linux Commands That You Need To Know | Medium
-
 
 
 ## 1\. cd

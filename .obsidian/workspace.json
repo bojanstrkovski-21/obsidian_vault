@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md",
+                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md",
+                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md",
+                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md"
+                "file": "Linux/10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d68054930ca65574",
+  "active": "af8da075c54db084",
   "lastOpenFiles": [
-    "Home.md"
+    "Home.md",
+    "Linux/03. Logging/01. Linux Logging Complete Guide – devconnected.md"
   ]
 }

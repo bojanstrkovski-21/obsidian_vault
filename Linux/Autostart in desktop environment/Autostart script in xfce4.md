@@ -19,3 +19,16 @@ Type=Application
 Terminal=false  
 StartupNotify=false  
 Hidden=false  
+
+
+startxfce4
+
+The startxfce4 is a convenient script to start an Xfce 4 session from the console. It will give you a session with a taskbar and a panel and with the desktop manager and window manager running.
+
+All programs, or symbolic links to programs, in ~/Desktop/Autostart/ will be run by startxfce4 on startup.
+
+To customize the behaviour of startxfce4, copy the file ${sysconfdir}/xfce4/xinitrc to your personal ~/.config/xfce4/ directory and edit that file. If you install from source, ${sysconfdir} defaults to /usr/local/etc; for binary packages it is often set to /etc.
+
+With the inclusion of a session manager in Xfce 4.2, the preferred way to change startup behaviour is by using the "Save session" option in the logout dialog.
+
+Or you can use the `xfce4-autostart-editor` program.

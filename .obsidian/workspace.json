@@ -1,20 +1,33 @@
 {
   "main": {
-    "id": "1466818ade40d475",
+    "id": "ca7b8c9ceee00056",
     "type": "split",
     "children": [
       {
+
         "id": "60c304b97358904a",
         "type": "tabs",
         "children": [
           {
             "id": "e27d62c804730f45",
+
+        "id": "3545406504899f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0814ce2d19d7af36",
+
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+
                 "file": "Home.md",
                 "mode": "preview",
+
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
+                "mode": "source",
+
                 "source": false
               }
             }
@@ -25,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "97d5cbdf5205cf08",
+    "id": "065afcf0286f8b5a",
     "type": "split",
     "children": [
       {
-        "id": "73b3a84e24e46a5f",
+        "id": "caed89a3da742891",
         "type": "tabs",
         "children": [
           {
-            "id": "4407d55c4ab7565c",
+            "id": "979997a9a23a1a2f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "c2dfe15ec8a977c9",
+            "id": "20c04ca582ee1030",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +71,7 @@
             }
           },
           {
-            "id": "7962b89427b62909",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "9129a3d614504dbb",
+            "id": "494cb39d471132ee",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +82,31 @@
       }
     ],
     "direction": "horizontal",
+
     "width": 200
+
+    "width": 300
+
   },
   "right": {
-    "id": "71b3c5d3c756b701",
+    "id": "b1a2b58118d2c596",
     "type": "split",
     "children": [
       {
-        "id": "d0de6ba25424affd",
+        "id": "118f39b9abdd7928",
         "type": "tabs",
         "children": [
           {
-            "id": "40701e1d7c18e73c",
+            "id": "db03f156a758cdeb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+
                 "file": "Home.md",
-                "collapseAll": false,
+
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
+
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -105,27 +117,23 @@
             }
           },
           {
-            "id": "f26a6742b0e4fab2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7db1e9e6df71621",
+            "id": "1380ac6976eda490",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
-              "state": {
-                "file": "Home.md",
+
+                 "state": {
+            "file": "Home.md",
+
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b7ffe3ec30f7c43e",
+            "id": "1e306df120f72103",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,6 +144,7 @@
             }
           },
           {
+
             "id": "eaaa11f3f66de740",
             "type": "leaf",
             "state": {
@@ -147,6 +156,9 @@
           },
           {
             "id": "e7e37994a3200c9c",
+
+            "id": "f420e177cf37efad",
+
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,24 +168,36 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "2056ad057840d643",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
+
   "active": "e27d62c804730f45",
   "lastOpenFiles": [
     "Linux/ssh-gpg-keys/1_HAAISMyZ-_dAU57u9Pak7w (1).png",
@@ -221,5 +245,12 @@
     "Linux/LINUX_SCRIPT/Qprocess-links-web.md",
     "images",
     "Obsidian"
+  "active": "0814ce2d19d7af36",
+  "lastOpenFiles": [
+    "Linux/11. Neovim prepare and install/1. Prerequisites.md",
+    "Linux/11. Neovim prepare and install/Neovim-preparation-required-stuf.md",
+    "Linux/11. Neovim prepare and install/Vim Commands.md",
+    "Home.md"
+
   ]
 }

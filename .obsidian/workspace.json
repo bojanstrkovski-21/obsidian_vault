@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Autostart in desktop environment/Autostart script in xfce4.md"
+                "file": "Home.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "ac9857af8dbf0edf",
   "lastOpenFiles": [
+    "Linux/15. LINUX_SCRIPT/netstart/net-start_default.service.md",
+    "Linux/15. LINUX_SCRIPT/netstart/net-start_default.md",
+    "Home.md",
     "Obsidian/OBSIDIAN.md",
     "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
     "Linux/Autostart in desktop environment",
@@ -168,7 +171,6 @@
     "Linux/13. ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
     "Linux/12. logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",
     "Linux/11. 10 Linux basic commands the everyone should know/10 Basic Linux Commands That You Need To Know  Medium.md",
-    "Home.md",
     "Linux/14. The easiest way to install DWM - FAUN - Developer Community",
     "Linux/13. ssh-gpg-keys/1_HAAISMyZ-_dAU57u9Pak7w (1).png",
     "Linux/13. ssh-gpg-keys/1Jy6R0-K80tuVLNwtCiwtqw.png",

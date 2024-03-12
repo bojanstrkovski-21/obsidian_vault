@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/15. LINUX_SCRIPT/mount ntfs fstab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/15. LINUX_SCRIPT/mount ntfs fstab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/15. LINUX_SCRIPT/mount ntfs fstab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/15. LINUX_SCRIPT/mount ntfs fstab.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "ac9857af8dbf0edf",
   "lastOpenFiles": [
+    "Home.md",
     "Linux/15. LINUX_SCRIPT/netstart/net-start_default.service.md",
     "Linux/15. LINUX_SCRIPT/netstart/net-start_default.md",
-    "Home.md",
     "Obsidian/OBSIDIAN.md",
     "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
     "Linux/Autostart in desktop environment",

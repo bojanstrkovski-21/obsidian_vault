@@ -53,10 +53,10 @@ banner_y: 0
 	- [[37. Linux File Permissions Complete Guide – devconnected|Linux File Permissions Complete Guide]]
 
 # 📺 Bash, Logging, Security
-- 🏡 Remodeling Projects
-	- [[Bathroom Remodel]]
-	- [[Paint entryway]]
-	- [[Research building Garage]] 
+- 🔹 Linux Basics 04
+	- ```
+	- ``
+```
  - ✍️ Writing Projects
 	- [[5 ways to love PKM more]]
 	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)

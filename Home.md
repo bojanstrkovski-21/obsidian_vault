@@ -61,16 +61,15 @@ banner_y: 0
 	- [[05. Advanced Bash Scripting Guide – devconnected|Advanced Bash Scripting Guide – devconnected]]
 	- [[06. Writing Scripts on Linux using Bash – devconnected|Writing Scripts on Linux using Bash – devconnected]]
 
- - ✍️ Writing Projects
-	- [[5 ways to love PKM more]]
-	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
-- 📚 Learning
+- 🔹 Loging, Security-01
+     - [[01. Linux Logging Complete Guide – devconnected]]  
+- 🔹 Security-02
 	- [[Early American History]]
 	- [[Spanish - Entry Level]]
-- ✍️ Writing Projects
+- 🔹 Secirity-03
 	- [[5 ways to love PKM more]]
 	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
-- 📚 Learning
+- 🔹Security-04
 	- [[Early American History]]
 	- [[Spanish - Entry Level]]
 

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "01. Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84262a19d337b36e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Home.md"
               }
             }
           }
@@ -159,17 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5424d88354f9ee4",
+  "active": "84262a19d337b36e",
   "lastOpenFiles": [
+    "02. Bash.md",
+    "01. Basics.md",
     "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
-    "Untitled.md",
     "Home.md",
     "HOME PAGE.md",
     "Linux/15. LINUX_SCRIPT/netstart/net-start_default.service.md",
     "Linux/15. LINUX_SCRIPT/netstart/net-start_default.md",
     "Obsidian/OBSIDIAN.md",
-    "Linux/Autostart in desktop environment/Autostart script in xfce4.md",
-    "Linux/Autostart in desktop environment",
+    "Linux/15. LINUX_SCRIPT/Autostart in desktop environment/Autostart script in xfce4.md",
+    "Linux/15. LINUX_SCRIPT/Autostart in desktop environment",
     "Linux/14. The easiest way to install DWM - FAUN - Developer Community/The easiest way to install DWM - FAUN - Developer Community.md",
     "Linux/13. ssh-gpg-keys/How To Add Your SSH Keys To GitHub  by Prinux  Medium.md",
     "Linux/12. logout de/How to Logout from Gnome,KDE,XFCE,Mate,Cinamon,Lxqt,.md",

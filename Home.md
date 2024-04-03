@@ -52,7 +52,7 @@ banner_y: 0
 	- [[36. Understanding Hard and Soft Links on Linux – devconnected|Understanding Hard and Soft Links on Linux]]
 	- [[37. Linux File Permissions Complete Guide – devconnected|Linux File Permissions Complete Guide]]
 
-# 📺 Bash
+# 📺 Bash, Logging, Security
 - 🏡 Remodeling Projects
 	- [[Bathroom Remodel]]
 	- [[Paint entryway]]

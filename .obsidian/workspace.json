@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "caa23993393525bf",
+        "id": "49bfdf278ab9e4f0",
         "type": "tabs",
         "children": [
           {
-            "id": "c38af192c393f482",
+            "id": "b5424d88354f9ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c38af192c393f482",
+  "active": "b5424d88354f9ee4",
   "lastOpenFiles": [
+    "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
     "Untitled.md",
-    "HOME PAGE.md",
     "Home.md",
+    "HOME PAGE.md",
     "Linux/15. LINUX_SCRIPT/netstart/net-start_default.service.md",
     "Linux/15. LINUX_SCRIPT/netstart/net-start_default.md",
     "Obsidian/OBSIDIAN.md",

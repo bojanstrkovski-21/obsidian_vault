@@ -1,12 +1,10 @@
 ---
+cssclasses:
+  - dashboard
 banner: "![[home.jpg]]"
-banner_y: 0.456
+banner_x: 0.5
+banner_y: 0
 ---
----
-banner: "![[home.jpg]]"
----
------
-
 <div class="title" style="color:Sienna">HOME</div>
 
 # 🐧 Linux Basics

@@ -52,7 +52,7 @@ banner_y: 0
 	- [[36. Understanding Hard and Soft Links on Linux – devconnected|Understanding Hard and Soft Links on Linux]]
 	- [[37. Linux File Permissions Complete Guide – devconnected|Linux File Permissions Complete Guide]]
 
-# 📺 Bash, Logging, Security
+# 📺 Bash, Logging, Security, Tips
 - 🔹 Bash
 	- [[01. Bash If Else Syntax With Examples – devconnected|Bash If Else Syntax With Examples – devconnected]]
 	- [[02. How To Set Environment Variable in Bash – devconnected|How To Set Environment Variable in Bash – devconnected]]

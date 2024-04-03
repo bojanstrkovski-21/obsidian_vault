@@ -53,7 +53,7 @@ banner_y: 0
 	- [[37. Linux File Permissions Complete Guide – devconnected|Linux File Permissions Complete Guide]]
 
 # 📺 Bash, Logging, Security
-- 🔹 Linux Basics 04
+- 🔹 Bash
 	- [[01. Bash If Else Syntax With Examples – devconnected|Bash If Else Syntax With Examples – devconnected]]
 	- [[02. How To Set Environment Variable in Bash – devconnected|How To Set Environment Variable in Bash – devconnected]]
 	- [[03. How To Run a Bash Script – devconnected|How To Run a Bash Script – devconnected]]
@@ -62,6 +62,12 @@ banner_y: 0
 	- [[06. Writing Scripts on Linux using Bash – devconnected|Writing Scripts on Linux using Bash – devconnected]]
 
  - ✍️ Writing Projects
+	- [[5 ways to love PKM more]]
+	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
+- 📚 Learning
+	- [[Early American History]]
+	- [[Spanish - Entry Level]]
+- ✍️ Writing Projects
 	- [[5 ways to love PKM more]]
 	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
 - 📚 Learning

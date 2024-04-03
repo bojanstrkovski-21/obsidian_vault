@@ -54,9 +54,10 @@ banner_y: 0
 
 # 📺 Bash, Logging, Security
 - 🔹 Linux Basics 04
-	- ```
-	- ``
-```
+	- [[01. Bash If Else Syntax With Examples – devconnected]]
+	- [[02. How To Set Environment Variable in Bash – devconnected]]
+	- [[03. How To Run a Bash Script – devconnected]]
+
  - ✍️ Writing Projects
 	- [[5 ways to love PKM more]]
 	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)

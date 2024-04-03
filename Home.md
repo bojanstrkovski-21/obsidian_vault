@@ -61,21 +61,21 @@ banner_y: 0
 	- [[05. Advanced Bash Scripting Guide – devconnected|Advanced Bash Scripting Guide – devconnected]]
 	- [[06. Writing Scripts on Linux using Bash – devconnected|Writing Scripts on Linux using Bash – devconnected]]
 
-- 🔹 Loging, Security-01
+- 🔹 Loging, Security
      - [[01. Linux Logging Complete Guide – devconnected|Linux Logging Complete Guide – devconnected]]
      - [[02. Syslog  The Complete System Administrator Guide – devconnected|Syslog  The Complete System Administrator Guide – devconnected]]
      - [[03. The Definitive Guide to Centralized Logging with Syslog on Linux|The Definitive Guide to Centralized Logging with Syslog on Linux]]
      - [[04. Monitoring Linux Logs with Kibana and Rsyslog – devconnected|Monitoring Linux Logs with Kibana and Rsyslog – devconnected]]
      - [[01. How To Encrypt Partition on Linux – devconnected|How To Encrypt Partition on Linux – devconnected]]
      - [[02. How To Encrypt File on Linux – devconnected|How To Encrypt File on Linux – devconnected]]
-     - 
-- 🔹 Security-02
+     - [[03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected|Single User Mode Secure Boot on Ubuntu & Debian – devconnected]]
+- 🔹 Tips-01
 	- [[Early American History]]
 	- [[Spanish - Entry Level]]
-- 🔹 Secirity-03
+- 🔹 Tips-02
 	- [[5 ways to love PKM more]]
 	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
-- 🔹Security-04
+- 🔹Tips-03
 	- [[Early American History]]
 	- [[Spanish - Entry Level]]
 

@@ -54,9 +54,12 @@ banner_y: 0
 
 # 📺 Bash, Logging, Security
 - 🔹 Linux Basics 04
-	- [[01. Bash If Else Syntax With Examples – devconnected]]
-	- [[02. How To Set Environment Variable in Bash – devconnected]]
-	- [[03. How To Run a Bash Script – devconnected]]
+	- [[01. Bash If Else Syntax With Examples – devconnected|Bash If Else Syntax With Examples – devconnected]]
+	- [[02. How To Set Environment Variable in Bash – devconnected|How To Set Environment Variable in Bash – devconnected]]
+	- [[03. How To Run a Bash Script – devconnected|How To Run a Bash Script – devconnected]]
+	- [[04. How To Check If File or Directory Exists in Bash – devconnected|How To Check If File or Directory Exists in Bash – devconnected]]
+	- [[05. Advanced Bash Scripting Guide – devconnected|Advanced Bash Scripting Guide – devconnected]]
+	- [[06. Writing Scripts on Linux using Bash – devconnected|Writing Scripts on Linux using Bash – devconnected]]
 
  - ✍️ Writing Projects
 	- [[5 ways to love PKM more]]

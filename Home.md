@@ -62,7 +62,13 @@ banner_y: 0
 	- [[06. Writing Scripts on Linux using Bash – devconnected|Writing Scripts on Linux using Bash – devconnected]]
 
 - 🔹 Loging, Security-01
-     - [[01. Linux Logging Complete Guide – devconnected]]  
+     - [[01. Linux Logging Complete Guide – devconnected|Linux Logging Complete Guide – devconnected]]
+     - [[02. Syslog  The Complete System Administrator Guide – devconnected|Syslog  The Complete System Administrator Guide – devconnected]]
+     - [[03. The Definitive Guide to Centralized Logging with Syslog on Linux|The Definitive Guide to Centralized Logging with Syslog on Linux]]
+     - [[04. Monitoring Linux Logs with Kibana and Rsyslog – devconnected|Monitoring Linux Logs with Kibana and Rsyslog – devconnected]]
+     - [[01. How To Encrypt Partition on Linux – devconnected|How To Encrypt Partition on Linux – devconnected]]
+     - [[02. How To Encrypt File on Linux – devconnected|How To Encrypt File on Linux – devconnected]]
+     - 
 - 🔹 Security-02
 	- [[Early American History]]
 	- [[Spanish - Entry Level]]

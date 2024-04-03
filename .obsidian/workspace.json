@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "574dab1ce32a3219",
+            "id": "c4a2ac59f92439b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Loging.md",
+                "file": "04. Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,8 +186,9 @@
   },
   "active": "84262a19d337b36e",
   "lastOpenFiles": [
-    "03. Loging.md",
+    "04. Security.md",
     "Home.md",
+    "03. Loging.md",
     "02. Bash.md",
     "01. Basics.md",
     "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",

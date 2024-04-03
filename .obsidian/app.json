@@ -7,5 +7,7 @@
   },
   "showLineNumber": true,
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "foldIndent": true
 }

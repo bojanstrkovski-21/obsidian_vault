@@ -71,8 +71,18 @@ banner_y: 0
      - [[03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected|Single User Mode Secure Boot on Ubuntu & Debian – devconnected]]
 - 🔹 Monitoring
   - 01. Grafana
-   
+ ```dataview
+ List from "Linux/06. Monitoring/01. Grafana"
+```
 
+- Influxdb
+```dataview
+List from "Linux/06. Monitoring/02. Influxdb"
+```
+- Kibana
+```dataview
+List from "Linux/06. Monitoring/04. Prometheus"
+```
 # Tips
 ```dataview
 List from "Linux/05. Tips"

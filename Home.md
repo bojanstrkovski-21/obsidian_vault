@@ -70,6 +70,14 @@ banner_y: 0
      - [[02. How To Encrypt File on Linux – devconnected|How To Encrypt File on Linux – devconnected]]
      - [[03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected|Single User Mode Secure Boot on Ubuntu & Debian – devconnected]]
 
+🔹 Loging
+```dataview
+List from "Linux/03. Logging"
+```
+🔹 Security
+```dataview
+List from "Linux/04. Security"
+```
 
 🔹 Monitoring
 - 01. Grafana

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Linux/01. Basics/01. How To Flush DNS Cache on Linux – devconnected.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "e215b92c9f51777d",
   "lastOpenFiles": [
-    "04. Security.md",
     "Home.md",
+    "04. Security.md",
     "03. Loging.md",
     "02. Bash.md",
     "01. Basics.md",

@@ -20,9 +20,9 @@ List from "Linux/10. Rsync tutorial"
 List from "Linux/11. 10 Linux basic commands that everyone should know"
 ```
 
-# 🐧 Git
+# 🐧 Neovim
 ```dataview
-list from "Linux/07. Git"
+list from "Linux/11. Neovim prepare and install"
 ```
 
 

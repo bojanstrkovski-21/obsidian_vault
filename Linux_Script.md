@@ -25,7 +25,24 @@ List from "Linux/11. 10 Linux basic commands that everyone should know"
 list from "Linux/11. Neovim prepare and install"
 ```
 
+# 🐧 How to logout from de
+```dataview
+list from "Linux/12. logout de"
+```
+# 🐧 SSH-GPG keys
+```dataview
+list from "Linux/13. ssh-gpg-keys"
+```
 
+# 🐧The easiest way to install dwm
+```dataview
+list from "Linux/14. The easiest way to install DWM - FAUN - Developer Community"
+```
+
+# 🐧The easiest way to install dwm
+```dataview
+list from "Linux/14. The easiest way to install DWM - FAUN - Developer Community"
+```
 # 🐧 Vault Info
 - 🗄️ Recent file updates
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`

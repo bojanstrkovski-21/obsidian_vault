@@ -70,13 +70,8 @@ banner_y: 0
      - [[02. How To Encrypt File on Linux – devconnected|How To Encrypt File on Linux – devconnected]]
      - [[03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected|Single User Mode Secure Boot on Ubuntu & Debian – devconnected]]
 - 🔹 Monitoring
-	- 
-- 🔹 Tips-02
-	- [[5 ways to love PKM more]]
-	- Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
-- 🔹Tips-03
-	- [[Early American History]]
-	- [[Spanish - Entry Level]]
+  - 01. Grafana
+   
 
 # Tips
 ```dataview

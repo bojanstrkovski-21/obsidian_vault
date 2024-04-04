@@ -40,14 +40,34 @@ list from "Linux/14. The easiest way to install DWM - FAUN - Developer Commu
 ```
 
 # 🐧Linux_Scripts_Other
-🔹 Security
+🔹 Autostart in desktop environment
 ```dataview
 List from "Linux/15. LINUX_SCRIPT/Autostart in desktop environment"
 ```
 
-🔹 Security
+🔹Bluetooth
 ```dataview
-list from "Linux/LINUX_SCRIPT/app list"
+list from "Linux/15. LINUX_SCRIPT/bluetooth"
+```
+
+🔹 Gtk_css_xfce4_panel
+```dataview
+list from "Linux/15. LINUX_SCRIPT/gtk_css_xfce4-panel"
+```
+
+🔹 NetStart
+```dataview
+list from "Linux/15. LINUX_SCRIPT/netstart"
+```
+
+🔹 Samba Config
+```dataview
+list from "Linux/15. LINUX_SCRIPT/SAMBA config"
+```
+
+🔹 Gtk_css_xfce4_panel
+```dataview
+list from "Linux/15. LINUX_SCRIPT/gtk_css_xfce4-panel"
 ```
 # 🐧 Vault Info
 - 🗄️ Recent file updates

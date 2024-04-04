@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49bfdf278ab9e4f0",
+        "id": "c08abdc836ed1a77",
         "type": "tabs",
         "children": [
           {
-            "id": "84262a19d337b36e",
+            "id": "e215b92c9f51777d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84262a19d337b36e",
+  "active": "e215b92c9f51777d",
   "lastOpenFiles": [
     "04. Security.md",
     "Home.md",

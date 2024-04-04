@@ -65,9 +65,25 @@ list from "Linux/15. LINUX_SCRIPT/netstart"
 list from "Linux/15. LINUX_SCRIPT/SAMBA config"
 ```
 
-🔹 Gtk_css_xfce4_panel
+🔹 SparkLines-Fish-Shell
 ```dataview
-list from "Linux/15. LINUX_SCRIPT/gtk_css_xfce4-panel"
+list from "Linux/15. LINUX_SCRIPT/Sparklines_fish"
+```
+
+🔹 Vbox
+```dataview
+list from "Linux/15. LINUX_SCRIPT/vbox"
+```
+
+🔹 Vim Commands
+```dataview
+list from "Linux/15. LINUX_SCRIPT/VIM commands"
+```
+
+🔹 Linux_Script_other...
+```dataview
+list from "Linux/15. LINUX_SCRIPT/"
+where app 
 ```
 # 🐧 Vault Info
 - 🗄️ Recent file updates

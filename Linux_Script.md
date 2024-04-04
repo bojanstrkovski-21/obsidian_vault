@@ -82,8 +82,7 @@ list from "Linux/15. LINUX_SCRIPT/VIM commands"
 
 🔹 Linux_Script_other...
 ```dataview
-list from "Linux/15. LINUX_SCRIPT/"
-WHERE folder.lists != LINUX_SCRIPT
+list where file.folder = "Linux/15. LINUX_SCRIPT"
 ```
 # 🐧 Vault Info
 - 🗄️ Recent file updates

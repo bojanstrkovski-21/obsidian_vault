@@ -39,9 +39,15 @@ list from "Linux/13. ssh-gpg-keys"
 list from "Linux/14. The easiest way to install DWM - FAUN - Developer Community"
 ```
 
-# 🐧The easiest way to install dwm
+# 🐧Linux_Scripts_Other
+🔹 Security
 ```dataview
-list from "Linux/14. The easiest way to install DWM - FAUN - Developer Community"
+List from "Linux/15. LINUX_SCRIPT/Autostart in desktop environment"
+```
+
+🔹 Security
+```dataview
+list from "Linux/LINUX_SCRIPT/app list"
 ```
 # 🐧 Vault Info
 - 🗄️ Recent file updates

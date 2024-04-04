@@ -5,7 +5,7 @@ banner: "![[home.jpg]]"
 banner_x: 0.5
 banner_y: 0
 ---
-<div class="title" style="color:SkyBlue">D A S H B O A R D</div>
+<div class="title" style="color:SkyBlue">LINUX_SCRIPT D A S H B O A R D</div>
 
 # 🐧 Linux Basics
 ```dataview

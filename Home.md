@@ -69,8 +69,10 @@ banner_y: 0
      - [[01. How To Encrypt Partition on Linux – devconnected|How To Encrypt Partition on Linux – devconnected]]
      - [[02. How To Encrypt File on Linux – devconnected|How To Encrypt File on Linux – devconnected]]
      - [[03. Single User Mode Secure Boot on Ubuntu & Debian – devconnected|Single User Mode Secure Boot on Ubuntu & Debian – devconnected]]
-- 🔹 Monitoring
-  - 01. Grafana
+
+
+🔹 Monitoring
+- 01. Grafana
  ```dataview
  List from "Linux/06. Monitoring/01. Grafana"
 ```
@@ -88,21 +90,11 @@ List from "Linux/06. Monitoring/04. Prometheus"
 List from "Linux/05. Tips"
 ```
 
-# Work
-- 💼 Projects
-	- [[Cloud backup]]
-	- [[Firewall upgrades]]
-	- [[IT Cybersecurity training]]
-- 💰 Budget review
-	- [[Q1 2022]]
-	- [[Q2 2022]]
-	- [[Q3 2022]]
-	- [[Q4 2022]]
-- 👥 Personnel Review
-	- [[Sally Smith]]
-	- [[Bill Hansen]]
-	- [[Brad Jefferson]]
-	- [[Olga Olson]]
+# Git
+```dataview
+list from "Linux/07. Git"
+```
+
 
 # Vault Info
 - 🗄️ Recent file updates

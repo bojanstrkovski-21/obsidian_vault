@@ -7,42 +7,17 @@ banner_y: 0
 ---
 <div class="title" style="color:SkyBlue">LINUX_SCRIPT D A S H B O A R D</div>
 
-# 🐧 Linux Basics
+# 🐧 Left-WM
 ```dataview
-List from "Linux/01. Basics"
+List from "Linux/09. Leftwm"
 ```
-# 🐧 Bash, Logging, Security
-🔹 Bash
+# 🐧 Rsync
 ```dataview
-List from "Linux/02. Bash"
+List from "Linux/10. Rsync tutorial"
 ```
-
-🔹 Loging
+# 🐧 10 Basic Linux Commands that everyone should know
 ```dataview
-List from "Linux/03. Logging"
-```
-🔹 Security
-```dataview
-List from "Linux/04. Security"
-```
-
-🔹 Monitoring
-- Grafana
- ```dataview
- List from "Linux/06. Monitoring/01. Grafana"
-```
-
-- Influxdb
-```dataview
-List from "Linux/06. Monitoring/02. Influxdb"
-```
-- Kibana
-```dataview
-List from "Linux/06. Monitoring/04. Prometheus"
-```
-# 🐧 Tips
-```dataview
-List from "Linux/05. Tips"
+List from "Linux/11. 10 Linux basic commands that everyone should know"
 ```
 
 # 🐧 Git

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abeb41cb2bc1f419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux_Script.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f4a79bf9f157cd9e",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_Script.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux_Script.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Script.md"
+                "file": "Home.md"
               }
             }
           }
@@ -171,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abeb41cb2bc1f419",
+  "active": "f4a79bf9f157cd9e",
   "lastOpenFiles": [
-    "Linux/15. LINUX_SCRIPT/Viber wont Start.md",
+    "Linux/15. LINUX_SCRIPT/Untitled.md",
+    "Home.md",
     "Linux_Script.md",
+    "Linux/15. LINUX_SCRIPT/Viber wont Start.md",
     "Linux/15. LINUX_SCRIPT/tint2/menu.png",
     "Linux/15. LINUX_SCRIPT/tint2/session.png",
-    "Home.md",
     "04. Security.md",
     "03. Loging.md",
     "02. Bash.md",

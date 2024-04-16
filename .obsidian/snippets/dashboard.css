@@ -1,6 +1,5 @@
-/* Updated 2023-08-07 */
-
 .dashboard {
+    font-family: inherit;
     padding-left: 25px !important;
     padding-right: 25px !important;
     padding-top: 20px !important;
@@ -50,7 +49,7 @@ div.markdown-preview-section > div > ul.has-list-bullet > li {
 
 .dashboard div > ul > li {
     min-width: 250px;
-    width: 20%;
+    width: 15%;
 }
 
 /* Dataview support */
@@ -58,5 +57,3 @@ div.markdown-preview-section > div > ul.has-list-bullet > li {
     row-gap: 0px !important;
     list-style-type: disc !important;
 }
-
-
